@@ -1,0 +1,5009 @@
+1
+00:00:22,080 --> 00:00:24,320
+L'homme fabrique des choses
+
+2
+00:00:24,320 --> 00:00:28,320
+depuis environ 1,76 millions d'années.
+
+3
+00:00:30,640 --> 00:00:33,720
+Nous sommes pris
+entre deux forces opposées.
+
+4
+00:00:33,720 --> 00:00:36,280
+Notre envie de produire
+de plus en plus de choses
+
+5
+00:00:36,280 --> 00:00:38,360
+dans lesquelles nous nous noyons littéralement, 
+
+6
+00:00:38,360 --> 00:00:41,880
+mais il y a aussi notre capacité humaine 
+à créer des choses. 
+
+7
+00:00:45,280 --> 00:00:49,560
+Nous sommes plus 
+que de simple consommateurs. 
+
+8
+00:00:49,560 --> 00:00:52,200
+Nous avons oublié d'être des créateurs. 
+
+9
+00:00:52,200 --> 00:00:55,720
+Vous savez à l'époque les gens 
+savaient comment fabriquer ou réparer les choses.
+
+10
+00:01:00,080 --> 00:01:02,840
+Le matin il y avait 
+un tas de billes de plastique
+
+11
+00:01:02,840 --> 00:01:05,160
+et l'après-midi 
+il y avait un grille pain. 
+
+12
+00:01:05,160 --> 00:01:06,000
+Et je l'ai fait. 
+
+13
+00:01:06,000 --> 00:01:08,000
+Et ce ne serait pas arrivée
+sans moi.
+
+14
+00:01:12,120 --> 00:01:16,880
+Ca c'est un de ces trucs à pizza 
+qu'ils ont dans les pizza.
+
+15
+00:01:16,880 --> 00:01:21,160
+Ca c'est un stylo cassé
+et ça je ne sais pas ce que c'est.
+
+16
+00:01:21,160 --> 00:01:22,760
+Ca c'était l'arrière d'un moteur.
+
+17
+00:01:22,760 --> 00:01:23,560
+Oh.
+
+18
+00:01:24,320 --> 00:01:26,440
+Je ne vais pas prendre le monde
+
+19
+00:01:26,440 --> 00:01:27,760
+pour quelque chose qu'on peut acheter, 
+
+20
+00:01:27,760 --> 00:01:29,880
+Je vais le prendre 
+pour quelque chose qu'on peut faire –
+
+21
+00:01:30,560 --> 00:01:32,720
+voilà la philosophie maker.
+
+22
+00:02:02,720 --> 00:02:07,160
+Les enfants ! 
+L'OVIN officiel de la Maker Faire. 
+
+23
+00:02:07,160 --> 00:02:09,640
+We put the U in UFO.
+
+24
+00:02:09,640 --> 00:02:11,440
+En fait 
+nous mettons vos enfants dans l’engin. 
+
+25
+00:02:11,440 --> 00:02:15,080
+parce que c'est sans garantie, pas de minimum, 
+pas d'adultes. 
+
+26
+00:02:15,080 --> 00:02:19,720
+Vous devez avoir cette taille
+pour monter à bord.
+
+27
+00:02:20,880 --> 00:02:24,160
+Montre l'exemple. 
+Vous devez avoir cette taille, comme ça. 
+
+28
+00:02:24,160 --> 00:02:24,960
+C'est tout.
+
+29
+00:02:27,640 --> 00:02:31,240
+Quand les enfants voient quelqu'un
+faire quelque chose de cool, 
+
+30
+00:02:31,240 --> 00:02:32,640
+ils l'envient. 
+
+31
+00:02:33,200 --> 00:02:37,800
+Il y a toute une panoplie de petits détails 
+qui laissent penser aux enfants 
+
+32
+00:02:37,800 --> 00:02:41,320
+que fabriquer des choses est bien. 
+
+33
+00:02:41,320 --> 00:02:43,880
+Et je pense que ça va devenir 
+l'héritage 
+
+34
+00:02:43,880 --> 00:02:45,560
+de make magazine et de la Maker Faire, 
+
+35
+00:02:45,560 --> 00:02:48,520
+que nous ayons créer 
+une nouvelle génération de makers.
+
+36
+00:02:49,440 --> 00:02:52,800
+Dale avait cette idée géniale 
+qu'il m'a présenté en 2004
+
+37
+00:02:52,800 --> 00:02:56,480
+à l'arrière de notre taxi
+à notre convention sur l'open source, 
+
+38
+00:02:56,480 --> 00:02:58,800
+et je lui ai répondu que ça avait l'air d'être une excellente idée, 
+lançons nous. 
+
+39
+00:03:01,360 --> 00:03:03,880
+Le DIY est quelque chose qui se fait à la maison. 
+
+40
+00:03:03,880 --> 00:03:06,000
+Ca a été invisible.
+
+41
+00:03:06,440 --> 00:03:08,680
+Aujourd'hui, la Maker Faire aide à tout changer.
+
+42
+00:03:09,880 --> 00:03:13,720
+Vous verrez bien plus 
+que ce à quoi vous vous attendiez.
+
+43
+00:03:13,720 --> 00:03:16,400
+Voir les gens créer de vrais objets, 
+
+44
+00:03:16,400 --> 00:03:18,560
+en opposition aux objets virtuels.
+
+45
+00:03:18,560 --> 00:03:21,160
+Nous voulons "hacker" ce monde physique
+de la manière 
+
+46
+00:03:21,160 --> 00:03:23,480
+que nous avons l'habitude 
+de "hacker" l'informatique.
+
+47
+00:03:23,480 --> 00:03:25,520
+Cette chose extraordinaire qu'a fait Dale
+
+48
+00:03:25,520 --> 00:03:29,280
+où a-t-il dit, être un maker est 
+de ne pas voir le monde comme nous il nous l'est donné à voir.
+
+49
+00:03:29,280 --> 00:03:32,280
+C'est –
+tu vois, ça me donne une identité. 
+
+50
+00:03:32,920 --> 00:03:36,520
+J'ai commencé avec rien
+ou avec un peu de matériel.
+
+51
+00:03:36,520 --> 00:03:39,600
+et j'ai fini avec une chose
+disons que c'était un fusée. 
+
+52
+00:03:39,600 --> 00:03:42,800
+Et la fusée s'envola dans le ciel, 
+et boom, 
+
+53
+00:03:42,800 --> 00:03:43,840
+J'avais fait ça.
+
+54
+00:03:44,160 --> 00:03:45,560
+Les gens qui font des projets fous – 
+
+55
+00:03:45,560 --> 00:03:49,440
+utiliser un vieil appareil photo
+sur une voile de kite-surf pour de la photographie aérienne.
+
+56
+00:03:49,440 --> 00:03:53,000
+Un type a construit un distributeur de nourriture 
+pour son chat à partir d'un vieux lecteur de cassette.
+
+57
+00:03:53,000 --> 00:03:56,080
+Voilà le genre de projets auxquels 
+on s'intéresse chez make magazine –
+
+58
+00:03:56,080 --> 00:03:59,200
+Dale l'appelait technologie sur son temps libre. 
+
+59
+00:03:59,200 --> 00:04:02,920
+Il avait un slogan :
+si tu ne peux pas l'ouvrir, ça ne t'appartient pas. 
+
+60
+00:04:12,600 --> 00:04:16,200
+Quand j'étais très jeune
+j'étais fou d'animation.
+
+61
+00:04:16,800 --> 00:04:19,440
+Mais je me suis retrouvé plus à l'aise
+en sculpture
+
+62
+00:04:19,440 --> 00:04:22,040
+parce que j'ai, j'ai réalisé que 
+pour ma personnalité, 
+
+63
+00:04:22,040 --> 00:04:25,960
+l'énergie et le temps que demandé
+pour faire bouger quelque chose
+
+64
+00:04:25,960 --> 00:04:28,600
+était environ le même que l'énergie
+et le temps demandé 
+
+65
+00:04:28,600 --> 00:04:30,560
+pour faire une animation.
+
+66
+00:04:30,560 --> 00:04:31,840
+Donc toutes ces choses sont juste
+
+67
+00:04:31,840 --> 00:04:35,520
+en quelque sorte des boucles fermées
+d'un fragment d'histoire. 
+
+68
+00:04:35,520 --> 00:04:38,360
+Je ne peux jamais vraiment
+faire l'histoire en entier.
+
+69
+00:04:38,360 --> 00:04:42,280
+mais je me satisfait 
+en faisant des histoires indépendantes. 
+
+70
+00:04:51,920 --> 00:04:54,840
+J'ai eu beaucoup de chance
+avec craigslist et, 
+
+71
+00:04:54,840 --> 00:04:56,720
+tu sais, de l'occasion.
+
+72
+00:04:56,720 --> 00:04:58,560
+Ces trucs sont tous à jeter à la poubelle. 
+
+73
+00:04:58,560 --> 00:05:01,560
+Si ce n'est pas ranger de manière 
+à ce que ça crée du sens pour moi, 
+
+74
+00:05:01,560 --> 00:05:03,920
+alors je ne fais qu'entreposer des déchets.
+
+75
+00:05:03,920 --> 00:05:06,640
+Si les choses ont leur place, 
+et je sais où ils sont, 
+
+76
+00:05:06,640 --> 00:05:09,760
+alors ceci est un stock de précieux matériel.
+
+77
+00:05:09,760 --> 00:05:11,480
+Ces choses sont des trésors pour moi,
+
+78
+00:05:11,480 --> 00:05:14,440
+mais pas si je ne peux pas y avoir accès
+et me souvenir où ils sont.
+
+79
+00:05:15,240 --> 00:05:16,760
+Mais ça me fait quand même plaisir 
+
+80
+00:05:16,760 --> 00:05:21,880
+simplement d'être en mesure d'avoir 
+ce grand magasin de vieux machins.
+
+81
+00:05:35,000 --> 00:05:37,960
+Nous devons nous assurer qu'ils 
+ne bougent pas 
+
+82
+00:05:37,960 --> 00:05:40,640
+ou ils vont 
+se frapper la tête.
+
+83
+00:05:50,920 --> 00:05:54,400
+Je me suis retrouvé
+dans un entre-deux intéressant
+
+84
+00:05:54,400 --> 00:05:57,120
+entre le mouvement des makers
+et le monde de l'art.
+
+85
+00:05:57,120 --> 00:05:59,480
+Ca intéresse 
+la majorité des gens,
+
+86
+00:05:59,480 --> 00:06:02,440
+mais ils veulent savoir à quoi ça sert.
+
+87
+00:06:03,160 --> 00:06:05,720
+Si vous vous demandez à quoi sert l'art, 
+
+88
+00:06:05,720 --> 00:06:09,640
+alors il y a des chances que vous n'ayez jamais besoin d'art
+chez vous.
+
+89
+00:06:09,640 --> 00:06:11,480
+Si vous n'êtes pas habitué à l'art, 
+
+90
+00:06:11,480 --> 00:06:14,320
+vous devez découvrir 
+ce qu'il peut arriver 
+
+91
+00:06:14,320 --> 00:06:19,040
+lorsque quelqu'un se laisse 
+vraiment aller à son imagination.
+
+92
+00:06:21,920 --> 00:06:23,720
+Dans les années 50, il y'avait beaucoup
+
+93
+00:06:23,720 --> 00:06:27,760
+- disons - de bricolage 
+et existait de manière isolée.
+
+94
+00:06:27,760 --> 00:06:29,840
+Par exemple des phrases 
+comme "the lone tinkerer"
+
+
+95
+00:06:29,840 --> 00:06:32,320
+dans son garage en train de bricoler
+
+96
+00:06:32,320 --> 00:06:34,640
+et personne ne sait vraiment 
+ce qu'il fait. 
+
+97
+00:06:34,640 --> 00:06:36,800
+Mais je pense qu'aujourd'hui
+on voit un bricoleur plus social, 
+
+98
+00:06:36,800 --> 00:06:41,040
+qui représente un archétype différent
+d'une personne qui fait 
+
+99
+00:06:41,040 --> 00:06:44,640
+et qui le communique avec d'autres.
+
+100
+00:06:59,640 --> 00:07:01,280
+Un petit objet qui fait de drôles de bruits,
+
+101
+00:07:01,280 --> 00:07:04,080
+qui a des boutons
+pour régler le son.
+
+102
+00:07:08,000 --> 00:07:11,840
+Vous savez de différentes manières
+un bon projet de fabrication 
+
+103
+00:07:11,840 --> 00:07:13,680
+a ces qualités, 
+
+104
+00:07:13,680 --> 00:07:16,880
+vous fabriquez quelque chose
+mais vous pouvez jouer avec, 
+
+105
+00:07:16,880 --> 00:07:18,640
+et ça interagit avec vous après l'avoir construit,
+
+106
+00:07:18,640 --> 00:07:22,160
+ce ne pas simplement quelque chose que vous fabriquez
+et posez sur une étagère.
+
+107
+00:07:22,160 --> 00:07:25,360
+Vous, vous vous baladez avec, 
+dites écoutes ça ! 
+
+108
+00:07:25,360 --> 00:07:26,520
+Et une des réponses 
+
+109
+00:07:26,520 --> 00:07:28,160
+pourrait bien être
+"Hey où as-tu trouvé ça ?"
+
+110
+00:07:28,160 --> 00:07:31,200
+Et bien, fais le toi-même, et voici 
+les instructions pour le faire. 
+
+111
+00:07:36,000 --> 00:07:41,120
+Alors, um, ça c'est une bobine tesla
+and en voici une plus petite.
+
+112
+00:07:41,120 --> 00:07:45,560
+Um, nous menons un projet bobine tesla
+dans le magasine qui se trouve derrière vous.
+
+113
+00:07:45,560 --> 00:07:48,360
+Alors c'est un jouet, à l'intérieur,
+
+114
+00:07:48,360 --> 00:07:53,880
+Là, je ne peux pas l'ouvrir
+mais c'est une carte arduino qui le contrôle.
+
+115
+00:07:53,880 --> 00:07:57,560
+Et ensuite nous avons un capteur de mouvement
+je crois qu'ils l'ont cassé
+
+116
+00:07:57,560 --> 00:08:01,720
+Oui, l'idée 
+que le singe joue des cimbales
+
+117
+00:08:01,720 --> 00:08:03,000
+et effraie le chat.
+
+118
+00:08:03,000 --> 00:08:03,880
+Et voilà. 
+
+119
+00:08:20,480 --> 00:08:22,560
+Heureux de te voir,
+merci d'être venu.
+
+120
+00:08:22,560 --> 00:08:23,960
+Je suis content que tu sois là. 
+
+121
+00:08:30,360 --> 00:08:33,760
+donc je suis Sylvia ou super awesome Sylvia. 
+
+122
+00:08:33,760 --> 00:08:35,360
+Je viens d'Albourne en Californie. 
+
+123
+00:08:35,360 --> 00:08:37,960
+et je produis 
+Sylvia’s super awesome Maker show.
+
+124
+00:08:37,960 --> 00:08:43,280
+Um, j'étais vraiment très intéressée et curieuse 
+de comprendre comment fonctionnent les choses quand j'avais cinq ans. 
+
+125
+00:08:43,280 --> 00:08:47,560
+Um, nous sommes allés à la maker faire et mon père 
+et ma famille étaient très motivés
+
+126
+00:08:47,560 --> 00:08:49,560
+de voir à quel point c'était familial 
+
+127
+00:08:49,560 --> 00:08:54,160
+et à quel point le mouvement maker était extraordinaire
+et à quel point il était éducatif.
+
+128
+00:08:54,160 --> 00:08:56,440
+J'ai appris à soudre à l'âge de sept ans, 
+
+129
+00:08:56,440 --> 00:09:00,640
+quand j'ai eu huit ans l'entreprise Make 
+voulais que je fasse une émission pour eux
+
+130
+00:09:00,640 --> 00:09:02,960
+et je fais ça depuis.
+
+131
+00:09:02,960 --> 00:09:06,480
+Bienvenue à Super awesome 
+Sylvia's maker show. Episode 3.
+
+132
+00:09:06,480 --> 00:09:09,960
+Avant de commencer, 
+débarrassons-nous de ces fichues barres noirs.
+
+133
+00:09:11,880 --> 00:09:13,240
+Voilà qui est mieux.
+
+134
+00:09:13,240 --> 00:09:15,160
+Vous allez fabriquez ce qu'on appel
+
+135
+00:09:15,160 --> 00:09:17,560
+La flute à influence variable.
+
+136
+00:09:17,560 --> 00:09:18,880
+Ou la R.I.F.F.
+
+137
+00:09:18,880 --> 00:09:22,280
+D'abord, prenez un arduino
+et branchez votre enceinte à la masse, 
+
+138
+00:09:22,280 --> 00:09:25,520
+puis à l'une des broches de sortie. 
+
+139
+00:09:25,520 --> 00:09:28,400
+Obtenez le code sur team42.com/rift,
+
+140
+00:09:28,400 --> 00:09:31,880
+branchez votre arduino, 
+appuyez sur télécharger, et voilà. 
+
+141
+00:09:32,520 --> 00:09:33,440
+Music. 
+
+142
+00:09:36,720 --> 00:09:39,000
+Et bien, plus ou moins. 
+
+143
+00:09:40,640 --> 00:09:41,640
+Dans cet épisode, 
+
+144
+00:09:41,640 --> 00:09:44,760
+il est temps de fabriquer
+la géniale alarme de chez adafruits
+
+145
+00:09:44,760 --> 00:09:46,280
+Le kit horologe monochron. 
+
+146
+00:09:50,760 --> 00:09:52,520
+Psst, la réponse est 42.
+
+147
+00:09:52,520 --> 00:09:54,080
+Merci monochron.
+
+148
+00:09:54,400 --> 00:09:55,880
+Je t'en prie. 
+
+149
+00:09:58,080 --> 00:10:02,120
+Um, depuis quelques temps 
+les enfants s'en inspirent, 
+
+150
+00:10:02,120 --> 00:10:05,600
+de plus en plus de filles se mettent 
+aux sciences et à la fabrication.
+
+151
+00:10:05,600 --> 00:10:08,720
+J'espère que ça va décoller 
+afin que les filles puissent voir
+
+152
+00:10:08,720 --> 00:10:10,800
+qu'elles n'ont pas a devenir 
+des designers de mode,
+
+153
+00:10:10,800 --> 00:10:12,640
+elles peuvent devenir tout ce qu'elles veulent.
+
+154
+00:10:12,640 --> 00:10:15,520
+Um, j'ai appris à ma petite soeur
+à soudre. 
+
+155
+00:10:15,520 --> 00:10:17,280
+Pour, tu vois tu dois le tenir 
+comme un crayon;
+
+156
+00:10:17,280 --> 00:10:19,240
+tu dois faire très attention
+parce que c'est très chaud, 
+
+157
+00:10:19,240 --> 00:10:22,160
+Um, et c'est très drôle. 
+J'aime vraiment faire ça. 
+
+158
+00:10:22,160 --> 00:10:25,760
+C'était tout pour cette épisode ! 
+Essayez de télécharger de nouvelles horloges. 
+
+159
+00:10:25,760 --> 00:10:28,840
+N'abandonnez pas, sortez de chez vous
+et fabriquez quelque chose. 
+
+160
+00:10:33,720 --> 00:10:37,440
+J'étais à San Francisco
+et j'ai reçu un coup de téléphone 
+
+161
+00:10:37,440 --> 00:10:40,320
+qui m'a poliment informé
+que ma maison était en feu.
+
+162
+00:10:41,400 --> 00:10:47,560
+Les feux de sèche-linges sont une des
+premières raisons de feux domestiques.
+
+163
+00:10:48,240 --> 00:10:49,400
+Les gens ne le savent pas,
+
+164
+00:10:49,400 --> 00:10:54,120
+mais si vous laissez votre sèche-linge 
+allumé finir un cycle
+
+165
+00:10:54,120 --> 00:10:57,320
+pour sortir faire des courses, ne le faites pas.
+
+166
+00:10:57,320 --> 00:11:01,240
+Les dégâts dans la maison
+étaient confinés à la buanderie
+
+167
+00:11:01,240 --> 00:11:04,000
+mais notre maison
+était remplie de fumée.
+
+168
+00:11:04,000 --> 00:11:05,920
+Alors nous avons du tout déménager, 
+
+169
+00:11:05,920 --> 00:11:09,280
+tous les objets sans exception
+ont du être catalogués, 
+
+170
+00:11:09,280 --> 00:11:14,360
+photographiés, inventoriés, 
+nettoyés, mis en carton et déplacés. 
+
+171
+00:11:14,360 --> 00:11:17,520
+515 boites de trucs. 
+
+172
+00:11:17,520 --> 00:11:19,320
+Um, c'est devenu personnel.
+
+173
+00:11:19,320 --> 00:11:24,600
+Ca m'a littéralement donné, 
+um, presque un sentiment viscéral,
+
+174
+00:11:24,600 --> 00:11:28,560
+sur la tendance qu'on les choses 
+à s'accumuler dans nos vies. 
+
+175
+00:11:28,560 --> 00:11:31,960
+Ca m'a donné l'occasion
+de beaucoup penser
+
+176
+00:11:31,960 --> 00:11:33,960
+à ce que nous avons perdu
+
+177
+00:11:33,960 --> 00:11:37,480
+en passant de
+la pièce unique fait-main
+
+178
+00:11:37,480 --> 00:11:40,320
+au monde
+de la production de masse industrielle.
+
+179
+00:11:40,320 --> 00:11:43,160
+Et l'idée clé 
+qu'à mon avis nous avons perdu
+
+180
+00:11:43,160 --> 00:11:46,080
+est la notion de la valeur 
+et du sens des choses.
+
+181
+00:12:16,320 --> 00:12:20,720
+Alors il y a cinq ans, 
+je n'étais qu'un homme ordinaire, un père.
+
+182
+00:12:20,720 --> 00:12:22,760
+Qui joue au lego 
+avec ses enfants
+
+183
+00:12:22,760 --> 00:12:25,360
+Um, j'ai essayé de trouver quelque chose 
+de fun à faire faire à mes enfants
+
+184
+00:12:25,360 --> 00:12:26,520
+les robots les ennuyaient,
+
+185
+00:12:26,520 --> 00:12:31,160
+l'informatique les ennuyaient
+mais je me suis dit que faire voler un avion
+
+186
+00:12:31,160 --> 00:12:34,480
+avec un lego en pilote automatique
+serait un bon défi.
+
+187
+00:12:34,480 --> 00:12:37,840
+Et le fait 
+que je puisse concevoir un pilote automatique
+
+188
+00:12:37,840 --> 00:12:42,080
+et un drone sur la table de la cuisine, 
+avec mes enfants, avec des lego, 
+
+189
+00:12:42,480 --> 00:12:43,360
+me fait frissonner.
+
+190
+00:12:43,360 --> 00:12:45,200
+Je reconnais que c’est une expérience 
+
+191
+00:12:45,200 --> 00:12:46,480
+qui n’aurait pas été possible.
+
+192
+00:12:46,480 --> 00:12:47,680
+Dix plus tôt, 
+
+193
+00:12:47,680 --> 00:12:50,280
+c’était une technologie classée 
+secret militaire. 
+
+194
+00:12:50,280 --> 00:12:52,400
+Dix ans avant cela 
+c’était littéralement impossible. 
+
+195
+00:13:07,080 --> 00:13:08,760
+Ainsi je considère 
+le mouvement des makers comme
+
+196
+00:13:08,760 --> 00:13:10,840
+la génération du web qui rencontre le monde réel. 
+
+197
+00:13:10,840 --> 00:13:14,800
+Ce sont des bricoleurs, 
+des DIY-eurs, des pasionés, 
+
+198
+00:13:14,800 --> 00:13:16,320
+des ateliers à travers le monde,
+
+199
+00:13:16,320 --> 00:13:21,440
+qui dorénavant travaillent ensemble sur le net
+et qui utilisent les mêmes outils numériques pour faire
+
+200
+00:13:21,440 --> 00:13:23,480
+ce qu’aucun
+ne pourraient faire seuls. 
+
+201
+00:13:23,480 --> 00:13:25,040
+Disons 
+que la première révolution industrielle
+
+202
+00:13:25,040 --> 00:13:26,440
+était la révolution de la mécanique. 
+
+203
+00:13:26,440 --> 00:13:29,840
+Au 18 eme siècle, la main d’oeuvre était 
+remplacée par les machines.
+
+204
+00:13:29,840 --> 00:13:33,080
+La seconde révolution industrielle 
+est la révolution de l’information.
+
+205
+00:13:33,080 --> 00:13:34,800
+Mais ce n’était à cause de l’invention 
+de l’ordinateur,
+
+206
+00:13:34,800 --> 00:13:37,480
+mais plutôt la démocratisation
+de l’ordinateur.
+
+207
+00:13:37,480 --> 00:13:40,240
+Mettre des ordinateurs dans les mains 
+de personnes ordinaires
+
+208
+00:13:40,240 --> 00:13:42,000
+pour qu’elles puissent faire 
+des choses extraordinaires. 
+
+209
+00:13:42,000 --> 00:13:45,600
+Et ça a permis de remplacer le cerveau 
+par la machine.
+
+210
+00:13:45,600 --> 00:13:48,320
+La troisième révolution industrielle 
+n’est que la combinaison des deux.
+
+211
+00:13:48,320 --> 00:13:49,840
+La révolution de l’information
+
+212
+00:13:49,840 --> 00:13:53,520
+rencontre la révolution de la fabrication.
+
+213
+00:13:53,520 --> 00:13:56,280
+Et ça arrive maintenant 
+
+214
+00:13:56,280 --> 00:13:58,680
+parce que 
+ce moment essentiel de démocratisation
+
+215
+00:13:58,680 --> 00:13:59,800
+est enfin arrivé. 
+
+216
+00:13:59,800 --> 00:14:01,640
+Ce n’était pas suffisant 
+d’inventer les technologies
+
+217
+00:14:01,640 --> 00:14:04,080
+il a fallu les mettre 
+dans les mains de tous
+
+218
+00:14:04,080 --> 00:14:06,880
+et c’est cette
+idée de consommation de masse
+
+219
+00:14:06,880 --> 00:14:11,000
+la portée … la portée massive 
+de ces nouvelles technologies
+
+220
+00:14:11,000 --> 00:14:12,400
+qui en fait une vraie révolution
+
+221
+00:14:12,400 --> 00:14:15,560
+parce que ça libère les idées 
+et la créativité de tant de personnes. 
+
+222
+00:14:20,520 --> 00:14:22,640
+Ce ne sont pas que des amateurs.
+
+223
+00:14:22,640 --> 00:14:25,920
+Dans beaucoup de cas on retrouve des gens 
+qui prototypent 
+
+224
+00:14:25,920 --> 00:14:28,120
+de nouvelles générations de produits.
+
+225
+00:14:30,880 --> 00:14:33,400
+D’une manière générale les gens
+en on assez d’être limités 
+
+226
+00:14:33,400 --> 00:14:35,960
+à ce qu’ils voient dans les magasins. 
+
+227
+00:14:35,960 --> 00:14:38,160
+Ils veulent soit quelque chose 
+de différent
+
+228
+00:14:38,160 --> 00:14:39,400
+ou ils vont au magasin 
+
+229
+00:14:39,400 --> 00:14:41,800
+et ne voient pas 
+ce qu’ils veulent. 
+
+230
+00:14:41,800 --> 00:14:44,360
+Je me demande
+si je ne pourrais pas juste le faire moi-même. 
+
+231
+00:14:44,360 --> 00:14:46,320
+Je pense que c’est ce qui a permis 
+au mouvement maker
+
+232
+00:14:46,320 --> 00:14:48,120
+de naitre en premier lieu.
+
+233
+00:14:49,560 --> 00:14:53,160
+Techshop est un atelier ouvert à tous, 
+donc vous venez à Techshop, 
+
+234
+00:14:53,160 --> 00:14:55,520
+devenez membre
+et utilisez tous nos outils 
+
+235
+00:14:55,520 --> 00:14:58,440
+et équipement pour réalisez tous
+que vous avez toujours voulu faire.
+
+236
+00:14:58,440 --> 00:14:59,440
+C’est comme une salle de sport. 
+
+237
+00:15:01,520 --> 00:15:04,200
+Tout le monde à une idée de quelque chose 
+qu’il veut fabriquer.
+
+238
+00:15:04,200 --> 00:15:06,320
+Le problème est qu’il n’ont
+pas les moyens 
+
+239
+00:15:06,320 --> 00:15:08,960
+de transformer ce projet
+en une réalité. 
+
+240
+00:15:08,960 --> 00:15:12,400
+Avec un endroit comme Techshop, 
+ou un maker space bien équipé, 
+
+241
+00:15:12,400 --> 00:15:14,360
+vous pouvez développer un prototype vous-même. 
+
+242
+00:15:14,360 --> 00:15:15,920
+Peut-être en fabriquer 20 ou 30, 
+
+243
+00:15:15,920 --> 00:15:17,920
+et les mettre sur le marché
+et voir s’ils se vendent. 
+
+244
+00:15:17,920 --> 00:15:19,600
+Vérifiez si les gens sont vraiment prêt à l’acheter. 
+
+245
+00:15:35,880 --> 00:15:38,560
+Aux Etats-Unis, 
+les cours de techno au Lycée, 
+
+246
+00:15:38,560 --> 00:15:41,440
+les cours de mécanique, 
+et de menuiserie ont disparu,  
+
+247
+00:15:41,440 --> 00:15:42,800
+presque complètement disparu.
+
+248
+00:15:42,800 --> 00:15:44,840
+Les gens avaient tendance à penser que ces cours
+
+249
+00:15:44,840 --> 00:15:46,360
+étaient pour les idiots. 
+
+250
+00:15:46,360 --> 00:15:48,440
+Les enfants brillants 
+allaient aux autres cours. 
+
+251
+00:15:48,440 --> 00:15:49,840
+toutes les matières scientifiques. 
+
+252
+00:15:49,840 --> 00:15:52,320
+Mais les enfants idiots
+n’allaient pas aller à l’université
+
+253
+00:15:52,320 --> 00:15:55,360
+alors ils allaient aux cours de techno
+pour trouver du travail à l’usine. 
+
+254
+00:15:55,360 --> 00:15:57,040
+C’est à vrai dire complètement faux. 
+
+255
+00:15:57,040 --> 00:15:59,080
+Il faudrait vraiment que ce soit un mélange.
+
+256
+00:16:00,440 --> 00:16:02,840
+Ils les ont arrêté
+pour des raisons de responsabilité. 
+
+257
+00:16:02,840 --> 00:16:04,880
+Hey, les gamins pouvaient se blesser 
+avec ces machines. 
+
+258
+00:16:04,880 --> 00:16:05,800
+Mais ils ont probablement été arrêté 
+
+259
+00:16:05,800 --> 00:16:09,800
+parce que les gens n’estimaient 
+plus cette activité autant qu’avant. 
+
+260
+00:16:09,800 --> 00:16:11,880
+Je pense, 
+encore une fois nous avons des piscines publiques. 
+
+261
+00:16:11,880 --> 00:16:14,080
+Les enfants se noient dans les piscines publiques. 
+
+262
+00:16:14,080 --> 00:16:16,120
+Nous ne nous sommes pas débarrassés des piscines,
+
+263
+00:16:16,120 --> 00:16:18,720
+nous avons trouvé 
+comment éviter ces circonstances.
+
+264
+00:16:18,720 --> 00:16:20,440
+Donc si vous voulez supprimer les risques, 
+
+265
+00:16:20,440 --> 00:16:22,480
+Il me semble que vous tuez la créativité.
+
+266
+00:16:24,080 --> 00:16:27,520
+Ford s’est en réalité associé avec Techshop
+
+267
+00:16:27,520 --> 00:16:30,520
+dans le but d’innover
+plus vite, mieux, et moins cher 
+
+268
+00:16:30,520 --> 00:16:32,080
+Et ceux-ci ont inventé des produits
+
+269
+00:16:32,080 --> 00:16:35,800
+bien plus innovants que si ils les avaient développés
+dans leurs locaux.
+
+270
+00:16:35,800 --> 00:16:37,760
+Vous savez, s’est Bill Joy qui a dit un jour,
+
+271
+00:16:37,760 --> 00:16:40,480
+« Peut importe l’entreprise dans laquelle vous travaillez,
+
+272
+00:16:40,480 --> 00:16:43,840
+vous ne convaincrez jamais les plus grands cerveaux
+de travailler pour vous. »
+
+273
+00:16:43,840 --> 00:16:46,920
+C’est pour cette raison qu’on commence à voir
+des entreprises visionnaires
+
+274
+00:16:46,920 --> 00:16:49,240
+qui adoptent le mouvement Maker,
+
+275
+00:16:49,240 --> 00:16:51,480
+car il réalisent que
+si vous ne pouvez pas les combattre,
+
+276
+00:16:51,480 --> 00:16:52,480
+vous devez vous joindre à eux.
+
+277
+00:16:53,320 --> 00:16:54,840
+Bientôt, vous commencerez à voir
+
+278
+00:16:54,840 --> 00:16:57,680
+un écosystèmes complet
+se mettre en place,
+
+279
+00:16:57,680 --> 00:16:59,160
+et des acteurs clés se rassembler.
+
+280
+00:16:59,160 --> 00:17:02,240
+Par exemple, en commençant
+par la formation des Makers,
+
+281
+00:17:02,240 --> 00:17:03,640
+la prochaine génération de Makers,
+
+282
+00:17:03,640 --> 00:17:06,880
+de telle manière que dès que vous avez une idée,
+vous puissiez la prototyper chez Techshop,
+
+283
+00:17:06,880 --> 00:17:08,280
+vous pourrez lever plus de fonds.
+
+284
+00:17:08,280 --> 00:17:11,920
+La prochaine révolution
+sera celle d’une fabrication simplifiée.
+
+285
+00:17:11,920 --> 00:17:15,480
+Cela pendra certainement
+entre cinq et dix ans, peut-être moins,
+
+286
+00:17:15,480 --> 00:17:18,000
+mais une fois que cet écosystème
+battra son plein, 
+
+287
+00:17:18,000 --> 00:17:20,320
+Je pense que ca va 
+fondamentalement révolutionner 
+
+288
+00:17:20,320 --> 00:17:22,120
+pas seulement la production,
+
+289
+00:17:22,120 --> 00:17:25,600
+mais aussi des industries comme l’éducation,
+
+290
+00:17:25,600 --> 00:17:28,240
+la santé, et la banque.
+
+291
+00:17:38,120 --> 00:17:42,440
+Alors, les biotechnologies sont relativement 
+récentes dans le mouvement maker. 
+
+292
+00:17:42,440 --> 00:17:45,040
+Euh, tu vois le mouvement maker 
+c’est souvent de la micro-éléctronique
+
+293
+00:17:45,040 --> 00:17:48,040
+et des choses qui relèvent presque 
+de l’artisanat fait-main traditionnel.
+
+294
+00:17:48,560 --> 00:17:53,720
+Donc, le concept de biohacker space
+est assez courant dans les biotechs aujourd’hui,
+
+295
+00:17:53,720 --> 00:17:56,440
+même si je pense qu’en dehors 
+des biotechs
+
+296
+00:17:56,440 --> 00:17:58,520
+ça a l’air un peu futuriste. 
+
+297
+00:18:00,480 --> 00:18:03,000
+Une des questions 
+qui revient souvent serait
+
+298
+00:18:03,000 --> 00:18:06,160
+Je veux en savoir plus sur 
+ce qui se passe ici. 
+
+299
+00:18:06,160 --> 00:18:08,200
+Où est-ce que je vais, qu’est-ce que je fais.
+
+300
+00:18:08,200 --> 00:18:10,440
+Et il y a des endroits où vous pouvez aller
+et assister, 
+
+301
+00:18:10,440 --> 00:18:12,880
+tu sais, 
+à des formations et à des gens à qui parler,
+
+302
+00:18:12,880 --> 00:18:16,120
+mais ce qui est vraiment sympa, c’est de faire
+et de mettre les mains dans le cambouis
+
+303
+00:18:16,120 --> 00:18:18,440
+et de pouvoir mettre des gants 
+si vous n’en portez pas normalement
+
+304
+00:18:18,440 --> 00:18:22,520
+et porter une blouse
+et être un scientifique le temps d’une journée ou d’une semaine.
+
+305
+00:18:22,520 --> 00:18:25,880
+Bicurious est un endroit
+où vous pouvez vraiment exploiter
+
+306
+00:18:25,880 --> 00:18:27,480
+et canaliser cette créativité
+
+307
+00:18:27,480 --> 00:18:31,160
+et cette curiosité
+que vous avez et explorez vraiment. 
+
+308
+00:18:32,480 --> 00:18:33,840
+Voici un bioréacteur.
+
+309
+00:18:33,840 --> 00:18:38,200
+C’est probablement l’aspect le mieux connu 
+de nos projets communautaires. 
+
+310
+00:18:38,200 --> 00:18:39,880
+Donc c’est un système très simple,
+
+311
+00:18:39,880 --> 00:18:43,640
+
+mais c’est en fait capable 
+d’imprimer la bacterie, E.coli,
+
+312
+00:18:43,640 --> 00:18:45,800
+qui est un organisme amélioré.
+
+313
+00:18:46,640 --> 00:18:48,560
+Et ensuite il y a, euh, 
+
+314
+00:18:48,560 --> 00:18:51,480
+une culture d’algues 
+pour un autre projet,
+
+315
+00:18:51,480 --> 00:18:55,680
+et ce qu’ils essaient de faire, 
+c’est un mix entre de l’électronique, du logiciel, 
+
+316
+00:18:55,680 --> 00:18:59,480
+et un petit peu de biologie où ils 
+essaient de fabriquer un bioréacteur,
+
+317
+00:18:59,480 --> 00:19:02,640
+pour effectivement cultiver des algues 
+dans un système confiné
+
+318
+00:19:02,640 --> 00:19:05,240
+qui pourrait en fait 
+permettre de nourrir les astroanutes
+
+319
+00:19:05,240 --> 00:19:06,640
+pendant leur voyage dans l’espace.
+
+320
+00:19:06,640 --> 00:19:08,280
+Donc on voit grand. 
+
+321
+00:19:11,600 --> 00:19:13,760
+Je vois surtout l’impact 
+
+322
+00:19:13,760 --> 00:19:16,680
+de n’importe quelle sorte 
+de maker space sur l’éducation
+
+323
+00:19:16,680 --> 00:19:18,880
+et d’enseigner aux gens ce qui est possible.
+
+324
+00:19:18,880 --> 00:19:22,160
+Parce que nous vivons tous dans cette
+société technocratico démocratique. 
+
+325
+00:19:22,160 --> 00:19:24,760
+nous devons faire des choix
+quels produits nous finançons,
+
+326
+00:19:24,760 --> 00:19:28,200
+ce que nous ne cautionnons pas, et ce que nous cautionnons
+et que voulons nous restreindre, 
+
+327
+00:19:28,200 --> 00:19:31,280
+et si vous ne savez pas comment ca marche, 
+
+328
+00:19:31,280 --> 00:19:34,680
+il y aura quelqu’un d’autre pour vous dire 
+ce qu’il faudrait mieux faire
+
+329
+00:19:34,680 --> 00:19:36,120
+avec son argent et le reste de sa vie.
+
+330
+00:19:36,120 --> 00:19:38,560
+Donc, afin que les gens puissent être des citoyens responsables
+
+331
+00:19:38,560 --> 00:19:40,200
+ils ont besoin d’avoir 
+une bonne compréhension 
+
+332
+00:19:40,200 --> 00:19:43,240
+de beaucoup de 
+notions techniques poussées.  
+
+333
+00:19:43,240 --> 00:19:46,520
+Le biohacking est un mouvement génial 
+comme le hacking informatique
+
+334
+00:19:46,520 --> 00:19:49,840
+Comment est-ce que je peux jouer 
+avec ces outils et faire de nouvelles choses -
+
+335
+00:19:49,840 --> 00:19:52,840
+nous faisons la même chose
+que ce s’est passé dans les années 70. 
+
+336
+00:19:52,840 --> 00:19:57,680
+Prendre la biologie, la tirer à quatre épingle 
+et jouer avec encore et encore.
+
+337
+00:19:57,680 --> 00:20:00,800
+chercher à comprendre 
+pourquoi est-ce que ça fonctionne de telle manière ? 
+
+338
+00:20:00,800 --> 00:20:02,240
+Et qu’est-ce que ça m’apprend ?
+
+339
+00:20:02,240 --> 00:20:04,960
+Et comment puis-je appliquer ça à ma vie ? 
+
+340
+00:20:28,240 --> 00:20:31,840
+Euh, Open ROV est robot sous-marin 
+open source. 
+
+341
+00:20:31,840 --> 00:20:35,400
+Alors, les engins téléguidés ne sont pas du tout nouveaux, 
+ils existent depuis des années.
+
+342
+00:20:35,400 --> 00:20:38,240
+Vous savez les scientifiques les utilisent 
+pour explorer les océans.
+
+343
+00:20:38,240 --> 00:20:42,040
+Euh, ce qui rend open ROV si unique
+est le fait qu’il est si peu cher, 
+
+344
+00:20:42,040 --> 00:20:44,520
+et nous avons surtout acheté 
+des composants fabriqués en grande série. 
+
+345
+00:20:44,520 --> 00:20:46,000
+Il y a une camera embarquée, 
+
+346
+00:20:46,000 --> 00:20:49,000
+qui permet de voir 
+ce qui se passe en live.
+
+347
+00:20:49,000 --> 00:20:52,560
+Alors, j’ai un pilotage en immersion 
+du point de vue de l’engin
+
+348
+00:20:52,560 --> 00:20:53,840
+et c’est juste un live vidéo
+
+349
+00:20:53,840 --> 00:20:55,440
+et je peux le contrôler 
+avec une manette de jeux vidéo.
+
+350
+00:20:55,440 --> 00:20:56,760
+comme en jouant à un jeux vidéo.
+
+351
+00:21:22,760 --> 00:21:25,280
+Open ROV est totalement open source 
+open hardware.
+
+352
+00:21:25,280 --> 00:21:27,800
+Ce qui signifie
+que non seulement le code source 
+
+353
+00:21:27,800 --> 00:21:29,680
+du programme informatique est disponible en ligne, 
+
+354
+00:21:29,680 --> 00:21:33,080
+mais aussi les fichiers CAD, 
+la liste des matériaux, 
+
+355
+00:21:33,080 --> 00:21:34,360
+vous savez toutes les informations 
+
+356
+00:21:34,360 --> 00:21:36,560
+permettant de le fabriquer soi-même
+sont disponibles.
+
+357
+00:21:36,560 --> 00:21:39,120
+Ainsi le concept d’open source 
+dans le mouvement maker
+
+358
+00:21:39,120 --> 00:21:40,320
+est à mon avis vraiment très important.
+
+359
+00:21:40,320 --> 00:21:41,600
+Il y a le micro controleur arduino
+
+360
+00:21:41,600 --> 00:21:43,880
+qui est l’un des 
+premiers projets open source, 
+
+361
+00:21:43,880 --> 00:21:48,480
+et ça a vraiment permis cette 
+variété d’innovation. 
+
+362
+00:21:48,480 --> 00:21:50,360
+Les gens ont été capable 
+de partir de cette idée de départ
+
+363
+00:21:50,360 --> 00:21:53,320
+et de la façonner et de la transformer
+en ce qu’ils voulaient fabriquer. 
+
+364
+00:21:53,320 --> 00:21:59,080
+Trusting in the capabilities
+of the many combined working together,
+Avoir confiance dans la capacité 
+qu’ont les individus à travailler ensemble 
+
+365
+00:21:59,080 --> 00:22:03,960
+en opposition à l’ancien modèle 
+qui repose sur certains privilégiés.
+
+366
+00:22:03,960 --> 00:22:07,400
+Donc je m’appelle Peter, 
+Je travaille pour Nanosatisfi,
+
+367
+00:22:07,400 --> 00:22:10,480
+Et nous construisons des satellites, 
+de très petits satellites,
+
+368
+00:22:10,480 --> 00:22:12,680
+Ils font environ 10 par 10 centimètres. 
+
+369
+00:22:12,680 --> 00:22:14,560
+remplis d’arduinos et de capteurs. 
+
+370
+00:22:14,560 --> 00:22:18,600
+et nous permettons à des étudiants 
+de les programmer et les controller
+
+371
+00:22:18,600 --> 00:22:20,440
+dans le cadre d’une expérience pédagogique.
+
+372
+00:22:20,440 --> 00:22:24,920
+Donc les gens ont accès à des cours en lignes, 
+des vidéos, des petits quizz,
+
+373
+00:22:24,920 --> 00:22:28,560
+tout un univers où ils peuvent vraiment 
+écrire le code et le tester
+
+374
+00:22:28,560 --> 00:22:30,080
+en appuyant sur un bouton, 
+
+375
+00:22:30,080 --> 00:22:32,920
+l’envoyer au satellite, 
+et ensuite ça tourne sur le satellite, 
+
+376
+00:22:32,920 --> 00:22:35,960
+ça contrôle les capteurs 
+et les cameras du satellite, 
+
+377
+00:22:35,960 --> 00:22:37,760
+et ensuite ils peuvent analyser les données. 
+
+378
+00:22:38,640 --> 00:22:41,120
+You know I see a lot of
+my friends playing video games
+Je vois beaucoup de mes amis 
+qui jouent à des jeux vidéos
+
+379
+00:22:41,120 --> 00:22:43,400
+et ils passent des heures tous 
+les jours à brasser des bits.
+
+380
+00:22:43,400 --> 00:22:45,200
+Moi ce que je dis 
+est amenons-les à brasser des objets. 
+
+381
+00:22:45,200 --> 00:22:46,640
+Faisons-en la vraie vie. 
+
+382
+00:22:47,320 --> 00:22:50,760
+Nous nous trouvons dans « Hall City Cave »
+Dans les environs de Redding en Californie.
+
+383
+00:22:50,760 --> 00:22:53,440
+Et la caverne continue sous l’eau 
+mais personne ne sait vraiment ce qui s’y trouve.
+
+384
+00:22:53,440 --> 00:22:55,120
+Une fois que nous testons effectivement ceci 
+dans l’eau
+
+385
+00:22:55,120 --> 00:22:56,920
+et constatons comment il réagit 
+dans une caverne,
+
+386
+00:22:56,920 --> 00:22:58,640
+peut être que ça nous fournira des renseignements
+
+387
+00:22:58,640 --> 00:23:01,440
+qui nous serons utiles
+pour concevoir le prochain. 
+
+388
+00:23:01,440 --> 00:23:04,440
+Il explore
+tous les océans de grands fonds
+
+389
+00:23:04,440 --> 00:23:05,960
+avec des citoyens scientifiques,
+
+390
+00:23:05,960 --> 00:23:09,080
+J’explore l’espace 
+avec des citoyens scientifiques.
+
+391
+00:23:09,080 --> 00:23:13,440
+Alors en fait, nous sommes aussi sur Kickstarter
+à peu près au même moment. 
+
+392
+00:23:13,440 --> 00:23:15,480
+Nous avons réunis 
+les mêmes financements. 
+
+393
+00:23:15,480 --> 00:23:18,560
+et avons lancés nos entreprises
+
+394
+00:23:18,560 --> 00:23:22,080
+autour de ce concept 
+de citoyens scientifiques. 
+
+395
+00:23:22,080 --> 00:23:26,400
+En gros, la démocratisation de l’accès
+à l’exploration.
+
+396
+00:23:26,400 --> 00:23:30,360
+3 2 1 Allumage.
+
+397
+00:23:32,560 --> 00:23:33,680
+Et décollage.
+
+398
+00:23:33,680 --> 00:23:37,920
+Décollage de l’HTV pour un voyage
+vers la station internationale.
+
+399
+00:23:49,520 --> 00:23:51,920
+J’ai vérifié, les satellites sont déployés.
+
+400
+00:23:54,240 --> 00:24:00,920
+Station Tsukuba, félicitations pour ce 
+déploiement réussi du Pico Dragon,
+
+401
+00:24:00,920 --> 00:24:03,720
+Ardusat 1, et Ardusat X.
+
+402
+00:24:06,040 --> 00:24:09,360
+Merci Hsu, depuis notre écran 
+ça a l’air vraiment très beau.
+
+403
+00:24:09,360 --> 00:24:13,240
+Je suis sûr que vous avez de bonnes images
+depuis Cupola.
+
+404
+00:24:20,360 --> 00:24:22,240
+Pour l’instant, nous ne faisons 
+que des kits. 
+
+405
+00:24:22,240 --> 00:24:23,760
+Essentiellement réunir tous les composants, 
+
+406
+00:24:23,760 --> 00:24:26,120
+les mettre dans une boite, 
+et les envoyer.
+
+407
+00:24:26,840 --> 00:24:29,280
+Nous ne faisons pas que les vendre
+pour marger dessus
+
+408
+00:24:29,280 --> 00:24:30,320
+sans rien récupérer d’autres -
+
+409
+00:24:30,320 --> 00:24:32,480
+il y a une énorme potentiel de 
+recherche et développement 
+
+410
+00:24:32,480 --> 00:24:33,360
+que nous obtenons. 
+
+411
+00:24:33,360 --> 00:24:36,600
+Ainsi, nous ne sommes pas seulement open source, 
+nous sommes aussi crowdsourcé. 
+
+412
+00:24:36,600 --> 00:24:39,880
+Nous mobilisons la communauté que 
+nous avons créé pour nous donner des idées. 
+
+413
+00:24:39,880 --> 00:24:42,160
+La manière dont nous utilisons 
+nos licences creative common implique
+
+414
+00:24:42,160 --> 00:24:45,360
+que si vous utilisez nos idées c’est bon 
+mais vous devez aussi être open source. 
+
+415
+00:24:45,360 --> 00:24:47,920
+Donc si quelqu’un trouve 
+une meilleure manière de faire quelque chose
+
+416
+00:24:47,920 --> 00:24:50,040
+alors il devrait la partager 
+à son tour. 
+
+417
+00:24:50,520 --> 00:24:53,280
+Les gens se demandent comment est-ce possible 
+d’avoir un modèle open source. 
+
+418
+00:24:53,280 --> 00:24:55,040
+De donner ses designs. 
+
+419
+00:24:55,040 --> 00:24:58,480
+Dans notre cas le modèle 
+est incroyablement simple. 
+
+420
+00:24:58,480 --> 00:25:00,040
+Nous vendons des produits. 
+
+421
+00:25:00,040 --> 00:25:01,920
+Nous les vendons un peu plus chers qu’ils nous ont coutés. 
+
+422
+00:25:01,920 --> 00:25:06,280
+Et puis, comment est-il possible d’éviter les clones
+et les copies et tout le reste
+
+423
+00:25:06,280 --> 00:25:07,760
+et la réponse est ça ne l’est pas. 
+
+424
+00:25:07,760 --> 00:25:09,000
+As a matter of fact our licenses
+En réalité nos licenses
+
+425
+00:25:09,000 --> 00:25:10,280
+permettent spécifiquement aux gens de copier 
+
+426
+00:25:10,280 --> 00:25:13,280
+et on est copié dans les jours qui 
+suivent la sortie d’un produit.
+
+427
+00:25:14,800 --> 00:25:18,320
+Mais, 
+ils ne peuvent pas copier notre communauté.
+
+428
+00:25:22,120 --> 00:25:25,520
+Vous savez franchement le système des brevets
+présente beaucoup de défauts. 
+
+429
+00:25:25,520 --> 00:25:27,520
+I mean the whole concept
+of being ripped off
+Le sentiment de s’être fait 
+arnaqué
+
+430
+00:25:27,520 --> 00:25:30,200
+c’est vraiment un peu comme ça 
+que ça se passait avant. 
+
+431
+00:25:30,200 --> 00:25:31,560
+Si tu as une idée,
+
+432
+00:25:31,560 --> 00:25:34,280
+tu passes souvent deux ans à protéger ton idée avec des brevets,
+
+433
+00:25:34,280 --> 00:25:37,760
+et au moment où tu auras fini 
+nous serons déjà loin devant toi. 
+
+434
+00:25:38,640 --> 00:25:42,000
+L’innovation est si rapide que, 
+tu sais, c’est, 
+
+435
+00:25:42,000 --> 00:25:44,360
+tu vas être lent
+si tu passes ton temps à copier. 
+
+436
+00:26:08,160 --> 00:26:10,960
+Je pense que si l’on fait la comparaison 
+entre disons, l’édition
+
+437
+00:26:10,960 --> 00:26:13,560
+ce que c’était dans les années 80
+et peut-être au début des années 90,
+
+438
+00:26:13,560 --> 00:26:17,440
+tout le monde était capable de produire 
+ses flyers et autres
+
+439
+00:26:17,440 --> 00:26:20,800
+mais aussi des sites web et des brochures
+et tout ce genre de chose.
+
+440
+00:26:22,960 --> 00:26:25,720
+Vous savez, ce que vous pouviez faire 
+avec une imprimante de bureau
+
+441
+00:26:25,720 --> 00:26:27,600
+n’était pas si intéressant
+
+442
+00:26:27,600 --> 00:26:30,560
+mais vous pouviez aller chez Kinko
+et utiliser une imprimante laser dernier cri
+
+443
+00:26:30,560 --> 00:26:32,880
+et faire des milliers de copies
+ou autre
+
+444
+00:26:32,880 --> 00:26:35,400
+vous ne pouviez pas vraiment faire quoi que ce soit
+à votre bureau.
+
+445
+00:26:36,440 --> 00:26:39,000
+Et je pense que c’est ce qui 
+est en train de se passer avec les imprimantes 3D. 
+
+446
+00:26:39,000 --> 00:26:42,120
+Vous savez les gens ont peut-être 
+une imprimante maker-bot chez eux, et c’est 
+
+447
+00:26:42,120 --> 00:26:45,680
+génial pour fabriquer des choses 
+avec lesquelles vous pourrez jouer avec vos enfants,
+
+448
+00:26:45,680 --> 00:26:48,000
+mais si vous avez vraiment besoin d’une 
+
+449
+00:26:48,000 --> 00:26:50,240
+imprimante 3D à 200 000 €,
+
+450
+00:26:50,240 --> 00:26:52,400
+qui permettra d’imprimer en métal, 
+
+451
+00:26:52,400 --> 00:26:54,240
+la plupart n’ont pas ça chez eux.
+
+452
+00:27:18,200 --> 00:27:20,640
+Il y a beaucoup d’imprimantes 
+3D différentes. 
+
+453
+00:27:20,640 --> 00:27:24,160
+Certaines utilisent du fil fondu, 
+
+454
+00:27:24,160 --> 00:27:27,440
+qui par superposition de couches parallèles 
+crée un objet.
+
+455
+00:27:28,120 --> 00:27:29,560
+La résine ou la matière première
+
+456
+00:27:29,560 --> 00:27:32,600
+est ce qui utilisé pour créer l’objet
+et il y a moins de gaspillage.
+
+457
+00:27:32,600 --> 00:27:34,920
+Si vous comparez à une fraiseuse numérique,
+
+458
+00:27:34,920 --> 00:27:37,520
+typiquement on va prendre un bloc
+de matière et enlever 
+
+459
+00:27:37,520 --> 00:27:39,400
+la matière qu’on ne veut pas 
+avec une fraise.
+
+460
+00:27:39,400 --> 00:27:43,120
+Dans ce cas la matière est perdue, 
+peut-être même pas recyclée ou réutilisée,
+
+461
+00:27:45,120 --> 00:27:47,480
+Donc dans un contexte 
+de fabrication traditionnel
+
+462
+00:27:47,480 --> 00:27:49,800
+certaines formes
+sont vraiment très difficiles à réaliser 
+
+463
+00:27:49,800 --> 00:27:52,040
+Avec une imprimantes 3D à peu près 
+
+464
+00:27:52,040 --> 00:27:55,560
+tout ce qu’on conçoit est faisable. 
+
+465
+00:27:58,160 --> 00:28:01,360
+L’impression 3D existe maintenant 
+depuis 25 ans. 
+
+466
+00:28:01,360 --> 00:28:04,640
+Et deux choses ont permis 
+de la rendre accessible à tous.
+
+467
+00:28:04,640 --> 00:28:06,560
+One is the quality is getting better,
+D’une la qualité s’améliore, 
+
+468
+00:28:06,560 --> 00:28:08,680
+donc au lieu 
+d’utiliser une résine bas de gamme 
+
+469
+00:28:08,680 --> 00:28:12,400
+vous trouvez des aciers 
+inoxydable et titane, ou argent. 
+
+470
+00:28:12,400 --> 00:28:14,720
+Et au même moment des brevets
+commencent à expirer
+
+471
+00:28:14,720 --> 00:28:15,800
+pour certaines techniques. 
+
+472
+00:28:15,800 --> 00:28:17,400
+Plus les brevets de certaines
+technologies expireront 
+
+473
+00:28:17,400 --> 00:28:19,160
+et plus nous en verrons de grand-public. 
+
+474
+00:28:20,520 --> 00:28:22,760
+L’impression 3D a sa place dans un atelier,
+
+475
+00:28:22,760 --> 00:28:25,480
+ou sa place dans un bureau
+pour l’entretien des locaux,
+
+476
+00:28:25,480 --> 00:28:26,720
+ou sa place à la maison, 
+
+477
+00:28:26,720 --> 00:28:28,560
+ou sa place 
+dans différentes industries
+
+478
+00:28:28,560 --> 00:28:29,920
+like the dental industry.
+comme l’industrie de la prothèse dentaire. 
+
+479
+00:28:29,920 --> 00:28:31,360
+parce qu’il s’agit de la partie basse d’une mâchoire. 
+
+480
+00:28:32,880 --> 00:28:36,160
+Ou dans l’architecture
+où les étudiants
+
+481
+00:28:36,160 --> 00:28:37,960
+étudient des sujets 
+très différents
+
+482
+00:28:37,960 --> 00:28:40,120
+du traitement de surface à la lumière, 
+
+483
+00:28:40,120 --> 00:28:42,160
+ou le design industriel le travail de bureau d’étude. 
+
+484
+00:28:47,360 --> 00:28:50,720
+Vous savez je pense que l’impression 3D 
+a eu beaucoup de presse ces derniers temps. 
+
+485
+00:28:50,720 --> 00:28:52,400
+Les imprimantes 3D sont des outils
+
+486
+00:28:52,400 --> 00:28:54,400
+Vous savez ce sont des outils pour faire quelque chose,
+
+487
+00:28:54,400 --> 00:28:56,520
+elles ont de très bons cotés, 
+
+488
+00:28:56,520 --> 00:28:58,640
+elles ont aussi de très mauvais coté. 
+
+489
+00:28:58,640 --> 00:29:02,840
+Je trouve ça génial que les gens 
+soient enthousiastes,
+
+490
+00:29:02,840 --> 00:29:06,640
+mais le mouvement maker existe 
+indépendamment de l’impression 3D.
+
+491
+00:29:07,320 --> 00:29:12,600
+L’impression 3D va-t-elle remplacer 
+toutes les autres méthodes de fabrication ? 
+
+492
+00:29:12,600 --> 00:29:13,200
+Pas vraiment.
+
+493
+00:29:13,200 --> 00:29:15,400
+Et la façon la plus simple de l’expliquer est, 
+
+494
+00:29:15,400 --> 00:29:19,080
+de se rappeler de 
+l’invention du micro-onde,
+
+495
+00:29:19,080 --> 00:29:20,520
+tous le monde pensait que le micro-onde 
+
+496
+00:29:20,520 --> 00:29:23,960
+allait remplacer les fours 
+et que le seul appareil de cuisson 
+
+497
+00:29:23,960 --> 00:29:26,800
+que vous auriez dans votre 
+cuisine serait le micro-onde. 
+
+498
+00:29:26,800 --> 00:29:28,400
+Mais il n’ont pas disparu. 
+
+499
+00:29:28,400 --> 00:29:30,720
+Car il y aura des choses 
+que vous voudrez faire au four
+
+500
+00:29:30,720 --> 00:29:33,600
+et d’autres que vous voudrez faire à l’imprimante 3D,
+
+501
+00:29:33,600 --> 00:29:35,280
+ou plutôt au micro-onde dans ce cas. 
+
+502
+00:29:35,280 --> 00:29:39,640
+Ainsi je pense qu’il s’agit d’un outil supplémentaire
+à notre disposition,
+
+503
+00:29:39,640 --> 00:29:44,040
+et il sera facile,
+pour beaucoup, d’y avoir accès.
+
+504
+00:29:53,920 --> 00:29:56,840
+Un exemple que nous utilisons régulièrement
+est notre collaboration avec SoundCloud.
+
+
+505
+00:29:56,840 --> 00:29:59,560
+Choisissez votre chanson préférée, 
+prenez la fomre de l’onde,
+
+506
+00:29:59,560 --> 00:30:01,360
+et imprimez là en une coque d’iphone. 
+
+507
+00:30:01,360 --> 00:30:04,280
+Ainsi vous gardez toujours 
+un souvenir de cette chanson. 
+
+508
+00:30:04,280 --> 00:30:06,960
+que ce soit votre enfant qui prononce 
+votre nom pour la première fois,
+
+509
+00:30:06,960 --> 00:30:09,800
+ou votre femme qui vous dise je t’aime, 
+ou votre chanson préférée.
+
+510
+00:30:11,920 --> 00:30:15,720
+Shapeways est une place de marché en ligne 
+dédiée à l’impression 3D et une communauté.
+
+511
+00:30:15,720 --> 00:30:17,120
+C’est un endroit où vous pouvez acheter, fabriquer, 
+
+512
+00:30:17,120 --> 00:30:19,640
+et vendre n’importe quoi 
+qui s’imprime en 3D.
+
+513
+00:30:20,200 --> 00:30:22,120
+Vous pouvez vous y être un maker. 
+
+514
+00:30:22,120 --> 00:30:23,160
+Déposez-y votre modèle, 
+
+515
+00:30:23,160 --> 00:30:25,520
+you see how much it costs
+in every material we have.
+vous verrez ce que ça coute
+dans chacune des matières disponibles.
+
+
+516
+00:30:25,520 --> 00:30:28,480
+Car nous faisons payer 
+au volume de matière consommée.
+
+517
+00:30:28,480 --> 00:30:32,240
+Nous imprimons à la demande
+puis nous vous livrons directement chez vous.
+
+518
+00:30:32,240 --> 00:30:35,840
+Ensuite nous avons une boutique 
+pour vendre ses modèles.
+
+519
+00:30:35,840 --> 00:30:38,400
+Et enfin vous pouvez aussi 
+utiliser Shapeways comme un acheteur. 
+
+520
+00:30:38,400 --> 00:30:41,240
+Vous pouvez choisir un modèle tel quel
+et vous le faire imprimer
+
+521
+00:30:41,240 --> 00:30:42,520
+ou vous pouvez le personnaliser.
+
+522
+00:30:42,520 --> 00:30:43,760
+Tout peut être différent
+
+523
+00:30:43,760 --> 00:30:45,320
+parce que c’est imprimé à la demande
+
+524
+00:30:45,320 --> 00:30:49,360
+et il n’y a pas de coût supplémentaire 
+lié à la complexité de la personnalisation. 
+
+
+525
+00:30:49,360 --> 00:30:52,120
+Donc je pense 
+que nous sommes une usine de personnalisation de masse. 
+
+526
+00:31:01,560 --> 00:31:03,280
+Une fois que nous avons fini d’imprimer, 
+
+527
+00:31:03,280 --> 00:31:06,880
+we have a block of powder basically
+in these trays.
+on se retrouve avec un bloc de poudre
+sur un chariot. 
+
+528
+00:31:06,880 --> 00:31:10,240
+À l’intérieur duquel se trouvent environ 
+200 pièces pour nos clients. 
+
+529
+00:31:10,240 --> 00:31:11,840
+Et c’est parce que nous en mettons autant 
+
+530
+00:31:11,840 --> 00:31:14,200
+que nous arrivons 
+à obtenir le coùt le plus bas
+
+531
+00:31:14,200 --> 00:31:16,440
+et faire de bons prix à nos clients.
+
+532
+00:31:30,200 --> 00:31:33,680
+De la même manière 
+que nous avons vu le numérique transformer, 
+
+533
+00:31:33,680 --> 00:31:35,560
+la musique, la télévision et les jeux, 
+
+534
+00:31:35,560 --> 00:31:37,160
+nous commençons à voir la fabrication numérique 
+
+535
+00:31:37,160 --> 00:31:38,560
+transformer la manière dont les choses sont conçues. 
+
+536
+00:31:38,560 --> 00:31:40,360
+Cela démocratise la fabrication
+
+537
+00:31:40,360 --> 00:31:43,200
+en mettant l’outil de production 
+à la portée de tous.
+
+538
+00:31:54,680 --> 00:31:57,000
+Au fil du temps avec l’industrialisation
+
+539
+00:31:57,000 --> 00:32:00,280
+nous avons commencé à structurer 
+le monde des affaires. 
+
+540
+00:32:00,280 --> 00:32:04,560
+En gérant les organisations 
+et les entreprises comme un grand orchestre. 
+
+541
+00:32:04,560 --> 00:32:09,280
+Très top down. Très hiérarchique. 
+Très rigide aussi. 
+
+542
+00:32:12,400 --> 00:32:17,280
+Mais dans l’histoire nous nous sommes 
+débarrassé de ce qui fait le mouvement maker. 
+
+543
+00:32:17,280 --> 00:32:19,760
+qui ressemble beaucoup à un groupe de Jazz. 
+
+544
+00:32:19,760 --> 00:32:22,840
+C’est beaucoup plus fluide, plus improvisé. 
+
+545
+00:32:25,840 --> 00:32:30,320
+C’est drôle car j’ai commencé ma carrière 
+en tant que journaliste de rock. 
+
+546
+00:32:30,320 --> 00:32:33,080
+working for magazines
+like spin and rolling stone,
+
+547
+00:32:33,080 --> 00:32:37,360
+covering a lot of the great indie bands
+of the 80s and 90s,
+
+548
+00:32:37,360 --> 00:32:41,480
+and when I started
+working on my Tinkerers book,
+
+549
+00:32:41,480 --> 00:32:44,240
+I realized
+there was an interesting connection
+
+550
+00:32:44,240 --> 00:32:48,440
+between indie rock bands who learn
+to make something out of nothing
+
+551
+00:32:48,440 --> 00:32:51,240
+and often times
+had to create their own instruments
+
+552
+00:32:51,240 --> 00:32:52,920
+out of old broken instruments
+
+553
+00:32:52,920 --> 00:32:55,560
+and has a lot in common with
+what a lot of people
+
+554
+00:32:55,560 --> 00:32:57,960
+are doing in the maker movement
+these days.
+
+555
+00:32:57,960 --> 00:33:01,480
+In the music scene
+that ultimately resulted in bands
+
+556
+00:33:01,480 --> 00:33:06,920
+like Nirvana
+becoming huge success stories.
+
+557
+00:33:06,920 --> 00:33:08,240
+And I think in the maker scene
+
+558
+00:33:08,240 --> 00:33:13,200
+we haven't really quite
+seen the huge mainstream effect
+
+559
+00:33:13,200 --> 00:33:16,400
+of all this innovative activity.
+
+560
+00:33:16,400 --> 00:33:18,400
+But it will be interesting to see
+
+561
+00:33:18,400 --> 00:33:21,440
+what the maker movement's Nirvana
+will be.
+
+562
+00:34:01,240 --> 00:34:03,360
+So Pebble's a watch
+that talks to your Smartphone.
+
+563
+00:34:03,360 --> 00:34:05,800
+Its similar like
+if you have a blue tooth headset
+
+564
+00:34:05,800 --> 00:34:07,280
+for voice calls,
+
+565
+00:34:07,280 --> 00:34:09,600
+pebble is your blue tooth headset
+for Email,
+
+566
+00:34:09,600 --> 00:34:14,240
+text, Facebook, Twitter,
+all of that good stuff.
+
+567
+00:34:14,240 --> 00:34:16,040
+I was commuting by bike,
+
+568
+00:34:16,040 --> 00:34:17,280
+I had a new smart phone
+
+569
+00:34:17,280 --> 00:34:18,880
+and I didn't feel like
+I wanted to take it out
+
+570
+00:34:18,880 --> 00:34:20,920
+while I was biking
+because I didn't want to drop it
+
+571
+00:34:20,920 --> 00:34:22,800
+on the ground or into a canal
+
+572
+00:34:22,800 --> 00:34:24,600
+so I wanted to create a device
+
+573
+00:34:24,600 --> 00:34:26,560
+that would let me see
+what was happening with my phone
+
+574
+00:34:26,560 --> 00:34:28,840
+without having to take my phone
+out of my pocket.
+
+575
+00:34:28,840 --> 00:34:30,200
+So I started working on a prototype,
+
+576
+00:34:30,200 --> 00:34:32,440
+I built this small prototype myself using
+
+577
+00:34:32,440 --> 00:34:34,920
+spare cell phone parts and an arduino.
+
+578
+00:34:34,920 --> 00:34:36,840
+And then I started working
+with some of my friends
+
+579
+00:34:36,840 --> 00:34:38,640
+who were interested in the same project
+
+580
+00:34:38,640 --> 00:34:42,000
+and we got together
+and worked collaboratively.
+
+581
+00:34:43,200 --> 00:34:45,960
+We were expecting to raise
+100 thousand dollars on Kickstarter
+
+582
+00:34:45,960 --> 00:34:49,680
+and that would have helped us
+build the first thousand Pebbles.
+
+583
+00:34:49,680 --> 00:34:53,440
+But at the end of the 37 days
+we'd raised over 10 million dollars.
+
+584
+00:34:53,440 --> 00:34:57,560
+Almost 69 thousand
+individual backers who supported us.
+
+585
+00:34:57,560 --> 00:34:59,880
+Every day I wake up
+and I put on a product
+
+586
+00:34:59,880 --> 00:35:02,280
+that I helped make
+and I think it's really cool.
+
+587
+00:35:40,040 --> 00:35:42,120
+Crowdfunding
+is becoming a permanent piece
+
+588
+00:35:42,120 --> 00:35:44,360
+of the entire financial eco system,
+
+589
+00:35:44,360 --> 00:35:46,000
+because Crowdfunding is empowering
+
+590
+00:35:46,000 --> 00:35:50,200
+and allowing ideas to raise to
+the top based on their merits,
+
+591
+00:35:50,200 --> 00:35:52,120
+not based on a lucky connection.
+
+592
+00:35:52,120 --> 00:35:54,040
+Essentially people voting
+with their dollar saying
+
+593
+00:35:54,040 --> 00:35:56,280
+I want this idea to exist so badly
+
+594
+00:35:56,280 --> 00:35:58,480
+I'm willing to put money
+into it right now.
+
+595
+00:35:58,480 --> 00:36:00,560
+Our resource is like,
+err, Crowdfundings,
+
+596
+00:36:00,560 --> 00:36:03,320
+like Indiegogo or Kickstarter
+
+597
+00:36:03,320 --> 00:36:05,960
+allows a lot of these makers
+
+598
+00:36:05,960 --> 00:36:09,720
+to take their hobbies
+and create companies.
+
+599
+00:36:12,080 --> 00:36:14,320
+What I really like
+about Crowdfunding is
+
+600
+00:36:14,320 --> 00:36:16,280
+before you spend
+those millions of dollars,
+
+601
+00:36:16,280 --> 00:36:18,280
+if you can get a functional prototype,
+
+602
+00:36:18,280 --> 00:36:20,000
+and get people like Pebble did,
+
+603
+00:36:20,000 --> 00:36:22,640
+to be able to support it
+on a pre-sale basis,
+
+604
+00:36:22,640 --> 00:36:24,520
+you have a very strong poof point
+
+605
+00:36:24,520 --> 00:36:26,920
+that people actually will buy
+what you're building.
+
+606
+00:36:26,920 --> 00:36:28,960
+So you get money
+you get product market fit
+
+607
+00:36:28,960 --> 00:36:30,400
+to make sure that people
+are going to buy,
+
+608
+00:36:30,400 --> 00:36:32,160
+you create  a passionate community.
+
+609
+00:36:32,160 --> 00:36:35,440
+And it's also a great way
+to attract media attention.
+
+610
+00:36:35,440 --> 00:36:37,800
+VC would much prefer to come in
+and look at our project
+
+611
+00:36:37,800 --> 00:36:39,400
+that's been successfully funded
+
+612
+00:36:39,400 --> 00:36:42,080
+because they have the data points
+that people want to buy it.
+
+613
+00:36:44,360 --> 00:36:47,800
+One of the terms we actually picked up
+from a video
+
+614
+00:36:47,800 --> 00:36:49,200
+that was published on the site
+
+615
+00:36:49,200 --> 00:36:51,360
+and I think it resonates quite well
+with how we see the world,
+
+616
+00:36:51,360 --> 00:36:54,760
+is this concept of more art
+for more people.
+
+617
+00:36:54,760 --> 00:36:59,280
+I mean if you think about it right now
+there's only I think 300 films
+
+618
+00:36:59,280 --> 00:37:01,920
+that make it in Hollywood,
+at least in the United States.
+
+619
+00:37:01,920 --> 00:37:04,080
+In the future, millions of films
+will be made every year,
+
+620
+00:37:04,080 --> 00:37:06,120
+millions of films should be able
+to be viewed everywhere.
+
+621
+00:37:06,120 --> 00:37:08,600
+And that's how Youtube
+is completely democratized,
+
+622
+00:37:08,600 --> 00:37:10,200
+kind of video distributions.
+
+623
+00:37:12,320 --> 00:37:16,720
+You know I would describe this as
+for the farmer's markets right?
+
+624
+00:37:16,720 --> 00:37:18,880
+We're the parking
+lot of the farmers market
+
+625
+00:37:18,880 --> 00:37:20,960
+exists on where things happen.
+
+626
+00:37:20,960 --> 00:37:22,120
+Things get made.
+
+627
+00:37:24,400 --> 00:37:27,360
+Yeah. Err, I made a swing
+for my daughter this weekend.
+
+628
+00:37:27,360 --> 00:37:29,760
+So I made that.
+
+629
+00:37:29,760 --> 00:37:31,240
+And I made kickstarter.
+
+630
+00:37:31,680 --> 00:37:35,080
+You know obviously
+it takes a village to make Kickstarter,
+
+631
+00:37:35,080 --> 00:37:38,320
+everybody behind the company
+is part of the community
+
+632
+00:37:39,720 --> 00:37:41,880
+I think the biggest misunderstanding
+out there
+
+633
+00:37:41,880 --> 00:37:44,640
+is that people think Crowdfundings
+is just stranger funding.
+
+634
+00:37:44,640 --> 00:37:47,560
+It's like a field of dreams,
+you put up a project you walk away
+
+635
+00:37:47,560 --> 00:37:50,120
+and all of a sudden money comes
+and appears out of nowhere.
+
+636
+00:37:50,120 --> 00:37:51,600
+That's not the case.
+
+637
+00:37:51,600 --> 00:37:52,920
+It's community funding,
+
+638
+00:37:52,920 --> 00:37:56,400
+it's raising money from
+your inner circle first with the goal of,
+
+639
+00:37:56,400 --> 00:37:58,320
+then raising money
+from your outer circles
+
+640
+00:37:58,320 --> 00:37:59,880
+because they will help you bring it in.
+
+641
+00:37:59,880 --> 00:38:02,040
+And then eventually stranger dollars.
+
+642
+00:38:03,440 --> 00:38:06,640
+And with Indiegogo and Kickstarter
+and other related platforms,
+
+643
+00:38:06,640 --> 00:38:10,520
+suddenly we have found a way
+to bridge that gap
+
+644
+00:38:10,520 --> 00:38:12,720
+and start a company and find a capital.
+
+645
+00:38:12,720 --> 00:38:13,800
+And then you hear those amazing –
+
+646
+00:38:13,800 --> 00:38:15,760
+I mean, we had a, we had a women there
+
+647
+00:38:15,760 --> 00:38:20,680
+who for six years wanted to start
+a local library in Harlem.
+
+648
+00:38:21,520 --> 00:38:26,200
+And she had talked to every single bank
+that she could find
+
+649
+00:38:26,200 --> 00:38:29,280
+and was turned down
+over and over and over again.
+
+650
+00:38:29,280 --> 00:38:31,880
+Until someone said
+why don't you try Kickstarter,
+
+651
+00:38:31,880 --> 00:38:35,440
+and now east Harlem
+has a book store because of her.
+
+652
+00:38:47,640 --> 00:38:48,880
+We actually do need to figure out-
+
+653
+00:38:48,880 --> 00:38:51,080
+Can we fund a company
+that makes a device to-
+
+654
+00:38:51,080 --> 00:38:53,480
+...how to shelve sunflower seeds.
+
+655
+00:38:53,480 --> 00:38:56,080
+I believe that falls
+under the gadget empire.
+
+656
+00:39:02,000 --> 00:39:03,000
+What's its name?
+
+657
+00:39:03,000 --> 00:39:03,920
+Riley.
+
+658
+00:39:06,320 --> 00:39:09,840
+Lemnos Labs
+is a hardware focus incubator.
+
+659
+00:39:09,840 --> 00:39:13,080
+Jeremy and I know each other
+from MIT and as mechanical engineers
+
+660
+00:39:13,080 --> 00:39:16,800
+we were really frustrated
+that a lot of our graduating classmates,
+
+661
+00:39:16,800 --> 00:39:19,600
+they had to chose either do I want
+to be an entrepreneur
+
+662
+00:39:19,600 --> 00:39:21,240
+or do I want to be an engineer?
+
+663
+00:39:21,240 --> 00:39:22,400
+And if you wanted to be an engineer
+
+664
+00:39:22,400 --> 00:39:25,000
+you went to go work
+for a big boring company.
+
+665
+00:39:25,000 --> 00:39:27,000
+If you wanted to be an entrepreneur
+you learned how to write code.
+
+666
+00:39:27,000 --> 00:39:29,640
+So you know we wanted to you know
+tell the makers of the world that,
+
+667
+00:39:29,640 --> 00:39:31,840
+you know,
+you can start companies involving
+
+668
+00:39:31,840 --> 00:39:33,680
+manufacturing the physical product too.
+
+669
+00:39:35,400 --> 00:39:37,520
+So this is one of
+our consumer electronics companies
+
+670
+00:39:37,520 --> 00:39:40,080
+and they make
+a tele-presence tablet stand.
+
+671
+00:39:40,080 --> 00:39:41,720
+And this allows you to dial in and pan
+
+672
+00:39:41,720 --> 00:39:43,280
+until it actually kind of
+feel like you're actually there.
+
+673
+00:39:43,280 --> 00:39:44,680
+So we actually use this
+
+674
+00:39:44,680 --> 00:39:47,120
+when we're having conference calls
+and people can dial in
+
+675
+00:39:47,120 --> 00:39:48,960
+and look at individual people.
+
+676
+00:39:48,960 --> 00:39:50,560
+So this is pantry
+and its' one of our startups
+
+677
+00:39:50,560 --> 00:39:54,240
+and they're all about
+making fresh food available everywhere.
+
+678
+00:39:54,240 --> 00:39:56,800
+So what they do
+is they create a great solution
+
+679
+00:39:56,800 --> 00:40:00,960
+where all you have to do
+is swipe a credit card
+
+680
+00:40:00,960 --> 00:40:02,720
+and then you just
+take out whatever you want
+
+681
+00:40:02,720 --> 00:40:04,920
+and they're RFID experts so
+
+682
+00:40:04,920 --> 00:40:07,240
+it automatically bills you
+for whatever you remove.
+
+683
+00:40:08,400 --> 00:40:12,360
+The challenge we see
+from current Crowdfunding campaigns
+
+684
+00:40:12,360 --> 00:40:16,320
+is that many of the entrepreneurs
+come at this from a software background
+
+685
+00:40:16,320 --> 00:40:18,680
+but they don't have
+a hardware background.
+
+686
+00:40:18,680 --> 00:40:20,920
+And the challenge with hardware
+is that it costs money.
+
+687
+00:40:20,920 --> 00:40:22,920
+In all Crowdfunding platforms
+
+688
+00:40:22,920 --> 00:40:25,280
+you typically
+will set a certain threshold
+
+689
+00:40:25,280 --> 00:40:27,240
+that if you exceed that you get the money
+
+690
+00:40:27,240 --> 00:40:28,160
+and if you don't then you know
+
+691
+00:40:28,160 --> 00:40:30,280
+there wasn't quite
+the product market fit.
+
+692
+00:40:30,280 --> 00:40:34,040
+The problem comes they would end up
+not setting the threshold high enough.
+
+693
+00:40:34,040 --> 00:40:37,120
+They would get funded
+and have a successful campaign
+
+694
+00:40:37,120 --> 00:40:39,960
+but the second after the campaign
+closed they just failed,
+
+695
+00:40:39,960 --> 00:40:42,120
+unless they brought on outside money
+
+696
+00:40:42,120 --> 00:40:44,840
+and financing that they could
+possibly deliver the product.
+
+697
+00:40:44,840 --> 00:40:46,360
+ And so sometimes people
+come to us and they say
+
+698
+00:40:46,360 --> 00:40:47,920
+hey I've done a Crowdfunding,
+
+699
+00:40:47,920 --> 00:40:49,920
+you know I'd love to join your incubator,
+
+700
+00:40:49,920 --> 00:40:51,880
+we're like well unfortunately
+you've priced it wrong.
+
+701
+00:40:51,880 --> 00:40:54,400
+Or you didn't account for a CE sticker.
+
+702
+00:40:54,400 --> 00:40:56,760
+We think it's really important
+to coach them and be with them
+
+703
+00:40:56,760 --> 00:40:58,440
+and invest in them really early on
+
+704
+00:40:58,440 --> 00:41:01,520
+and then use that Crowdfunding
+as that final validation.
+
+705
+00:41:01,520 --> 00:41:05,960
+Lemnos? Lemnos is the Greek island
+where Hephaestus,
+
+706
+00:41:05,960 --> 00:41:07,880
+god of metallurgy,
+
+707
+00:41:07,880 --> 00:41:10,680
+which we've sort of loosely defined
+as the god of technology.
+
+708
+00:41:10,680 --> 00:41:12,480
+He actually built
+all the really cool things
+
+709
+00:41:12,480 --> 00:41:15,000
+in Greek mythology
+like Achilles' armor,
+
+710
+00:41:15,000 --> 00:41:17,560
+Zeus's thunderbolt, Helios's chariot.
+
+711
+00:41:17,560 --> 00:41:19,680
+Lemnos is the island
+where he had his forge
+
+712
+00:41:19,680 --> 00:41:21,040
+and built all that stuff.
+
+713
+00:41:26,680 --> 00:41:29,040
+30 years ago, if I had said
+
+714
+00:41:29,040 --> 00:41:31,480
+that in 2013 everybody's
+going to be walking
+
+715
+00:41:31,480 --> 00:41:33,800
+around with a telephone in your pocket,
+
+716
+00:41:33,800 --> 00:41:35,560
+you would have laughed at me and said
+
+717
+00:41:35,560 --> 00:41:39,960
+look you know I saw this movie somewhere
+of a guy walking around
+
+718
+00:41:39,960 --> 00:41:42,400
+with a briefcase sized telephone.
+
+719
+00:41:42,400 --> 00:41:44,840
+You think everybody's going to do that?
+That's crazy.
+
+720
+00:41:44,840 --> 00:41:47,000
+But it was almost inevitable
+that they would get
+
+721
+00:41:47,000 --> 00:41:49,160
+smaller and smaller
+and lighter and lighter
+
+722
+00:41:49,160 --> 00:41:50,800
+and sexier and sexier.
+
+723
+00:41:50,800 --> 00:41:53,840
+And now everybody's walking around
+with a telephone in their pocket.
+
+724
+00:41:54,400 --> 00:41:56,480
+For me to the maker's movement today
+
+725
+00:41:56,480 --> 00:41:59,320
+is the exact inverse
+of what we are seeing.
+
+726
+00:41:59,320 --> 00:42:04,160
+A small number of tinkerers
+in 18th century England.
+
+727
+00:42:04,160 --> 00:42:06,640
+And somebody's experimenting
+with a different way
+
+728
+00:42:06,640 --> 00:42:09,440
+of wrapping wool around a spindle.
+
+729
+00:42:09,440 --> 00:42:11,240
+Or somebody else is experimenting
+
+730
+00:42:11,240 --> 00:42:13,240
+with a different way
+of getting a cylinder
+
+731
+00:42:13,240 --> 00:42:15,840
+to seal properly in a piston.
+
+732
+00:42:15,840 --> 00:42:18,000
+And somebody is experimenting with this
+
+733
+00:42:18,000 --> 00:42:20,960
+and with a new method
+of producing a higher
+
+734
+00:42:20,960 --> 00:42:23,640
+and more consistent grade of steel.
+
+735
+00:42:23,640 --> 00:42:28,800
+And you know taken by themselves
+they look like small scale,
+
+736
+00:42:28,800 --> 00:42:30,840
+not very meaningful experiments,
+
+737
+00:42:30,840 --> 00:42:34,440
+and then suddenly
+we have the cotton industry
+
+738
+00:42:34,440 --> 00:42:36,240
+and the railroad industry.
+
+739
+00:42:36,240 --> 00:42:37,840
+And steam power.
+
+740
+00:42:37,840 --> 00:42:39,800
+And the electrical industry.
+
+741
+00:42:39,800 --> 00:42:42,760
+And the world pivots and it does so
+
+742
+00:42:42,760 --> 00:42:45,480
+in the extraordinarily
+short period of time.
+
+743
+00:42:51,480 --> 00:42:54,720
+Oncoming attractive useful products.
+
+744
+00:42:54,720 --> 00:42:56,120
+Well-made.
+
+745
+00:42:56,720 --> 00:42:59,000
+More and more products acceptable
+
+746
+00:42:59,000 --> 00:43:01,920
+to the more and more exacting demands
+
+747
+00:43:01,920 --> 00:43:04,080
+of more and more Americans.
+
+748
+00:43:07,160 --> 00:43:10,320
+All in our own personal
+choices of colors,
+
+749
+00:43:10,320 --> 00:43:14,320
+models, sizes, styles,
+price-ranges and types.
+
+750
+00:43:14,320 --> 00:43:16,360
+Better made, more dependable,
+
+751
+00:43:16,360 --> 00:43:18,440
+more nearly trouble-free
+
+752
+00:43:18,440 --> 00:43:20,840
+than products made
+in any such quantities
+
+753
+00:43:20,840 --> 00:43:23,080
+anywhere else in the world.
+
+754
+00:43:23,080 --> 00:43:28,600
+All a part of the beauty produced
+so bountifully for you and for me,
+
+755
+00:43:28,600 --> 00:43:31,400
+by our American makers.
+
+756
+00:43:47,240 --> 00:43:49,040
+If you think about
+the industrial revolution,
+
+757
+00:43:49,040 --> 00:43:51,680
+one of the essences
+of the industrial revolution
+
+758
+00:43:51,680 --> 00:43:54,720
+was this idea of mass production.
+
+759
+00:43:54,720 --> 00:43:56,120
+And the idea of mass production
+
+760
+00:43:56,120 --> 00:44:00,680
+was that in order to get
+really high quality at low cost,
+
+761
+00:44:00,680 --> 00:44:02,360
+you had to make a lot of things.
+
+762
+00:44:02,360 --> 00:44:04,400
+The change that's going on today
+
+763
+00:44:04,400 --> 00:44:07,480
+is we can now make things
+of really high quality –
+
+764
+00:44:07,480 --> 00:44:10,600
+at low volume at reasonable cost.
+
+765
+00:44:11,040 --> 00:44:14,440
+You know I've been making things
+for 40 years or so.
+
+766
+00:44:14,440 --> 00:44:15,680
+I'm a little bit of both.
+
+767
+00:44:15,680 --> 00:44:18,480
+I'm both the CEO,
+I'm the CEO of autodesk,
+
+768
+00:44:18,480 --> 00:44:20,000
+and I'm also a maker.
+
+769
+00:44:20,800 --> 00:44:23,280
+You know for many years
+I kept them separate.
+
+770
+00:44:23,280 --> 00:44:27,440
+Ten years ago I realized the two worlds
+were coming together on both sides.
+
+771
+00:44:27,440 --> 00:44:31,960
+One is the software we were making
+was being used more and more for makers,
+
+772
+00:44:31,960 --> 00:44:33,600
+and on the other side I found out
+
+773
+00:44:33,600 --> 00:44:36,120
+that in my personal work
+I started to use software.
+
+774
+00:44:36,120 --> 00:44:38,480
+In the design, in the engineering,
+
+775
+00:44:38,480 --> 00:44:40,560
+and nowadays even in the fabrication.
+
+776
+00:44:45,480 --> 00:44:47,440
+Oh, here's one of the things
+I made a lot of.
+
+777
+00:44:48,440 --> 00:44:50,280
+I made a lot of baseball bats.
+
+778
+00:44:50,280 --> 00:44:52,720
+So I made these with my kids.
+
+779
+00:44:53,480 --> 00:44:57,320
+But the whole story started out
+with this wood that I bought in,
+
+780
+00:44:57,320 --> 00:44:58,760
+I bought it in Oregon.
+
+781
+00:44:58,760 --> 00:45:03,000
+The thing about wood particularly
+as opposed to the work I do with metal,
+
+782
+00:45:03,000 --> 00:45:04,120
+like with metal,
+
+783
+00:45:04,120 --> 00:45:07,960
+I can go to bronze or aluminum
+or steel any time I want.
+
+784
+00:45:07,960 --> 00:45:09,840
+You just go buy the metal
+when you need it.
+
+785
+00:45:09,840 --> 00:45:12,720
+Wood is different you know,
+each piece is kind of unique.
+
+786
+00:45:12,720 --> 00:45:14,360
+I just finished making
+a piece of furniture,
+
+787
+00:45:14,360 --> 00:45:19,160
+I made a bed with a piece of wood that
+I'd carried around for about 25 years.
+
+788
+00:45:19,160 --> 00:45:20,840
+Sometimes the wood just sits
+there for a while
+
+789
+00:45:20,840 --> 00:45:23,880
+and then I eventually figure out
+what I'm going to do with it.
+
+790
+00:45:23,880 --> 00:45:28,680
+Right now I'm working on a table
+using the five axis Router
+
+791
+00:45:28,680 --> 00:45:31,520
+to carve some sculptural components.
+
+792
+00:45:31,520 --> 00:45:34,520
+These are some planks
+that are glued up to do that.
+
+793
+00:45:35,520 --> 00:45:37,080
+Here's another design
+that I'm working on,
+
+794
+00:45:37,080 --> 00:45:39,200
+this is a little 3D print,
+
+795
+00:45:39,200 --> 00:45:43,360
+been using that a lot lately,
+of a chair that we're going to make.
+
+796
+00:45:43,360 --> 00:45:45,160
+So the chair
+will look something like this
+
+797
+00:45:45,160 --> 00:45:48,480
+and here's the first – here's a,
+
+798
+00:45:48,480 --> 00:45:51,280
+one of the first tests
+that are being metaled –
+
+799
+00:45:51,280 --> 00:45:53,240
+ this just started as a big blank,
+
+800
+00:45:53,240 --> 00:45:55,440
+use the CNC router to do it.
+
+801
+00:45:55,440 --> 00:45:57,400
+So I think mass manufacturing,
+
+802
+00:45:57,400 --> 00:45:59,520
+you know particularly in places
+like Asia
+
+803
+00:45:59,520 --> 00:46:01,840
+as well as places like Mexico,
+
+804
+00:46:01,840 --> 00:46:04,240
+parts of the Middle East, will continue.
+
+805
+00:46:04,240 --> 00:46:08,320
+The capacity and capability
+they have is kind of unrivaled.
+
+806
+00:46:08,320 --> 00:46:10,960
+But I think we've reached the peak
+
+807
+00:46:10,960 --> 00:46:13,760
+where manufacturing around the world
+is centralized.
+
+808
+00:46:13,760 --> 00:46:16,680
+And I think you're going to see
+a steady advance
+
+809
+00:46:16,680 --> 00:46:18,640
+in localized manufacturing.
+
+810
+00:46:20,040 --> 00:46:22,760
+What I sometimes like to imagine
+
+811
+00:46:22,760 --> 00:46:27,680
+is that a phenomenon
+such as the maker's movement
+
+812
+00:46:28,520 --> 00:46:33,320
+is not a return to
+a pre-industrial type of production.
+
+813
+00:46:33,320 --> 00:46:37,800
+We're not going to abandon
+having cars and motorcycles,
+
+814
+00:46:37,800 --> 00:46:40,240
+and digital equipment and,
+
+815
+00:46:40,240 --> 00:46:44,080
+err, a reliable food supply
+and things like that,
+
+816
+00:46:44,080 --> 00:46:50,120
+in order to go back to poverty
+and starvation and privation and that.
+
+817
+00:46:50,120 --> 00:46:53,880
+But we can think about
+using the technologies
+
+818
+00:46:53,880 --> 00:46:57,560
+that we have developed
+over these past 200 years
+
+819
+00:46:57,560 --> 00:47:03,280
+to return to smaller scale
+of production err,
+
+820
+00:47:03,280 --> 00:47:09,320
+that is marked by, um,
+customization, individualization,
+
+821
+00:47:09,320 --> 00:47:14,600
+um, small batch production,
+and, um, things of that nature.
+
+822
+00:47:19,240 --> 00:47:22,000
+About four years ago
+when I first started meeting
+
+823
+00:47:22,000 --> 00:47:24,480
+a lot of these American manufacturers,
+
+824
+00:47:24,480 --> 00:47:26,960
+what I notices
+that they would be doing samples
+
+825
+00:47:26,960 --> 00:47:29,920
+for all of these much larger brands.
+
+826
+00:47:29,920 --> 00:47:33,520
+Today we're seeing
+so many of these orders
+
+827
+00:47:33,520 --> 00:47:36,520
+that would have been sent overseas
+for mass production
+
+828
+00:47:36,520 --> 00:47:39,080
+now being produced
+within these facilities.
+
+829
+00:47:39,080 --> 00:47:41,400
+And initially
+a lot of people go overseas
+
+830
+00:47:41,400 --> 00:47:44,120
+because of the price differential,
+
+831
+00:47:44,120 --> 00:47:48,120
+but now we're seeing
+the prices very much more competitive
+
+832
+00:47:48,120 --> 00:47:49,040
+than they were before,
+
+833
+00:47:49,040 --> 00:47:51,880
+let's say 20 even 10 years ago.
+
+834
+00:47:51,880 --> 00:47:55,720
+And we also saw that it's started
+to become more of an on-demand economy,
+
+835
+00:47:55,720 --> 00:47:57,320
+was one of the real reasons why
+
+836
+00:47:57,320 --> 00:48:00,880
+we decided to focus
+on American manufacturing,
+
+837
+00:48:00,880 --> 00:48:03,400
+because now what you're seeing
+that speed to market
+
+838
+00:48:03,400 --> 00:48:06,880
+is becoming much more important in,
+within business.
+
+839
+00:48:06,880 --> 00:48:09,400
+And so for instance what the Netflix,
+
+840
+00:48:09,400 --> 00:48:14,800
+you know what Netflix did
+was really be able to bring movies to
+
+841
+00:48:14,800 --> 00:48:16,200
+so that it's more on demand.
+
+842
+00:48:16,200 --> 00:48:18,440
+So that you can get
+it instantly or quicker.
+
+843
+00:48:18,440 --> 00:48:22,600
+It was important for us not just to have
+a directory of manufacturers,
+
+844
+00:48:22,600 --> 00:48:25,880
+but also use this step by step process
+
+845
+00:48:25,880 --> 00:48:29,520
+in which from the basic concept
+to product in hand,
+
+846
+00:48:29,520 --> 00:48:31,680
+simple as ordering pizza.
+
+847
+00:48:31,680 --> 00:48:34,600
+Where you can basically track
+this whole process
+
+848
+00:48:34,600 --> 00:48:37,640
+where they'll tell you Jake
+is putting on the toppings now,
+
+849
+00:48:37,640 --> 00:48:39,280
+and it's going into the oven.
+
+850
+00:48:39,280 --> 00:48:42,480
+I would just say that now
+is the best time that I've ever seen
+
+851
+00:48:42,480 --> 00:48:44,960
+for a small business to be creative.
+
+852
+00:48:44,960 --> 00:48:46,760
+Not only the access to resources
+
+853
+00:48:46,760 --> 00:48:49,760
+but also just the outpoint
+and the social.
+
+854
+00:48:52,280 --> 00:48:56,440
+I believe that there's a renaissance
+in micro-manufacturing
+
+855
+00:48:56,440 --> 00:48:57,600
+in the urban environment.
+
+856
+00:48:57,600 --> 00:49:00,320
+I think there's a whole new generation
+of manufacturers
+
+857
+00:49:00,320 --> 00:49:04,920
+that are enabled by modern desktop
+manufacturing technologies,
+
+858
+00:49:04,920 --> 00:49:11,240
+digital technologies, laser cutters,
+3D printers, digital printing,
+
+859
+00:49:11,240 --> 00:49:13,520
+all of these technologies
+combine together
+
+860
+00:49:13,520 --> 00:49:16,800
+to allow small manufacturers
+to make things locally.
+
+861
+00:49:29,640 --> 00:49:32,480
+Rickshaw Bagworks
+is a local sewing factory here
+
+862
+00:49:32,480 --> 00:49:35,240
+in San Francisco
+in the Dogpatch neighborhood.
+
+863
+00:49:35,240 --> 00:49:36,600
+Throw our door open every day
+
+864
+00:49:36,600 --> 00:49:39,160
+and invite people in
+to see how we make things.
+
+865
+00:49:39,160 --> 00:49:41,760
+Getting beyond that black box
+and looking back in there
+
+866
+00:49:41,760 --> 00:49:43,840
+and saying hey what really
+goes on inside of here?
+
+867
+00:49:46,680 --> 00:49:49,160
+Very interesting you notice
+that my sewing team,
+
+868
+00:49:49,160 --> 00:49:50,600
+all the women are Chinese.
+
+869
+00:49:50,600 --> 00:49:52,680
+Chinese is the first language
+in our factory.
+
+870
+00:49:52,680 --> 00:49:54,840
+It turns out that here
+in San Francisco
+
+871
+00:49:54,840 --> 00:49:59,360
+the Chinese community has really been
+the backbone of the sewing community.
+
+872
+00:50:01,920 --> 00:50:04,160
+The name Rickshaw is actually Japanese
+
+873
+00:50:04,160 --> 00:50:07,000
+for human powered
+or human strength vehicle.
+
+874
+00:50:07,000 --> 00:50:10,240
+Um, Our sort of tagline
+is fresh bags made daily
+
+875
+00:50:10,240 --> 00:50:13,600
+and actually
+we are using baking carts here
+
+876
+00:50:13,600 --> 00:50:15,440
+to move some of our fabric around.
+
+877
+00:50:17,840 --> 00:50:19,520
+This is a totally different scale.
+
+878
+00:50:19,520 --> 00:50:21,400
+I call this micro-manufacturing,
+
+879
+00:50:21,400 --> 00:50:24,000
+some people call it
+boutique manufacturing.
+
+880
+00:50:24,000 --> 00:50:25,640
+They first go to the laser cutter
+
+881
+00:50:25,640 --> 00:50:28,520
+where they're cut
+into the shape they'll be made,
+
+882
+00:50:28,520 --> 00:50:31,560
+and then they go through
+a lean manufacturing process.
+
+883
+00:50:31,560 --> 00:50:33,720
+Product goes through
+a sequential process,
+
+884
+00:50:33,720 --> 00:50:34,800
+a continuous flow,
+
+885
+00:50:34,800 --> 00:50:36,880
+it goes from one step to the next.
+
+886
+00:50:43,400 --> 00:50:44,720
+And having your own, you know,
+
+887
+00:50:44,720 --> 00:50:48,200
+manufacturing
+is that we can design, prototype,
+
+888
+00:50:48,200 --> 00:50:50,480
+and get into production very quickly.
+
+889
+00:50:53,000 --> 00:50:56,880
+Local economies
+and global supply chains can coexist.
+
+890
+00:50:56,880 --> 00:51:00,560
+I think the two are not mutually
+exclusive by any means whatsoever.
+
+891
+00:51:00,560 --> 00:51:02,800
+Some things exist at the local level,
+
+892
+00:51:02,800 --> 00:51:06,680
+some at the mass
+global supply chain level,
+
+893
+00:51:06,680 --> 00:51:08,760
+and there are things
+that are hybrids as well.
+
+894
+00:51:08,760 --> 00:51:11,520
+We have a product line here
+that has components
+
+895
+00:51:11,520 --> 00:51:14,440
+that are labor intensive
+that are made in China,
+
+896
+00:51:14,440 --> 00:51:16,400
+but we bring them together here
+
+897
+00:51:16,400 --> 00:51:18,800
+and do the customization in our factory,
+
+898
+00:51:18,800 --> 00:51:20,400
+so it's a hybrid product.
+
+899
+00:51:22,600 --> 00:51:24,360
+One day my kids were at school
+
+900
+00:51:24,360 --> 00:51:25,720
+and they were going around
+the classroom saying well
+
+901
+00:51:25,720 --> 00:51:27,480
+what does your father
+or what does your mom do.
+
+902
+00:51:27,480 --> 00:51:30,280
+My son says oh,
+you know my dad makes bags.
+
+903
+00:51:30,640 --> 00:51:33,480
+And someone right next to
+him said paper or plastic?
+
+904
+00:51:33,480 --> 00:51:36,000
+Which is the classic line here
+in the United States
+
+905
+00:51:36,000 --> 00:51:37,400
+when you're checking out
+of the supermarket.
+
+906
+00:51:37,400 --> 00:51:38,720
+Paper or plastic.
+
+907
+00:51:38,720 --> 00:51:41,400
+So I am the bag guy
+but I make different bags
+
+908
+00:51:41,400 --> 00:51:43,000
+than paper or plastic bags.
+
+909
+00:52:28,240 --> 00:52:31,280
+The United States used to have
+a hot rod culture.
+
+910
+00:52:31,280 --> 00:52:35,240
+And a lot of people spent
+a lot of time taking apart their cars
+
+911
+00:52:35,240 --> 00:52:37,560
+and putting them back together again.
+
+912
+00:52:37,560 --> 00:52:41,120
+That culture still exists
+but not quite in the same way.
+
+913
+00:52:41,120 --> 00:52:44,720
+If you open up the hood of a car today,
+
+914
+00:52:44,720 --> 00:52:48,040
+you'll usually see
+a sealed plastic cover.
+
+915
+00:52:48,040 --> 00:52:50,760
+It's very hard to tinker
+with your car now.
+
+916
+00:52:52,560 --> 00:52:54,440
+One of the tools of the maker movement
+
+917
+00:52:54,440 --> 00:52:56,880
+is providing today are really analogous.
+
+918
+00:52:56,880 --> 00:53:00,600
+They can do desktop publishing
+or to some of the early software that,
+
+919
+00:53:00,600 --> 00:53:02,920
+um, allowed people
+to publish things on the web.
+
+920
+00:53:02,920 --> 00:53:04,960
+It would be really hard
+to go back to say,
+
+921
+00:53:04,960 --> 00:53:09,160
+you know, the days of the TRS80
+And predict something like Facebook.
+
+922
+00:53:09,160 --> 00:53:12,120
+So we can't really envision everything
+that will happen,
+
+923
+00:53:12,120 --> 00:53:15,240
+but what we can say
+in more general terms
+
+924
+00:53:15,240 --> 00:53:18,560
+is that rather than having
+a few large producers
+
+925
+00:53:18,560 --> 00:53:23,480
+of common standard almost products
+that we all use and know,
+
+926
+00:53:23,480 --> 00:53:27,120
+you'll have lots and lots and lots
+of people making a few thousands
+
+927
+00:53:27,120 --> 00:53:28,680
+or tens of thousands of something
+
+928
+00:53:28,680 --> 00:53:30,600
+which is really just
+what you're looking for.
+
+929
+00:53:39,720 --> 00:53:41,840
+So I'm Damien, Damien Declercq.
+
+930
+00:53:41,840 --> 00:53:44,800
+I've been working with Local Motors now
+for two years and a half.
+
+931
+00:53:44,800 --> 00:53:47,200
+And I'm looking after
+the business development of the company.
+
+932
+00:53:47,200 --> 00:53:49,760
+One of our mission which is co-creation.
+
+933
+00:53:53,400 --> 00:53:57,280
+So this means that we are not going
+for the one size fits all.
+
+934
+00:53:57,920 --> 00:54:01,560
+We're building small batches
+of niche vehicles
+
+935
+00:54:01,560 --> 00:54:04,160
+that are good for a local market.
+
+936
+00:54:04,160 --> 00:54:08,520
+This is where the main difference
+is with large automotive manufacturers.
+
+937
+00:54:08,520 --> 00:54:11,560
+They are building large plants
+to produce
+
+938
+00:54:11,560 --> 00:54:15,400
+a large amount of vehicles
+but all the same type.
+
+939
+00:54:22,240 --> 00:54:24,040
+So Local Motors makes cars.
+
+940
+00:54:24,040 --> 00:54:26,000
+From the design of the car
+to the manufacturing of the car
+
+941
+00:54:26,000 --> 00:54:28,960
+everything is designed to be profitable
+at a small scale.
+
+942
+00:54:28,960 --> 00:54:30,960
+So if General Motors designed a car
+
+943
+00:54:30,960 --> 00:54:33,880
+and they sold five or ten
+or 20 thousands units of their car,
+
+944
+00:54:33,880 --> 00:54:36,400
+it would be a complete catastrophe.
+
+945
+00:54:36,400 --> 00:54:38,400
+Um, but if Local Motors dos that they're,
+
+946
+00:54:38,400 --> 00:54:41,520
+they're actually geared up to, you know,
+break even at that price,
+
+947
+00:54:41,520 --> 00:54:46,040
+the same way that bloggers undermined
+a lot of the newspapers and other media.
+
+948
+00:54:46,040 --> 00:54:48,440
+And Youtube has changed the way
+we consume television.
+
+949
+00:54:48,440 --> 00:54:49,760
+And all these things are happening.
+
+950
+00:54:49,760 --> 00:54:52,480
+You see the same types of
+things happening in manufacturing.
+
+951
+00:55:11,280 --> 00:55:14,960
+Basically when we do a project for us,
+it's fairly straight-forward.
+
+952
+00:55:14,960 --> 00:55:16,680
+Everything is open source.
+
+953
+00:55:16,680 --> 00:55:19,640
+You can download the CAD data
+of the Rally Fighter.
+
+954
+00:55:19,640 --> 00:55:22,080
+So if you want to build
+a Rally Fighter in your garage,
+
+955
+00:55:22,080 --> 00:55:24,920
+well, you have everything
+that you need available there.
+
+956
+00:55:24,920 --> 00:55:28,280
+But today when you come
+to build your Rally Fighter here
+
+957
+00:55:28,280 --> 00:55:29,200
+at the micro factory,
+
+958
+00:55:29,200 --> 00:55:31,720
+you pay for the hardware
+and you pay for the training
+
+959
+00:55:31,720 --> 00:55:34,600
+and you pay for the access
+to the tools to build your cars.
+
+960
+00:55:34,600 --> 00:55:39,000
+So this is how we generate revenue
+for the company to be sustainable.
+
+961
+00:55:49,560 --> 00:55:51,640
+So for the moment
+we have one micro factory,
+
+962
+00:55:51,640 --> 00:55:53,880
+and we're in this one, yes.
+
+963
+00:55:53,880 --> 00:55:58,000
+We're planning on opening a lot more,
+about 100 more in ten years,
+
+964
+00:55:58,000 --> 00:56:00,600
+and we're also planning to expand
+
+965
+00:56:00,600 --> 00:56:02,720
+the number of vehicles that we're doing.
+
+966
+00:56:16,480 --> 00:56:20,600
+So being a maker
+isn't just about electronics.
+
+967
+00:56:20,600 --> 00:56:24,480
+It's about seeing things
+that don't work as well as they could
+
+968
+00:56:24,480 --> 00:56:26,160
+and learning how to fix them.
+
+969
+00:56:26,160 --> 00:56:29,360
+So I have this old chicken coop
+which I inherited with the house.
+
+970
+00:56:29,360 --> 00:56:30,840
+And we have 8 chickens.
+
+971
+00:56:30,840 --> 00:56:32,720
+And um, it's not big enough.
+
+972
+00:56:32,720 --> 00:56:33,960
+You know that's one of the problems
+
+973
+00:56:33,960 --> 00:56:37,160
+because we travel a lot and we have
+to leave the chickens locked up.
+
+974
+00:56:37,160 --> 00:56:38,200
+But more than that,
+
+975
+00:56:38,200 --> 00:56:43,400
+you come in you'll see
+that it's pretty messy place
+
+976
+00:56:43,400 --> 00:56:45,960
+and it's not that well-designed
+
+977
+00:56:45,960 --> 00:56:50,360
+because the chickens roost up
+on the post,
+
+978
+00:56:50,360 --> 00:56:54,160
+and then they poop
+down into the nesting boxes
+
+979
+00:56:54,160 --> 00:56:56,240
+where they lay the eggs.
+
+980
+00:56:56,240 --> 00:56:59,160
+So that was clearly a bad design.
+
+981
+00:57:05,000 --> 00:57:06,000
+So,
+
+982
+00:57:11,240 --> 00:57:13,880
+if you look at the design
+of the new coop I'm building,
+
+983
+00:57:14,480 --> 00:57:16,760
+first of all it's got a wire mesh bottom
+
+984
+00:57:17,080 --> 00:57:19,440
+so when they're roosting,
+
+985
+00:57:19,440 --> 00:57:20,760
+the poop will just fall down
+
+986
+00:57:20,760 --> 00:57:22,920
+through the mesh
+down into the area down below
+
+987
+00:57:22,920 --> 00:57:24,920
+where it's a lot easier to clean.
+
+988
+00:57:24,920 --> 00:57:28,560
+And the nesting boxes have been
+pushed to the outside of the coop,
+
+989
+00:57:28,560 --> 00:57:31,040
+so there's no change
+that the chickens will,
+
+990
+00:57:31,040 --> 00:57:35,280
+um, basically do their business
+where they're also laying the eggs.
+
+991
+00:57:38,440 --> 00:57:40,080
+There's also a lot of little details.
+
+992
+00:57:40,080 --> 00:57:41,360
+You know, we had problems with rats,
+
+993
+00:57:41,360 --> 00:57:44,160
+so we got some, you know,
+rats can actually squeeze
+
+994
+00:57:44,160 --> 00:57:45,840
+through chicken wire like that,
+
+995
+00:57:45,840 --> 00:57:47,320
+but they can't squeeze
+through hardware cloth.
+
+996
+00:57:47,320 --> 00:57:50,800
+So little fixes we put hardware cloth
+a couple of feet down
+
+997
+00:57:50,800 --> 00:57:52,840
+so they couldn't tunnel under.
+
+998
+00:57:52,840 --> 00:57:56,560
+You know you think about
+how do you solve problems.
+
+999
+00:57:56,560 --> 00:58:01,320
+And it's that sort
+of engaging designing in a way
+
+1000
+00:58:01,320 --> 00:58:05,520
+that makes something work
+that's the essence of making.
+
+1001
+00:58:05,520 --> 00:58:07,880
+It's not that you use electronics.
+
+1002
+00:58:14,040 --> 00:58:16,400
+Millions of entrepreneurs
+were able to come up
+
+1003
+00:58:16,400 --> 00:58:19,320
+with the very effective
+and simple solutions
+
+1004
+00:58:19,320 --> 00:58:21,800
+using very limited resources.
+
+1005
+00:58:21,800 --> 00:58:24,400
+You know what they call
+in the US the MacGyver spirit,
+
+1006
+00:58:24,400 --> 00:58:28,440
+you know,  which is the ability
+to come up with the makeshift solution
+
+1007
+00:58:28,440 --> 00:58:30,040
+when you have nothing except,
+
+1008
+00:58:30,040 --> 00:58:32,840
+you know,
+duct tape and your Swiss army knife.
+
+1009
+00:58:54,520 --> 00:58:58,960
+We needed to figure out a way
+to have TEMPT draw again.
+
+1010
+00:58:58,960 --> 00:59:02,280
+His eyes were the only muscle
+that he could move
+
+1011
+00:59:02,280 --> 00:59:04,480
+so we created something
+that worked within that.
+
+1012
+00:59:07,000 --> 00:59:10,520
+One he was going to be able
+to talk through a machine
+
+1013
+00:59:10,520 --> 00:59:13,640
+and two that he was going to be able
+to do his art again.
+
+1014
+00:59:15,920 --> 00:59:18,520
+The Eye Writer we made for
+under 100 dollars.
+
+1015
+00:59:18,520 --> 00:59:23,720
+Today I made eye writers
+in my 9 year old son's classroom
+
+1016
+00:59:23,720 --> 00:59:27,640
+and the total cost of those devices
+were under ten dollars.
+
+1017
+00:59:27,640 --> 00:59:29,240
+And by doing that I don't think
+
+1018
+00:59:29,240 --> 00:59:32,560
+it's going to instantly change
+the medical industry over night,
+
+1019
+00:59:32,560 --> 00:59:35,800
+but as you reduce
+the cost of goods sold,
+
+1020
+00:59:35,800 --> 00:59:39,440
+you have the potential
+to make things more affordable.
+
+1021
+00:59:39,440 --> 00:59:43,680
+For me this represents kind
+of the Jugaad or the maker spirit.
+
+1022
+00:59:43,680 --> 00:59:47,840
+And Jugaad is a Hindi word
+that means an improvised solution
+
+1023
+00:59:47,840 --> 00:59:50,520
+born from ingenuity and cleverness.
+
+1024
+00:59:52,960 --> 00:59:55,680
+Some interesting entrepreneurs in India,
+
+1025
+00:59:55,680 --> 00:59:58,680
+one of them is named Mansukh Prajapati.
+
+1026
+00:59:58,680 --> 01:00:01,080
+He actually has created in my opinion
+
+1027
+01:00:01,080 --> 01:00:04,960
+the world's greenest fridge
+made entirely of clay.
+
+1028
+01:00:04,960 --> 01:00:09,520
+It consumes no electricity
+and it is 100 percent biodegradable.
+
+1029
+01:00:09,520 --> 01:00:12,920
+It keeps fruits and vegetables fresh
+for five days.
+
+1030
+01:00:12,920 --> 01:00:16,080
+And it cost only about 25 or 30 dollars.
+
+1031
+01:00:17,600 --> 01:00:18,880
+So the maker movement
+
+1032
+01:00:18,880 --> 01:00:22,280
+is not only spreading
+across 50 states in the US,
+
+1033
+01:00:22,280 --> 01:00:25,520
+but it's now spreading
+also in other countries.
+
+1034
+01:00:25,520 --> 01:00:28,640
+And particularly in Europe,
+especially the western part of Europe,
+
+1035
+01:00:28,640 --> 01:00:31,800
+are very affected
+by the economic crisis.
+
+1036
+01:00:31,800 --> 01:00:35,280
+The governments in Europe,
+in France, Spain and Italy
+
+1037
+01:00:35,280 --> 01:00:37,560
+are closely looking at
+the maker movement
+
+1038
+01:00:37,560 --> 01:00:42,280
+and are beginning to support and fund
+the growth of this movement as well.
+
+1039
+01:00:44,560 --> 01:00:47,440
+I think that the maker
+movement represents
+
+1040
+01:00:47,440 --> 01:00:50,800
+power shifting to the individual
+and power to the people
+
+1041
+01:00:50,800 --> 01:00:53,000
+then I guess
+you could call it a revolution.
+
+1042
+01:00:53,000 --> 01:00:57,720
+That has to lead to a cataclysmic shift
+of how economies work.
+
+1043
+01:01:19,040 --> 01:01:20,960
+When you're in the middle of something,
+
+1044
+01:01:20,960 --> 01:01:25,480
+it's very very hard to see
+what the larger arch of the story is.
+
+1045
+01:01:25,480 --> 01:01:29,520
+Say we are here,
+and if you step back a year or two,
+
+1046
+01:01:29,520 --> 01:01:31,720
+you'll get a slightly larger perspective.
+
+1047
+01:01:31,720 --> 01:01:35,760
+But if you step back 50 or 500
+or even 5000 years,
+
+1048
+01:01:35,760 --> 01:01:38,440
+then you can see this larger pattern.
+
+1049
+01:01:40,880 --> 01:01:43,640
+And, and I think the idea here today
+
+1050
+01:01:43,640 --> 01:01:45,640
+that we kind of see
+in the maker movement
+
+1051
+01:01:45,640 --> 01:01:48,160
+and what we see
+perhaps in web developments,
+
+1052
+01:01:48,160 --> 01:01:49,920
+some of the earlier phases,
+
+1053
+01:01:49,920 --> 01:01:52,960
+throughout very small groups of people
+can have very big impact.
+
+1054
+01:01:52,960 --> 01:01:55,240
+Um, You don't necessarily need
+
+1055
+01:01:55,240 --> 01:01:57,240
+the world's largest company behind you,
+
+1056
+01:01:57,240 --> 01:02:00,080
+you don't need a huge lab.
+
+1057
+01:02:00,080 --> 01:02:02,440
+We now recognize that a,
+that a, you know,
+
+1058
+01:02:02,440 --> 01:02:05,880
+transformative set of tools
+are now in the hands of regular people.
+
+1059
+01:02:05,880 --> 01:02:07,760
+We've seen it happen once
+with the personal computer,
+
+1060
+01:02:07,760 --> 01:02:09,600
+we've seen it happen again with the web.
+
+1061
+01:02:09,600 --> 01:02:12,200
+We have, we know that
+when you put powerful tools
+
+1062
+01:02:12,200 --> 01:02:14,600
+in the hands of regular people
+they change the world.
+
+1063
+01:02:14,600 --> 01:02:16,840
+That moment has happened now
+with manufacturing,
+
+1064
+01:02:16,840 --> 01:02:19,400
+which is bigger than either
+of those two industries.
+
+1065
+01:02:19,400 --> 01:02:22,040
+And um, if the past is prologue,
+
+1066
+01:02:22,040 --> 01:02:26,680
+this is going to both create entirely
+new industries, product and companies,
+
+1067
+01:02:26,680 --> 01:02:29,080
+but also transform existing ones.
+
+1068
+01:02:33,880 --> 01:02:37,760
+So today we look at
+some of the silly things
+
+1069
+01:02:37,760 --> 01:02:41,040
+that are coming out of
+the maker's movement.
+
+1070
+01:02:41,040 --> 01:02:44,160
+Or the frivolous things,
+or the things that are just fun.
+
+1071
+01:02:44,160 --> 01:02:46,640
+And we say
+what are the consequences of this.
+
+1072
+01:02:47,280 --> 01:02:48,840
+And probably, you know,
+
+1073
+01:02:48,840 --> 01:02:52,360
+in the short term the consequences,
+the implications
+
+1074
+01:02:52,360 --> 01:02:54,280
+are very very modest.
+
+1075
+01:02:54,280 --> 01:02:56,440
+And maybe they will go nowhere,
+
+1076
+01:02:56,440 --> 01:02:59,480
+and it will be a fashion that fades.
+
+1077
+01:02:59,480 --> 01:03:02,520
+but what if
+it doesn't and can we extrapolate,
+
+1078
+01:03:02,520 --> 01:03:06,680
+what if it takes off
+and becomes a new model.
+
+1079
+01:03:06,680 --> 01:03:07,560
+And that's the kind of thing
+
+1080
+01:03:07,560 --> 01:03:10,400
+that I think
+we also want to be watching for,
+
+1081
+01:03:10,400 --> 01:03:13,520
+listening for, and trying to imagine.
+
