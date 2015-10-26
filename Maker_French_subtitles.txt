@@ -2533,408 +2533,406 @@ en tant que journaliste de rock.
 
 546
 00:32:30,320 --> 00:32:33,080
-working for magazines
-like spin and rolling stone,
+travaillant pour des magazines
+comme spin et Rolling stones,
 
 547
 00:32:33,080 --> 00:32:37,360
-covering a lot of the great indie bands
-of the 80s and 90s,
+sur plusieurs des grands groupes indie
+des années 80 et 90,
 
 548
 00:32:37,360 --> 00:32:41,480
-and when I started
-working on my Tinkerers book,
+et quand j’ai commencé
+à travailler sur mes livres de bricolage, 
 
 549
 00:32:41,480 --> 00:32:44,240
-I realized
-there was an interesting connection
+Je me suis rendu compte
+d’un lien intéressant
 
 550
 00:32:44,240 --> 00:32:48,440
-between indie rock bands who learn
-to make something out of nothing
+entre le rock indie qui apprend 
+à faire quelque chose à partir de rien
 
 551
 00:32:48,440 --> 00:32:51,240
-and often times
-had to create their own instruments
+et qui souvent doit 
+créer ses propres instruments
 
 552
 00:32:51,240 --> 00:32:52,920
-out of old broken instruments
+à partir de vieux instruments cassés
 
 553
 00:32:52,920 --> 00:32:55,560
-and has a lot in common with
-what a lot of people
+et a beaucoup à voir avec 
+ce que beaucoup de gens font 
 
 554
 00:32:55,560 --> 00:32:57,960
-are doing in the maker movement
-these days.
+ces jours-ci dans le mouvement 
+des makers. 
 
 555
 00:32:57,960 --> 00:33:01,480
-In the music scene
-that ultimately resulted in bands
+Dans le milieu de la musique
+cela a produit des groupes
 
 556
 00:33:01,480 --> 00:33:06,920
-like Nirvana
-becoming huge success stories.
+comme Nirvana
+devenu d’énormes success stories. 
 
 557
 00:33:06,920 --> 00:33:08,240
-And I think in the maker scene
+Et je pense que dans le milieu des makers
 
 558
 00:33:08,240 --> 00:33:13,200
-we haven't really quite
-seen the huge mainstream effect
+nous n’avons pas encore vraiment 
+vu l’immense impact mainstream
 
 559
 00:33:13,200 --> 00:33:16,400
-of all this innovative activity.
+de toute cette nouvelle énergie. 
 
 560
 00:33:16,400 --> 00:33:18,400
-But it will be interesting to see
+Mais il sera intéressant de découvrir
 
 561
 00:33:18,400 --> 00:33:21,440
-what the maker movement's Nirvana
-will be.
+ce que sera le « Nirvana » 
+du mouvement des makers.
 
 562
 00:34:01,240 --> 00:34:03,360
-So Pebble's a watch
-that talks to your Smartphone.
+Alors Pebble est une montre
+qui parle à votre Smartphone.
 
 563
 00:34:03,360 --> 00:34:05,800
-Its similar like
-if you have a blue tooth headset
+C’est comme un kit 
+main libre en blue tooth.
 
 564
 00:34:05,800 --> 00:34:07,280
-for voice calls,
+pour des appels, 
 
 565
 00:34:07,280 --> 00:34:09,600
-pebble is your blue tooth headset
-for Email,
+pebble est un kit mail libre pour 
+email, 
 
 566
 00:34:09,600 --> 00:34:14,240
-text, Facebook, Twitter,
-all of that good stuff.
+texto, Facebook, Twitter,
+tous ces trucs. 
 
 567
 00:34:14,240 --> 00:34:16,040
-I was commuting by bike,
+Je me déplaçais à vélo, 
 
 568
 00:34:16,040 --> 00:34:17,280
-I had a new smart phone
+J’avais un nouveau smartphone
 
 569
 00:34:17,280 --> 00:34:18,880
-and I didn't feel like
-I wanted to take it out
+et je ne voulais pas 
+le sortir 
 
 570
 00:34:18,880 --> 00:34:20,920
-while I was biking
-because I didn't want to drop it
+en roulant 
+car j’avais peur qu’il tombe 
 
 571
 00:34:20,920 --> 00:34:22,800
-on the ground or into a canal
+par terre ou dans le canal
 
 572
 00:34:22,800 --> 00:34:24,600
-so I wanted to create a device
+donc j’ai créé un appareil
 
 573
 00:34:24,600 --> 00:34:26,560
-that would let me see
-what was happening with my phone
+qui me permettrait de voir 
+ce qui se passe sur mon téléphone
 
 574
 00:34:26,560 --> 00:34:28,840
-without having to take my phone
-out of my pocket.
+sans le sortir de 
+de ma poche. 
 
 575
 00:34:28,840 --> 00:34:30,200
-So I started working on a prototype,
+J’ai commencé à travailler sur un prototype, 
 
 576
 00:34:30,200 --> 00:34:32,440
-I built this small prototype myself using
+J’ai construit ce petit prototype moi-même
 
 577
 00:34:32,440 --> 00:34:34,920
-spare cell phone parts and an arduino.
+à l’aide de pièce détachées et d’un arduino. 
 
 578
 00:34:34,920 --> 00:34:36,840
-And then I started working
-with some of my friends
+Puis j’ai commencé à travailler 
+avec des amis
 
 579
 00:34:36,840 --> 00:34:38,640
-who were interested in the same project
+que ça intéressait
 
 580
 00:34:38,640 --> 00:34:42,000
-and we got together
-and worked collaboratively.
+nous nous sommes réunis
+et avons travaillé ensemble.
 
 581
 00:34:43,200 --> 00:34:45,960
-We were expecting to raise
-100 thousand dollars on Kickstarter
+Nous pensions lever 
+100 mille dollars sur Kickstarter
 
 582
 00:34:45,960 --> 00:34:49,680
-and that would have helped us
-build the first thousand Pebbles.
+et ce la nous nous aurait permis 
+de fabriquer les mille premières unités.
 
 583
 00:34:49,680 --> 00:34:53,440
-But at the end of the 37 days
-we'd raised over 10 million dollars.
+Mais à la fin des 37 jours
+nous avions réunis plus de 10 million de dollars. 
 
 584
 00:34:53,440 --> 00:34:57,560
-Almost 69 thousand
-individual backers who supported us.
+Près de 69 000 
+personnes à nous soutenir. 
 
 585
 00:34:57,560 --> 00:34:59,880
-Every day I wake up
-and I put on a product
+Chaque jour je me lève 
+et je mets un produits 
 
 586
 00:34:59,880 --> 00:35:02,280
-that I helped make
-and I think it's really cool.
+que j’ai aidé à faire
+et c’est très cool. 
 
 587
 00:35:40,040 --> 00:35:42,120
-Crowdfunding
-is becoming a permanent piece
+Le crowdfunding est devenu
+une étape incontournable
 
 588
 00:35:42,120 --> 00:35:44,360
-of the entire financial eco system,
+de l’écosystème financier, 
 
 589
 00:35:44,360 --> 00:35:46,000
-because Crowdfunding is empowering
+parce que le crowdfunding met les gens en capacité
 
 590
 00:35:46,000 --> 00:35:50,200
-and allowing ideas to raise to
-the top based on their merits,
+et leur permet de faire grandir leur idée
+en fonction de leur attractivité.
 
 591
 00:35:50,200 --> 00:35:52,120
-not based on a lucky connection.
+et non pas grâce un contact chanceux.
 
 592
 00:35:52,120 --> 00:35:54,040
-Essentially people voting
-with their dollar saying
+Au final les gens votent 
+avec leurs dollars en disant 
 
 593
 00:35:54,040 --> 00:35:56,280
-I want this idea to exist so badly
+J’aime tellement cette idée 
 
 594
 00:35:56,280 --> 00:35:58,480
-I'm willing to put money
-into it right now.
+Que je suis prêt à payer 
+maintenant.
 
 595
 00:35:58,480 --> 00:36:00,560
-Our resource is like,
-err, Crowdfundings,
+Le crowdfunding
 
 596
 00:36:00,560 --> 00:36:03,320
-like Indiegogo or Kickstarter
+comme Indigogo ou Kickstarter
 
 597
 00:36:03,320 --> 00:36:05,960
-allows a lot of these makers
+permet à beaucoup de ces makers
 
 598
 00:36:05,960 --> 00:36:09,720
-to take their hobbies
-and create companies.
+de transformer leur passion 
+en entreprise.
 
 599
 00:36:12,080 --> 00:36:14,320
-What I really like
-about Crowdfunding is
+Ce que j’aime vraiment 
+avec le crowdfunding c’est
 
 600
 00:36:14,320 --> 00:36:16,280
-before you spend
-those millions of dollars,
+qu’avant de dépenser 
+des millions de dollars
 
 601
 00:36:16,280 --> 00:36:18,280
-if you can get a functional prototype,
+si tu peux avoir un prototype fonctionnel, 
 
 602
 00:36:18,280 --> 00:36:20,000
-and get people like Pebble did,
+et des gens qui comme pour Pebble, 
 
 603
 00:36:20,000 --> 00:36:22,640
-to be able to support it
-on a pre-sale basis,
+qui soutiennent le projet
+en pré-achetant, 
 
 604
 00:36:22,640 --> 00:36:24,520
-you have a very strong poof point
+vous avez une très bonne raison de penser 
 
 605
 00:36:24,520 --> 00:36:26,920
-that people actually will buy
-what you're building.
+que les gens vont effectivement acheter 
+ce que vous fabriquez.
 
 606
 00:36:26,920 --> 00:36:28,960
-So you get money
-you get product market fit
+Donc vous avez de l’argent 
+vous avez validé le marché
 
 607
 00:36:28,960 --> 00:36:30,400
-to make sure that people
-are going to buy,
+pour s’assurer que les gens 
+vont acheter,
 
 608
 00:36:30,400 --> 00:36:32,160
-you create  a passionate community.
+vous créez une communauté,
 
 609
 00:36:32,160 --> 00:36:35,440
-And it's also a great way
-to attract media attention.
+Et c’est aussi une super manière 
+d’attirer l’attention des médias. 
 
 610
 00:36:35,440 --> 00:36:37,800
-VC would much prefer to come in
-and look at our project
+Un investisseur préférera jeter un oeil 
+à un projet
 
 611
 00:36:37,800 --> 00:36:39,400
-that's been successfully funded
+qui a été financé sur Kickstarter
 
 612
 00:36:39,400 --> 00:36:42,080
-because they have the data points
-that people want to buy it.
+parce qu’il saura qu’il y a 
+un marché pour le produit.
 
 613
 00:36:44,360 --> 00:36:47,800
-One of the terms we actually picked up
-from a video
+Une des expressions que nous avons en fait découvert 
+sur une vidéo
 
 614
 00:36:47,800 --> 00:36:49,200
-that was published on the site
+qui avait été publiée sur le site
 
 615
 00:36:49,200 --> 00:36:51,360
-and I think it resonates quite well
-with how we see the world,
+et je pense qu’elle illustre assez bien 
+notre vision du monde, 
 
 616
 00:36:51,360 --> 00:36:54,760
-is this concept of more art
-for more people.
+est le concept de « plus d’art pour plus 
+de plus de personnes ». 
 
 617
 00:36:54,760 --> 00:36:59,280
-I mean if you think about it right now
-there's only I think 300 films
+J’entends par là que si on compte bien 
+il n’y a pas plus de 300 films 
 
 618
 00:36:59,280 --> 00:37:01,920
-that make it in Hollywood,
-at least in the United States.
+qui aboutissent à Hollywood
+au moins aux Etats-Unis. 
 
 619
 00:37:01,920 --> 00:37:04,080
-In the future, millions of films
-will be made every year,
+À l’avenir, des millions de films 
+seront produits tous les ans,
 
 620
 00:37:04,080 --> 00:37:06,120
-millions of films should be able
-to be viewed everywhere.
+des millions de films devraient 
+être vus un peu partout. 
 
 621
 00:37:06,120 --> 00:37:08,600
-And that's how Youtube
-is completely democratized,
+Et c’est ainsi que Youtube
+est complètement démocratisé.
 
 622
 00:37:08,600 --> 00:37:10,200
-kind of video distributions.
+Ce genre de diffusion de contenu vidéo. 
 
 623
 00:37:12,320 --> 00:37:16,720
-You know I would describe this as
-for the farmer's markets right?
+Pour le décrire, 
+je prendrais l’exemple d’un marché
 
 624
 00:37:16,720 --> 00:37:18,880
-We're the parking
-lot of the farmers market
+Nous sommes le parking 
+du marché
 
 625
 00:37:18,880 --> 00:37:20,960
-exists on where things happen.
+Là où se passent les choses
 
 626
 00:37:20,960 --> 00:37:22,120
-Things get made.
+Où ils sont fait.
 
 627
 00:37:24,400 --> 00:37:27,360
-Yeah. Err, I made a swing
-for my daughter this weekend.
+Oui. J’ai fait une chaise à bascule 
+à ma fille ce weekend.
 
 628
 00:37:27,360 --> 00:37:29,760
-So I made that.
+J’ai fait ça. 
 
 629
 00:37:29,760 --> 00:37:31,240
-And I made kickstarter.
+Et j’ai fait Kickstarter.
 
 630
 00:37:31,680 --> 00:37:35,080
-You know obviously
-it takes a village to make Kickstarter,
+Vous savez, de toute évidence 
+il faut une communauté pour faire kickstarter,
 
 631
 00:37:35,080 --> 00:37:38,320
-everybody behind the company
-is part of the community
+tous derrière l’entreprise
+font partie de la communauté
 
 632
 00:37:39,720 --> 00:37:41,880
-I think the biggest misunderstanding
-out there
+Je pense que la plus grosse idée reçue
 
 633
 00:37:41,880 --> 00:37:44,640
