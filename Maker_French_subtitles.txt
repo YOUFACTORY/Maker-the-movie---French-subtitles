@@ -2936,113 +2936,114 @@ Je pense que la plus grosse idée reçue
 
 633
 00:37:41,880 --> 00:37:44,640
-is that people think Crowdfundings
-is just stranger funding.
+est que les gens pensent que le Crowdfunding
+est un financement qui vient d’inconnus. 
 
 634
 00:37:44,640 --> 00:37:47,560
-It's like a field of dreams,
-you put up a project you walk away
+C’est comme un champ de rêves, 
+vous mettez un projet
 
 635
 00:37:47,560 --> 00:37:50,120
-and all of a sudden money comes
-and appears out of nowhere.
+et soudain de l’argent arrive 
+de nulle part. 
 
 636
 00:37:50,120 --> 00:37:51,600
-That's not the case.
+Ce n’est évidemment pas le cas. 
 
 637
 00:37:51,600 --> 00:37:52,920
-It's community funding,
+C’est un financement communautaire, 
 
 638
 00:37:52,920 --> 00:37:56,400
-it's raising money from
-your inner circle first with the goal of,
+qui permet de se financer grâce à
+son cercle proche d’abord
 
 639
 00:37:56,400 --> 00:37:58,320
-then raising money
-from your outer circles
+puis de toucher 
+les cercles éloignés
 
 640
 00:37:58,320 --> 00:37:59,880
-because they will help you bring it in.
+parce qu’ils vous 
+aideront à convaincre 
 
 641
 00:37:59,880 --> 00:38:02,040
-And then eventually stranger dollars.
+Et finalement, l’argent d’inconnus.
 
 642
 00:38:03,440 --> 00:38:06,640
-And with Indiegogo and Kickstarter
-and other related platforms,
+Avec Indiegogo et Kickstarter
+et les autres plateformes similaires, 
 
 643
 00:38:06,640 --> 00:38:10,520
-suddenly we have found a way
-to bridge that gap
+soudainement nous avons trouvé une manière 
+de remplir ce vide.
 
 644
 00:38:10,520 --> 00:38:12,720
-and start a company and find a capital.
+et démarrer une entreprise et trouver du capital. 
 
 645
 00:38:12,720 --> 00:38:13,800
-And then you hear those amazing –
+Et puis ensuite vous entendez 
+ces histoires extraordinaires -
 
 646
 00:38:13,800 --> 00:38:15,760
-I mean, we had a, we had a women there
+Il y avait cette femme, 
 
 647
 00:38:15,760 --> 00:38:20,680
-who for six years wanted to start
-a local library in Harlem.
+qui pendant six a voulu ouvrir 
+une bibliothèque à Harlem. 
 
 648
 00:38:21,520 --> 00:38:26,200
-And she had talked to every single bank
-that she could find
+Et elle a vu toutes les banques 
+qu’elle a pu trouver
 
 649
 00:38:26,200 --> 00:38:29,280
-and was turned down
-over and over and over again.
+qui lui ont refusé le prêt
+encore et encore, 
 
 650
 00:38:29,280 --> 00:38:31,880
-Until someone said
-why don't you try Kickstarter,
+jusqu’à ce que quelqu’un ne lui dise
+pourquoi n’essaies-tu pas Kickstarter, 
 
 651
 00:38:31,880 --> 00:38:35,440
-and now east Harlem
-has a book store because of her.
+et maintenant Harlem 
+a une bibliothèque grâce à elle.
 
 652
 00:38:47,640 --> 00:38:48,880
-We actually do need to figure out-
+Nous devons imaginer -
 
 653
 00:38:48,880 --> 00:38:51,080
-Can we fund a company
-that makes a device to-
+Est-ce que nous pouvons démarrer une entreprise 
+qui fait un système pour -
 
 654
 00:38:51,080 --> 00:38:53,480
-...how to shelve sunflower seeds.
+… conditionner les graines de tournesol. 
 
 655
 00:38:53,480 --> 00:38:56,080
-I believe that falls
-under the gadget empire.
+Je crois que ça relève du gadget.
 
 656
 00:39:02,000 --> 00:39:03,000
-What's its name?
+Comment s’appelle-t-il ? 
 
 657
 00:39:03,000 --> 00:39:03,920
@@ -3051,217 +3052,224 @@ Riley.
 658
 00:39:06,320 --> 00:39:09,840
 Lemnos Labs
-is a hardware focus incubator.
+est un incubateur dédié aux produits physiques. 
 
 659
 00:39:09,840 --> 00:39:13,080
 Jeremy and I know each other
 from MIT and as mechanical engineers
+Jeremy et moi nous connaissons du MIT
+et en tant qu’ingénieur en mécanique
 
 660
 00:39:13,080 --> 00:39:16,800
-we were really frustrated
-that a lot of our graduating classmates,
+nous étions réellement frustrés 
+que beaucoup de nos camarades
 
 661
 00:39:16,800 --> 00:39:19,600
-they had to chose either do I want
-to be an entrepreneur
+aient à choisir entre
+devenir entrepreneur 
 
 662
 00:39:19,600 --> 00:39:21,240
-or do I want to be an engineer?
+ou devenir ingénieur ? 
 
 663
 00:39:21,240 --> 00:39:22,400
-And if you wanted to be an engineer
+Et si vous vouliez devenir ingénieur
 
 664
 00:39:22,400 --> 00:39:25,000
-you went to go work
-for a big boring company.
+vous deviez aller travailler pour 
+une grande entreprise. 
 
 665
 00:39:25,000 --> 00:39:27,000
-If you wanted to be an entrepreneur
-you learned how to write code.
+Si vous vouliez devenir entrepreneur 
+vous appreniez à coder.
 
 666
 00:39:27,000 --> 00:39:29,640
-So you know we wanted to you know
-tell the makers of the world that,
+Nous voulons dire aux Makers 
+à travers le monde, 
 
 667
 00:39:29,640 --> 00:39:31,840
-you know,
-you can start companies involving
+que vous pouvez aussi démarrer des entreprises 
 
 668
 00:39:31,840 --> 00:39:33,680
-manufacturing the physical product too.
+qui implique la fabrication de produits.
 
 669
 00:39:35,400 --> 00:39:37,520
-So this is one of
-our consumer electronics companies
+Voici l’une de nos entreprises 
 
 670
 00:39:37,520 --> 00:39:40,080
-and they make
-a tele-presence tablet stand.
+ils font 
+un support de tablette pour télé-présence.
 
 671
 00:39:40,080 --> 00:39:41,720
-And this allows you to dial in and pan
+Ca vous permet d’appeler
 
 672
 00:39:41,720 --> 00:39:43,280
-until it actually kind of
-feel like you're actually there.
+jusqu’à ce que vous ayez 
+l’impression d’être avec votre interlocuteur
 
 673
 00:39:43,280 --> 00:39:44,680
-So we actually use this
-
+donc en fait 
 674
 00:39:44,680 --> 00:39:47,120
-when we're having conference calls
-and people can dial in
+quand on fait une conférence téléphonique
+les invités peuvent nous rejoindre
 
 675
 00:39:47,120 --> 00:39:48,960
-and look at individual people.
+et regarder certaines personnes en praticulier
 
 676
 00:39:48,960 --> 00:39:50,560
-So this is pantry
-and its' one of our startups
+Voici pantry
+il s’agit de l’une de nos startups
 
 677
 00:39:50,560 --> 00:39:54,240
-and they're all about
-making fresh food available everywhere.
+ils ne rêvent que d’une chose, 
+c’est de rendre des produits frais accessibles partout.
 
 678
 00:39:54,240 --> 00:39:56,800
-So what they do
-is they create a great solution
+Donc ce qu’ils font 
+est une machine géniale
 
 679
 00:39:56,800 --> 00:40:00,960
-where all you have to do
-is swipe a credit card
+où tout ce que vous avez à faire
+c’est passez votre carte de crédit
 
 680
 00:40:00,960 --> 00:40:02,720
-and then you just
-take out whatever you want
+puis prendre 
+ce qui vous fait plaisir
 
 681
 00:40:02,720 --> 00:40:04,920
-and they're RFID experts so
+ce sont des 
+spécialistes de la RFID donc
 
 682
 00:40:04,920 --> 00:40:07,240
-it automatically bills you
-for whatever you remove.
+ca vous facture automatiquement 
+ce que vous prenez.
 
 683
 00:40:08,400 --> 00:40:12,360
-The challenge we see
-from current Crowdfunding campaigns
+Le défi que nous voyons pour 
+les campagnes de crowdfunding
 
 684
 00:40:12,360 --> 00:40:16,320
-is that many of the entrepreneurs
-come at this from a software background
+est que plusieurs des entrepreneurs 
+arrivent avec un bagage en informatique 
 
 685
 00:40:16,320 --> 00:40:18,680
-but they don't have
-a hardware background.
+mais n’ont pas de notion 
+en productique
 
 686
 00:40:18,680 --> 00:40:20,920
-And the challenge with hardware
-is that it costs money.
+Et le défi avec la productique 
+c’est que ça coute de l’argent.
+
 
 687
 00:40:20,920 --> 00:40:22,920
-In all Crowdfunding platforms
+Sur toutes les plateformes de crowdfunding 
 
 688
 00:40:22,920 --> 00:40:25,280
-you typically
-will set a certain threshold
+vous allez devoir fixer un plafond 
 
 689
 00:40:25,280 --> 00:40:27,240
-that if you exceed that you get the money
+si vous le dépasser vous obtenez le financement
 
 690
 00:40:27,240 --> 00:40:28,160
-and if you don't then you know
+et sinon, et bien … 
 
 691
 00:40:28,160 --> 00:40:30,280
-there wasn't quite
-the product market fit.
+c’est que vous n’avez pas 
+vraiment rencontré la demande. 
 
 692
 00:40:30,280 --> 00:40:34,040
 The problem comes they would end up
 not setting the threshold high enough.
+Le gros problème c’est quand le plafond 
+n’est pas assez haut 
 
 693
 00:40:34,040 --> 00:40:37,120
-They would get funded
-and have a successful campaign
+Bien qu’ils aient été financés 
+et que leur campagne ait été un succès
 
 694
 00:40:37,120 --> 00:40:39,960
-but the second after the campaign
-closed they just failed,
+mais à la minute où ils clôturent leur campagne
+ils ont échoués, 
 
 695
 00:40:39,960 --> 00:40:42,120
-unless they brought on outside money
+à moins qu’ils apportent de l’argent en plus
 
 696
 00:40:42,120 --> 00:40:44,840
-and financing that they could
-possibly deliver the product.
+et se refinancer de sorte qu’ils arrivent 
+à livrer leur produit. 
 
 697
 00:40:44,840 --> 00:40:46,360
- And so sometimes people
-come to us and they say
+Et parfois les gens viennent nous voir 
+et disent 
 
 698
 00:40:46,360 --> 00:40:47,920
-hey I've done a Crowdfunding,
+hey j’ai fait une campagne de crowdfunding, 
 
 699
 00:40:47,920 --> 00:40:49,920
-you know I'd love to join your incubator,
+vous savez j’aimerais beaucoup rejoindre votre incubateur,
 
 700
 00:40:49,920 --> 00:40:51,880
 we're like well unfortunately
 you've priced it wrong.
+nous on dit et bien malheureusement
+vous vous êtes trompé dans le prix
 
 701
 00:40:51,880 --> 00:40:54,400
-Or you didn't account for a CE sticker.
+Ou vous n’avez pas prévu d’étiquette CE. 
 
 702
 00:40:54,400 --> 00:40:56,760
 We think it's really important
 to coach them and be with them
+Nous pensons que c’est vraiment important 
+de les coacher et d’être à leur coté
 
 703
 00:40:56,760 --> 00:40:58,440
 and invest in them really early on
+et de miser sur eux
 
 704
 00:40:58,440 --> 00:41:01,520
