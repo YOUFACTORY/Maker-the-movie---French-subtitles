@@ -3268,691 +3268,708 @@ de les coacher et d’être à leur coté
 
 703
 00:40:56,760 --> 00:40:58,440
-and invest in them really early on
-et de miser sur eux
+et d’investir en eux très tôt
 
 704
 00:40:58,440 --> 00:41:01,520
-and then use that Crowdfunding
-as that final validation.
+puis utiliser le crowdfunding 
+comme validation ultime. 
 
 705
 00:41:01,520 --> 00:41:05,960
-Lemnos? Lemnos is the Greek island
-where Hephaestus,
+Lemnos? Lemnos est l’île grec
+où Hephaistos,
+
 
 706
 00:41:05,960 --> 00:41:07,880
-god of metallurgy,
+dieu de la métallurgie, 
 
 707
 00:41:07,880 --> 00:41:10,680
-which we've sort of loosely defined
-as the god of technology.
+que nous avons transformé en 
+dieu de la technique.
 
 708
 00:41:10,680 --> 00:41:12,480
-He actually built
-all the really cool things
+Il fabriquait en fait 
+des choses très cool
 
 709
 00:41:12,480 --> 00:41:15,000
-in Greek mythology
-like Achilles' armor,
+dans la mythologie Grec
+comme l’armure d’Achille. 
 
 710
 00:41:15,000 --> 00:41:17,560
-Zeus's thunderbolt, Helios's chariot.
+L’éclair de Zeux, la voiture d’Helios. 
 
 711
 00:41:17,560 --> 00:41:19,680
-Lemnos is the island
-where he had his forge
+Lemnos est l’île sur laquelle 
+il avait sa forge
 
 712
 00:41:19,680 --> 00:41:21,040
-and built all that stuff.
+et fabriquait toutes ces choses. 
 
 713
 00:41:26,680 --> 00:41:29,040
-30 years ago, if I had said
+il y a 30 ans, si j’avais dit 
 
 714
 00:41:29,040 --> 00:41:31,480
-that in 2013 everybody's
-going to be walking
+qu’en 2013 tout le monde 
+marcherait 
 
 715
 00:41:31,480 --> 00:41:33,800
-around with a telephone in your pocket,
+avec un téléphone dans la poche, 
 
 716
 00:41:33,800 --> 00:41:35,560
-you would have laughed at me and said
+vous m’auriez rit au nez et dit 
 
 717
 00:41:35,560 --> 00:41:39,960
-look you know I saw this movie somewhere
-of a guy walking around
+écoute j’ai vu dans ce film 
+un type marcher 
 
 718
 00:41:39,960 --> 00:41:42,400
-with a briefcase sized telephone.
+avec un téléphone de la taille d’une mallette. 
 
 719
 00:41:42,400 --> 00:41:44,840
-You think everybody's going to do that?
-That's crazy.
+Pensez-vous vraiment que tout le monde fassent ça ? 
+C’est fou. 
 
 720
 00:41:44,840 --> 00:41:47,000
-But it was almost inevitable
-that they would get
+Mais la miniaturisation 
+était presque inévitable
+
 
 721
 00:41:47,000 --> 00:41:49,160
-smaller and smaller
-and lighter and lighter
+de plus en plus petit 
+de plus en plus léger
 
 722
 00:41:49,160 --> 00:41:50,800
-and sexier and sexier.
+de plus en plus sexy. 
 
 723
 00:41:50,800 --> 00:41:53,840
-And now everybody's walking around
-with a telephone in their pocket.
+et aujourd’hui tout le monde 
+a un téléphone dans la poche. 
 
 724
 00:41:54,400 --> 00:41:56,480
-For me to the maker's movement today
+Pour moi le mouvement des makers 
 
 725
 00:41:56,480 --> 00:41:59,320
-is the exact inverse
-of what we are seeing.
+est à l’opposé 
+de ce que nous observons.
 
 726
 00:41:59,320 --> 00:42:04,160
-A small number of tinkerers
-in 18th century England.
+Un petit groupe de bricoleurs
+du 18e siècle en Angleterre. 
 
 727
 00:42:04,160 --> 00:42:06,640
-And somebody's experimenting
-with a different way
+Et quelqu’un qui fait des 
+tests de façon différente
 
 728
 00:42:06,640 --> 00:42:09,440
-of wrapping wool around a spindle.
+de l’enroulement de la laine autour d’une aiguille.
 
 729
 00:42:09,440 --> 00:42:11,240
-Or somebody else is experimenting
+Ou quelqu’un d’autre qui test
 
 730
 00:42:11,240 --> 00:42:13,240
 with a different way
 of getting a cylinder
+une autre façon de rentrer un cylindre 
 
 731
 00:42:13,240 --> 00:42:15,840
-to seal properly in a piston.
+proprement dans un piston. 
 
 732
 00:42:15,840 --> 00:42:18,000
-And somebody is experimenting with this
+Et quelqu’un expérimente 
 
 733
 00:42:18,000 --> 00:42:20,960
-and with a new method
-of producing a higher
+une nouvelle méthode 
+pour produire une plus haute  
 
 734
 00:42:20,960 --> 00:42:23,640
-and more consistent grade of steel.
+et meilleure qualité de métal. 
 
 735
 00:42:23,640 --> 00:42:28,800
-And you know taken by themselves
-they look like small scale,
+Individuellement 
+ils ont l’air anecdotiques,
 
 736
 00:42:28,800 --> 00:42:30,840
-not very meaningful experiments,
+pas très importants
 
 737
 00:42:30,840 --> 00:42:34,440
-and then suddenly
-we have the cotton industry
+puis soudainement apparait 
+l’industrie cotonnière
 
 738
 00:42:34,440 --> 00:42:36,240
-and the railroad industry.
+et l’industrie ferroviaire.
 
 739
 00:42:36,240 --> 00:42:37,840
-And steam power.
+et la machine à vapeur.
 
 740
 00:42:37,840 --> 00:42:39,800
-And the electrical industry.
+L’éléctricité.
 
 741
 00:42:39,800 --> 00:42:42,760
-And the world pivots and it does so
+Et le monde change et ceci 
 
 742
 00:42:42,760 --> 00:42:45,480
-in the extraordinarily
-short period of time.
+de façon extraordinairement 
+rapide.
 
 743
 00:42:51,480 --> 00:42:54,720
 Oncoming attractive useful products.
+De futures produits attractifs et utiles. 
 
 744
 00:42:54,720 --> 00:42:56,120
-Well-made.
+Bien fait.
 
 745
 00:42:56,720 --> 00:42:59,000
-More and more products acceptable
+De plus en plus acceptable. 
 
 746
 00:42:59,000 --> 00:43:01,920
-to the more and more exacting demands
+pour une demande de plus en plus exigeante
 
 747
 00:43:01,920 --> 00:43:04,080
-of more and more Americans.
+de plus en plus d’Américains. 
 
 748
 00:43:07,160 --> 00:43:10,320
 All in our own personal
 choices of colors,
+Tout ceci personnalisé 
+à nos couleurs, 
 
 749
 00:43:10,320 --> 00:43:14,320
-models, sizes, styles,
-price-ranges and types.
+modèles, tailles, styles, 
+prix, et types. 
 
 750
 00:43:14,320 --> 00:43:16,360
-Better made, more dependable,
+Mieux fait, plus fiable, 
 
 751
 00:43:16,360 --> 00:43:18,440
-more nearly trouble-free
+sans mauvaises surprises
 
 752
 00:43:18,440 --> 00:43:20,840
-than products made
-in any such quantities
+contrairement aux produits fabriqués 
+dans de telles quantités. 
 
 753
 00:43:20,840 --> 00:43:23,080
-anywhere else in the world.
+ailleurs dans le reste du monde. 
 
 754
 00:43:23,080 --> 00:43:28,600
-All a part of the beauty produced
-so bountifully for you and for me,
+Tous ceci produit 
+pour vous et moi, 
+
 
 755
 00:43:28,600 --> 00:43:31,400
-by our American makers.
+par nos artisans américains.
 
 756
 00:43:47,240 --> 00:43:49,040
-If you think about
-the industrial revolution,
+Quand vous pensez à 
+à la révolution industrielle, 
 
 757
 00:43:49,040 --> 00:43:51,680
-one of the essences
-of the industrial revolution
+un des fondements 
+de la révolution industrielle
 
 758
 00:43:51,680 --> 00:43:54,720
-was this idea of mass production.
+était l’idée de production de masse. 
 
 759
 00:43:54,720 --> 00:43:56,120
-And the idea of mass production
+Et l’idée de production de masse
 
 760
 00:43:56,120 --> 00:44:00,680
-was that in order to get
-really high quality at low cost,
+était que afin d’obtenir 
+une haute qualité à un faible coût, 
 
 761
 00:44:00,680 --> 00:44:02,360
-you had to make a lot of things.
+il fallait produire beaucoup.
 
 762
 00:44:02,360 --> 00:44:04,400
-The change that's going on today
+Le changement qui est en train 
+de se produire aujourd’hui
 
 763
 00:44:04,400 --> 00:44:07,480
-is we can now make things
-of really high quality –
+est que nous pouvons faire 
+des choses de très grandes qualités
 
 764
 00:44:07,480 --> 00:44:10,600
-at low volume at reasonable cost.
+en faible quantité pour des coûts raisonnables.
 
 765
 00:44:11,040 --> 00:44:14,440
-You know I've been making things
-for 40 years or so.
+Je fabrique des choses 
+depuis 40 ans environ. 
 
 766
 00:44:14,440 --> 00:44:15,680
-I'm a little bit of both.
+Je suis un petit peu des deux. 
 
 767
 00:44:15,680 --> 00:44:18,480
-I'm both the CEO,
-I'm the CEO of autodesk,
+Je suis à la fois pdg, 
+je suis le pdg de d’Autodesk, 
 
 768
 00:44:18,480 --> 00:44:20,000
-and I'm also a maker.
+et je suis aussi un maker. 
 
 769
 00:44:20,800 --> 00:44:23,280
-You know for many years
-I kept them separate.
+Pendant des années 
+j’ai gardé les deux séparés. 
 
 770
 00:44:23,280 --> 00:44:27,440
-Ten years ago I realized the two worlds
-were coming together on both sides.
+Il y a dix ans j’ai réalisé que les deux mondes
+se rejoignaient des deux cotés. 
 
 771
 00:44:27,440 --> 00:44:31,960
-One is the software we were making
-was being used more and more for makers,
+L’un est le logiciel que nous fabriquons
+est de plus en plus utilisé par des makers, 
 
 772
 00:44:31,960 --> 00:44:33,600
 and on the other side I found out
+et que de l’autre côté je me suis rendu compte
 
 773
 00:44:33,600 --> 00:44:36,120
-that in my personal work
-I started to use software.
+que dans mon travail personnel 
+j’avais commencé à utiliser le logiciel.
 
 774
 00:44:36,120 --> 00:44:38,480
-In the design, in the engineering,
+Dans le design, dans l’ingénierie, 
 
 775
 00:44:38,480 --> 00:44:40,560
-and nowadays even in the fabrication.
+et aujourd’hui même dans la fabrication. 
 
 776
 00:44:45,480 --> 00:44:47,440
 Oh, here's one of the things
 I made a lot of.
+Oh, voici parmi les choses que 
+j’ai beaucoup réalisé ces derniers temps
 
 777
 00:44:48,440 --> 00:44:50,280
-I made a lot of baseball bats.
+J’ai fait beaucoup de battes de baseball. 
 
 778
 00:44:50,280 --> 00:44:52,720
-So I made these with my kids.
+Et j’ai fait ça avec mes enfants. 
 
 779
 00:44:53,480 --> 00:44:57,320
-But the whole story started out
-with this wood that I bought in,
+Mais toute l’histoire a démarré 
+avec ce bois que j’ai acheté, 
 
 780
 00:44:57,320 --> 00:44:58,760
-I bought it in Oregon.
+Je l’ai acheté en Oregon. 
 
 781
 00:44:58,760 --> 00:45:03,000
-The thing about wood particularly
-as opposed to the work I do with metal,
+Le truc avec le bois en particulier
+en opposition avec le type de travail que je fais avec le métal, 
 
 782
 00:45:03,000 --> 00:45:04,120
-like with metal,
+avec le métal, 
 
 783
 00:45:04,120 --> 00:45:07,960
-I can go to bronze or aluminum
-or steel any time I want.
+Je peux passer du bronze ou l’aluminium
+ou l’acier autant que je veux.
 
 784
 00:45:07,960 --> 00:45:09,840
-You just go buy the metal
-when you need it.
+Vous n’avez qu’à acheter le métal
+quand vous en avez besoin.
 
 785
 00:45:09,840 --> 00:45:12,720
-Wood is different you know,
-each piece is kind of unique.
+Le bois c’est différent, 
+chaque pièce est unique, 
 
 786
 00:45:12,720 --> 00:45:14,360
-I just finished making
-a piece of furniture,
+Je viens tout juste de finir de faire 
+un meuble, 
 
 787
 00:45:14,360 --> 00:45:19,160
-I made a bed with a piece of wood that
-I'd carried around for about 25 years.
+J’ai fait un lit avec un morceau de bois
+que je garde depuis 25 ans. 
 
 788
 00:45:19,160 --> 00:45:20,840
-Sometimes the wood just sits
-there for a while
+parfois le bois reste là 
+un temps
 
 789
 00:45:20,840 --> 00:45:23,880
-and then I eventually figure out
-what I'm going to do with it.
+puis finalement je décide 
+ce que je vais en faire. 
 
 790
 00:45:23,880 --> 00:45:28,680
-Right now I'm working on a table
-using the five axis Router
+Là je travaille sur une table 
+à l’aide d’une défonceuse 5 axes. 
 
 791
 00:45:28,680 --> 00:45:31,520
-to carve some sculptural components.
+pour sculpter les composants. 
 
 792
 00:45:31,520 --> 00:45:34,520
-These are some planks
-that are glued up to do that.
+Voici des strates
+collées les unes aux autres.
 
 793
 00:45:35,520 --> 00:45:37,080
-Here's another design
-that I'm working on,
+Voila un autre modèle 
+sur lequel je travaille, 
 
 794
 00:45:37,080 --> 00:45:39,200
-this is a little 3D print,
+Voici un petite impression 3D, 
 
 795
 00:45:39,200 --> 00:45:43,360
-been using that a lot lately,
-of a chair that we're going to make.
+que j’utilise beaucoup ces derniers temps, 
+pour une chaise que nous allons fabriquer.
 
 796
 00:45:43,360 --> 00:45:45,160
-So the chair
-will look something like this
+Alors la chaise
+va ressembler à ça
 
 797
 00:45:45,160 --> 00:45:48,480
-and here's the first – here's a,
+et voici le premier
 
 798
 00:45:48,480 --> 00:45:51,280
-one of the first tests
-that are being metaled –
+essai 
+qui sera en métal
 
 799
 00:45:51,280 --> 00:45:53,240
- this just started as a big blank,
+tout ceci est partie d’une feuille blanche, 
 
 800
 00:45:53,240 --> 00:45:55,440
-use the CNC router to do it.
+utiliser la fraiseuse numérique pour faire ça. 
 
 801
 00:45:55,440 --> 00:45:57,400
-So I think mass manufacturing,
+Alors je pense que la production de masse, 
 
 802
 00:45:57,400 --> 00:45:59,520
-you know particularly in places
-like Asia
+dans des endroits comme 
+en Asie
 
 803
 00:45:59,520 --> 00:46:01,840
-as well as places like Mexico,
+ou au Mexique, 
 
 804
 00:46:01,840 --> 00:46:04,240
-parts of the Middle East, will continue.
+et dans des régions du Moyen-Orient, va continuer. 
 
 805
 00:46:04,240 --> 00:46:08,320
-The capacity and capability
-they have is kind of unrivaled.
+Et leur capacité et habilité 
+sera inégalée.
 
 806
 00:46:08,320 --> 00:46:10,960
-But I think we've reached the peak
+Mais je pense que nous sommes au point 
 
 807
 00:46:10,960 --> 00:46:13,760
-where manufacturing around the world
-is centralized.
+où la production à travers 
+est centralisée.
 
 808
 00:46:13,760 --> 00:46:16,680
-And I think you're going to see
-a steady advance
+Et je pense que nous allons voir 
+des avancées 
 
 809
 00:46:16,680 --> 00:46:18,640
-in localized manufacturing.
+dans la fabrication en locale. 
 
 810
 00:46:20,040 --> 00:46:22,760
-What I sometimes like to imagine
+Parfois j’imagine  
 
 811
 00:46:22,760 --> 00:46:27,680
-is that a phenomenon
-such as the maker's movement
+que le phénomène 
+du mouvement des makers
 
 812
 00:46:28,520 --> 00:46:33,320
-is not a return to
-a pre-industrial type of production.
+n’est pas un retour à une production 
+pre-industrielle.
 
 813
 00:46:33,320 --> 00:46:37,800
-We're not going to abandon
-having cars and motorcycles,
+Nous n’allons pas arrêter d’avoir 
+des voitures et des motos, 
 
 814
 00:46:37,800 --> 00:46:40,240
-and digital equipment and,
+ou des appareils électriques, 
 
 815
 00:46:40,240 --> 00:46:44,080
-err, a reliable food supply
-and things like that,
+et des supermarchés, 
+ou autre, 
 
 816
 00:46:44,080 --> 00:46:50,120
 in order to go back to poverty
 and starvation and privation and that.
+afin de revenir à la pauvreté 
+et la famine, etc. 
 
 817
 00:46:50,120 --> 00:46:53,880
-But we can think about
-using the technologies
+Mais nous pouvons envisager de voir
+les technologies
 
 818
 00:46:53,880 --> 00:46:57,560
-that we have developed
-over these past 200 years
+que nous développons depuis
+200 ans
 
 819
 00:46:57,560 --> 00:47:03,280
-to return to smaller scale
-of production err,
+revenir sur des échelles de production 
+plus réduites, 
+
 
 820
 00:47:03,280 --> 00:47:09,320
-that is marked by, um,
-customization, individualization,
+ceci se traduit 
+par la personnalisation. 
 
 821
 00:47:09,320 --> 00:47:14,600
-um, small batch production,
-and, um, things of that nature.
+de petites quantités
+des choses de ce type. 
 
 822
 00:47:19,240 --> 00:47:22,000
-About four years ago
-when I first started meeting
+Il y a quatre ans 
+quand j’ai rencontré 
 
 823
 00:47:22,000 --> 00:47:24,480
-a lot of these American manufacturers,
+beaucoup de ces industriels, 
 
 824
 00:47:24,480 --> 00:47:26,960
-what I notices
-that they would be doing samples
+j’ai remarqué
+qu’ils faisaient des échantillons
 
 825
 00:47:26,960 --> 00:47:29,920
-for all of these much larger brands.
+pour des marques bien plus grosses. 
 
 826
 00:47:29,920 --> 00:47:33,520
 Today we're seeing
 so many of these orders
+Aujourd’hui, nous voyons 
+tellement de commande
 
 827
 00:47:33,520 --> 00:47:36,520
-that would have been sent overseas
-for mass production
+qui aurait pu être envoyé à l’autre bout du monde 
+sur une chaine de production de masse
 
 828
 00:47:36,520 --> 00:47:39,080
-now being produced
-within these facilities.
+maintenant produite
+dans ces usines.
 
 829
 00:47:39,080 --> 00:47:41,400
-And initially
-a lot of people go overseas
+A l’origine 
+beaucoup serait allé à l’étranger
 
 830
 00:47:41,400 --> 00:47:44,120
-because of the price differential,
+à cause de la différence de prix, 
 
 831
 00:47:44,120 --> 00:47:48,120
-but now we're seeing
-the prices very much more competitive
+mais maintenant nous avons des prix 
+beaucoup plus compétitifs, 
 
 832
 00:47:48,120 --> 00:47:49,040
-than they were before,
+que ceux qu’ils étaient avant, 
 
 833
 00:47:49,040 --> 00:47:51,880
-let's say 20 even 10 years ago.
+disons il y a 20 ans meme 10 ans auparavant. 
 
 834
 00:47:51,880 --> 00:47:55,720
-And we also saw that it's started
-to become more of an on-demand economy,
+Et nous avons aussi vu s’installer un système 
+de production à la demande,
 
 835
 00:47:55,720 --> 00:47:57,320
 was one of the real reasons why
+c’était une des raisons pour laquelle, 
 
 836
 00:47:57,320 --> 00:48:00,880
-we decided to focus
-on American manufacturing,
+nous avons décidé de nous concentrer sur 
+la production Américaine,
 
 837
 00:48:00,880 --> 00:48:03,400
 because now what you're seeing
 that speed to market
+parce que ce qu’on voit aujourd’hui 
+la vitesse d’entrée sur le marché 
 
 838
 00:48:03,400 --> 00:48:06,880
-is becoming much more important in,
-within business.
+est de plus en plus importante, 
+pour les entreprises. 
 
 839
 00:48:06,880 --> 00:48:09,400
-And so for instance what the Netflix,
+Et par exemple, ce que Netflix, 
 
 840
 00:48:09,400 --> 00:48:14,800
-you know what Netflix did
-was really be able to bring movies to
+a fait, être capable de fournir des films
 
 841
 00:48:14,800 --> 00:48:16,200
-so that it's more on demand.
+à la demande.
 
 842
 00:48:16,200 --> 00:48:18,440
-So that you can get
-it instantly or quicker.
+Afin de les avoir instantanément. 
 
 843
 00:48:18,440 --> 00:48:22,600
-It was important for us not just to have
-a directory of manufacturers,
+Il était important de ne pas être simplement 
+un annuaire d’industriels, 
 
 844
 00:48:22,600 --> 00:48:25,880
-but also use this step by step process
+mais aussi de décrire ce processus par étape
 
 845
 00:48:25,880 --> 00:48:29,520
-in which from the basic concept
-to product in hand,
+du concept de base 
+au produit fini,
 
 846
 00:48:29,520 --> 00:48:31,680
-simple as ordering pizza.
+aussi simple que de commander une pizza.
 
 847
 00:48:31,680 --> 00:48:34,600
-Where you can basically track
-this whole process
+où tu peux finalement suivre 
+toutes les opérations
 
 848
 00:48:34,600 --> 00:48:37,640
-where they'll tell you Jake
-is putting on the toppings now,
+où on te dirait quand Jake 
+ajoute les champignons, 
 
 849
 00:48:37,640 --> 00:48:39,280
-and it's going into the oven.
+et quand elle va au four.
 
 850
 00:48:39,280 --> 00:48:42,480
-I would just say that now
-is the best time that I've ever seen
+Je dirais qu’aujourd’hui est 
+le meilleur moment que je n’ai jamais vu
 
 851
 00:48:42,480 --> 00:48:44,960
-for a small business to be creative.
+d’être créative, pour une petite entreprise.
 
 852
 00:48:44,960 --> 00:48:46,760
-Not only the access to resources
+Pas seulement pour accéder aux ressources
 
 853
 00:48:46,760 --> 00:48:49,760
 but also just the outpoint
 and the social.
+mais aussi 
 
 854
 00:48:52,280 --> 00:48:56,440
