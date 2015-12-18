@@ -3789,8 +3789,6 @@ ou autre,
 
 816
 00:46:44,080 --> 00:46:50,120
-in order to go back to poverty
-and starvation and privation and that.
 afin de revenir à la pauvreté 
 et la famine, etc. 
 
@@ -3808,7 +3806,6 @@ que nous développons depuis
 00:46:57,560 --> 00:47:03,280
 revenir sur des échelles de production 
 plus réduites, 
-
 
 820
 00:47:03,280 --> 00:47:09,320
@@ -3840,8 +3837,6 @@ pour des marques bien plus grosses.
 
 826
 00:47:29,920 --> 00:47:33,520
-Today we're seeing
-so many of these orders
 Aujourd’hui, nous voyons 
 tellement de commande
 
@@ -3894,8 +3889,6 @@ la production Américaine,
 
 837
 00:48:00,880 --> 00:48:03,400
-because now what you're seeing
-that speed to market
 parce que ce qu’on voit aujourd’hui 
 la vitesse d’entrée sur le marché 
 
@@ -3973,305 +3966,311 @@ mais aussi
 
 854
 00:48:52,280 --> 00:48:56,440
-I believe that there's a renaissance
-in micro-manufacturing
+Je pense que nous assistons à la renaissance 
+de la micro-production
 
 855
 00:48:56,440 --> 00:48:57,600
-in the urban environment.
+en contexte urbain.
 
 856
 00:48:57,600 --> 00:49:00,320
-I think there's a whole new generation
-of manufacturers
+Je pense qu’il y a toute une nouvelle génération 
+de producteurs
 
 857
 00:49:00,320 --> 00:49:04,920
-that are enabled by modern desktop
-manufacturing technologies,
+qui vont s’appuyer sur les nouvelles technologies 
+de fabrication de bureau, 
 
 858
 00:49:04,920 --> 00:49:11,240
-digital technologies, laser cutters,
-3D printers, digital printing,
+machines à commandes numériques, découpe laser, 
+impression 3D, 
 
 859
 00:49:11,240 --> 00:49:13,520
-all of these technologies
-combine together
+toutes ces techniques 
+combinées ensemble
 
 860
 00:49:13,520 --> 00:49:16,800
-to allow small manufacturers
-to make things locally.
+pour permettre à de petits producteurs
+de fabriquer des choses localement.
 
 861
 00:49:29,640 --> 00:49:32,480
-Rickshaw Bagworks
-is a local sewing factory here
+Rickshaw Bagworks 
+est un petit atelier de couture situé
 
 862
 00:49:32,480 --> 00:49:35,240
-in San Francisco
-in the Dogpatch neighborhood.
+ici à San Francisco
+dans le quartier de Dogpatch
 
 863
 00:49:35,240 --> 00:49:36,600
-Throw our door open every day
+Nous ouvrons notre porte tous les jours 
 
 864
 00:49:36,600 --> 00:49:39,160
-and invite people in
-to see how we make things.
+et invitons les gens à venir 
+voir comment nous comment nous faisons les choses.
 
 865
 00:49:39,160 --> 00:49:41,760
-Getting beyond that black box
-and looking back in there
+Arriver à dépasser cette boite noir
+et regarder par là
 
 866
 00:49:41,760 --> 00:49:43,840
-and saying hey what really
-goes on inside of here?
+et dire, hey mais qu’es-ce qui 
+se passe réellement là-dedans ? 
 
 867
 00:49:46,680 --> 00:49:49,160
-Very interesting you notice
-that my sewing team,
+Très intéressant, avez-vous remarqué 
+mon équipe de couture ? 
 
 868
 00:49:49,160 --> 00:49:50,600
-all the women are Chinese.
+toutes les femmes sont chinoises ? 
 
 869
 00:49:50,600 --> 00:49:52,680
-Chinese is the first language
-in our factory.
+Le chinois est la première langue 
+dans notre usine. 
 
 870
 00:49:52,680 --> 00:49:54,840
-It turns out that here
-in San Francisco
+Il se trouve qu’ici 
+à San Francisco 
 
 871
 00:49:54,840 --> 00:49:59,360
-the Chinese community has really been
-the backbone of the sewing community.
+la communauté Chinoise est vraiment la colonne
+vertébrale de la couture.
 
 872
 00:50:01,920 --> 00:50:04,160
-The name Rickshaw is actually Japanese
+Le nom Rickshaw est en réalité Japonnais
 
 873
 00:50:04,160 --> 00:50:07,000
-for human powered
-or human strength vehicle.
+et signifie énergie humaine 
+ou véhicule à énergie humaine.
 
 874
 00:50:07,000 --> 00:50:10,240
-Um, Our sort of tagline
-is fresh bags made daily
+Notre slogan est 
+des « sacs frais fait tous les jours »
 
 875
 00:50:10,240 --> 00:50:13,600
-and actually
-we are using baking carts here
+et en fait 
+nous utilisons des chariots de boulangerie
 
 876
 00:50:13,600 --> 00:50:15,440
-to move some of our fabric around.
+pour déplacer les matières premières 
 
 877
 00:50:17,840 --> 00:50:19,520
-This is a totally different scale.
+Il s’agit d’une échelle complètement différente.
 
 878
 00:50:19,520 --> 00:50:21,400
-I call this micro-manufacturing,
+J’appelle ça micro-production
 
 879
 00:50:21,400 --> 00:50:24,000
-some people call it
-boutique manufacturing.
+d’autre l’appelle 
+boutique atelier
 
 880
 00:50:24,000 --> 00:50:25,640
-They first go to the laser cutter
+D’abord on va sur la découpe laser
 
 881
 00:50:25,640 --> 00:50:28,520
-where they're cut
-into the shape they'll be made,
+ou les sacs sont découpés dans 
+leur forme finale
 
 882
 00:50:28,520 --> 00:50:31,560
-and then they go through
-a lean manufacturing process.
+puis ils suivent un 
+process « lean manufacturing ».
 
 883
 00:50:31,560 --> 00:50:33,720
 Product goes through
 a sequential process,
+Le produit passe à travers 
+une série de séquence, 
 
 884
 00:50:33,720 --> 00:50:34,800
-a continuous flow,
+un flux continue, 
 
 885
 00:50:34,800 --> 00:50:36,880
-it goes from one step to the next.
+il va d’un étape à l’autre. 
 
 886
 00:50:43,400 --> 00:50:44,720
-And having your own, you know,
+Possédant notre propre 
 
 887
 00:50:44,720 --> 00:50:48,200
-manufacturing
-is that we can design, prototype,
+production 
+nous pouvons dessiner, prototyper, 
 
 888
 00:50:48,200 --> 00:50:50,480
-and get into production very quickly.
+et lancer la production très rapidement.
 
 889
 00:50:53,000 --> 00:50:56,880
-Local economies
-and global supply chains can coexist.
+Les économies locales
+et la logistique mondiale peuvent coexister. 
 
 890
 00:50:56,880 --> 00:51:00,560
-I think the two are not mutually
-exclusive by any means whatsoever.
+Je ne pense pas les deux soient opposées
+de quelques façons que ce soit. 
 
 891
 00:51:00,560 --> 00:51:02,800
-Some things exist at the local level,
+Certaines choses existes à une échelle locale, 
 
 892
 00:51:02,800 --> 00:51:06,680
-some at the mass
-global supply chain level,
+d’autres à une échelle de masse, 
 
 893
 00:51:06,680 --> 00:51:08,760
-and there are things
-that are hybrids as well.
+et d’autres qui 
+sont hybrides. 
 
 894
 00:51:08,760 --> 00:51:11,520
-We have a product line here
-that has components
+Nous avons une ligne de production 
+qui a des composants 
 
 895
 00:51:11,520 --> 00:51:14,440
-that are labor intensive
-that are made in China,
+fabriqués à la chaine 
+en Chine,
 
 896
 00:51:14,440 --> 00:51:16,400
 but we bring them together here
+mais nous les faisons acheminer ici 
 
 897
 00:51:16,400 --> 00:51:18,800
-and do the customization in our factory,
+et les personnalisons ici dans notre usine, 
 
 898
 00:51:18,800 --> 00:51:20,400
-so it's a hybrid product.
+il s’agit de produit hybride.
 
 899
 00:51:22,600 --> 00:51:24,360
-One day my kids were at school
+Un jour mes enfants étaient à l’école
 
 900
 00:51:24,360 --> 00:51:25,720
-and they were going around
-the classroom saying well
+et ils se demandaient chacun 
+se que faisaient 
 
 901
 00:51:25,720 --> 00:51:27,480
-what does your father
-or what does your mom do.
+leurs parents dans la vie.
 
 902
 00:51:27,480 --> 00:51:30,280
-My son says oh,
-you know my dad makes bags.
+Mon fils dit, 
+mon père fait des sacs. 
 
 903
 00:51:30,640 --> 00:51:33,480
-And someone right next to
-him said paper or plastic?
+Et quelqu’un à coté de lui demanda 
+en papier ou en plastique ? 
 
 904
 00:51:33,480 --> 00:51:36,000
-Which is the classic line here
-in the United States
+Ce qui est un classique 
+ici aux Etats-unis
 
 905
 00:51:36,000 --> 00:51:37,400
-when you're checking out
-of the supermarket.
+quand vous terminez 
+vos courses au supermarché
 
 906
 00:51:37,400 --> 00:51:38,720
-Paper or plastic.
+Papier ou plastique.
 
 907
 00:51:38,720 --> 00:51:41,400
-So I am the bag guy
-but I make different bags
+Donc je suis l’homme au sac 
+mais je fais d’autres types de sac
 
 908
 00:51:41,400 --> 00:51:43,000
-than paper or plastic bags.
+qu’en papier ou plastique.
 
 909
 00:52:28,240 --> 00:52:31,280
 The United States used to have
 a hot rod culture.
+Les Etats-Unis avaient une
+culture « hot rod ».
 
 910
 00:52:31,280 --> 00:52:35,240
-And a lot of people spent
-a lot of time taking apart their cars
+Et beaucoup de gens passaient 
+beaucoup de temps à démonter leurs voitures
 
 911
 00:52:35,240 --> 00:52:37,560
-and putting them back together again.
+et à les remonter.
 
 912
 00:52:37,560 --> 00:52:41,120
-That culture still exists
-but not quite in the same way.
+Cette culture existe toujours 
+mais plus de la même manière.
 
 913
 00:52:41,120 --> 00:52:44,720
-If you open up the hood of a car today,
+Si vous ouvrez le capot 
+de votre voiture aujourd’hui, 
 
 914
 00:52:44,720 --> 00:52:48,040
-you'll usually see
-a sealed plastic cover.
+vous verrez un 
+capot en plastique.
 
 915
 00:52:48,040 --> 00:52:50,760
-It's very hard to tinker
-with your car now.
+Il est impossible de bidouiller 
+sa voiture aujourd’hui.
 
 916
 00:52:52,560 --> 00:52:54,440
-One of the tools of the maker movement
+Ce que propose le mouvement des makers 
 
 917
 00:52:54,440 --> 00:52:56,880
-is providing today are really analogous.
+aujourd’hui est vraiment similaire.
 
 918
 00:52:56,880 --> 00:53:00,600
 They can do desktop publishing
 or to some of the early software that,
+Ils peuvent faire de la bureautique
+ou 
 
 919
 00:53:00,600 --> 00:53:02,920
