@@ -2797,11 +2797,11 @@ et des gens qui comme pour Pebble,
 603
 00:36:20,000 --> 00:36:22,640
 qui soutiennent le projet
-en pré-achetant, 
+en pré-achat, 
 
 604
 00:36:22,640 --> 00:36:24,520
-vous avez une très bonne raison de penser 
+vous avez de bonnes raisons de penser 
 
 605
 00:36:24,520 --> 00:36:26,920
@@ -2852,7 +2852,7 @@ qui avait été publiée sur le site
 
 615
 00:36:49,200 --> 00:36:51,360
-et je pense qu’elle illustre assez bien 
+et je pense qui illustre assez bien 
 notre vision du monde, 
 
 616
@@ -2873,7 +2873,7 @@ au moins aux Etats-Unis.
 619
 00:37:01,920 --> 00:37:04,080
 À l’avenir, des millions de films 
-seront produits tous les ans,
+seront produit tous les ans,
 
 620
 00:37:04,080 --> 00:37:06,120
@@ -2883,7 +2883,7 @@ des millions de films devraient
 621
 00:37:06,120 --> 00:37:08,600
 Et c’est ainsi que Youtube
-est complètement démocratisé.
+a complètement démocratisé.
 
 622
 00:37:08,600 --> 00:37:10,200
@@ -2905,7 +2905,7 @@ Là où se passent les choses
 
 626
 00:37:20,960 --> 00:37:22,120
-Où ils sont fait.
+Où elles sont fait.
 
 627
 00:37:24,400 --> 00:37:27,360
@@ -2927,7 +2927,7 @@ il faut une communauté pour faire kickstarter,
 
 631
 00:37:35,080 --> 00:37:38,320
-tous derrière l’entreprise
+tous ceux derrière l’entreprise
 font partie de la communauté
 
 632
@@ -3056,8 +3056,6 @@ est un incubateur dédié aux produits physiques.
 
 659
 00:39:09,840 --> 00:39:13,080
-Jeremy and I know each other
-from MIT and as mechanical engineers
 Jeremy et moi nous connaissons du MIT
 et en tant qu’ingénieur en mécanique
 
@@ -3123,6 +3121,7 @@ l’impression d’être avec votre interlocuteur
 673
 00:39:43,280 --> 00:39:44,680
 donc en fait 
+
 674
 00:39:44,680 --> 00:39:47,120
 quand on fait une conférence téléphonique
@@ -3164,7 +3163,7 @@ spécialistes de la RFID donc
 
 682
 00:40:04,920 --> 00:40:07,240
-ca vous facture automatiquement 
+ça vous facture automatiquement 
 ce que vous prenez.
 
 683
@@ -3187,14 +3186,13 @@ en productique
 Et le défi avec la productique 
 c’est que ça coute de l’argent.
 
-
 687
 00:40:20,920 --> 00:40:22,920
 Sur toutes les plateformes de crowdfunding 
 
 688
 00:40:22,920 --> 00:40:25,280
-vous allez devoir fixer un plafond 
+vous allez devoir fixer un objectif 
 
 689
 00:40:25,280 --> 00:40:27,240
@@ -3211,8 +3209,6 @@ vraiment rencontré la demande.
 
 692
 00:40:30,280 --> 00:40:34,040
-The problem comes they would end up
-not setting the threshold high enough.
 Le gros problème c’est quand le plafond 
 n’est pas assez haut 
 
@@ -3250,8 +3246,6 @@ vous savez j’aimerais beaucoup rejoindre votre incubateur,
 
 700
 00:40:49,920 --> 00:40:51,880
-we're like well unfortunately
-you've priced it wrong.
 nous on dit et bien malheureusement
 vous vous êtes trompé dans le prix
 
@@ -3261,8 +3255,6 @@ Ou vous n’avez pas prévu d’étiquette CE.
 
 702
 00:40:54,400 --> 00:40:56,760
-We think it's really important
-to coach them and be with them
 Nous pensons que c’est vraiment important 
 de les coacher et d’être à leur coté
 
@@ -3349,7 +3341,6 @@ C’est fou.
 Mais la miniaturisation 
 était presque inévitable
 
-
 721
 00:41:47,000 --> 00:41:49,160
 de plus en plus petit 
@@ -3393,8 +3384,6 @@ Ou quelqu’un d’autre qui test
 
 730
 00:42:11,240 --> 00:42:13,240
-with a different way
-of getting a cylinder
 une autre façon de rentrer un cylindre 
 
 731
@@ -3451,7 +3440,6 @@ rapide.
 
 743
 00:42:51,480 --> 00:42:54,720
-Oncoming attractive useful products.
 De futures produits attractifs et utiles. 
 
 744
@@ -3472,8 +3460,6 @@ de plus en plus d’Américains.
 
 748
 00:43:07,160 --> 00:43:10,320
-All in our own personal
-choices of colors,
 Tout ceci personnalisé 
 à nos couleurs, 
 
@@ -3503,7 +3489,6 @@ ailleurs dans le reste du monde.
 00:43:23,080 --> 00:43:28,600
 Tous ceci produit 
 pour vous et moi, 
-
 
 755
 00:43:28,600 --> 00:43:31,400
@@ -3603,14 +3588,12 @@ et aujourd’hui même dans la fabrication.
 
 776
 00:44:45,480 --> 00:44:47,440
-Oh, here's one of the things
-I made a lot of.
 Oh, voici parmi les choses que 
 j’ai beaucoup réalisé ces derniers temps
 
 777
 00:44:48,440 --> 00:44:50,280
-J’ai fait beaucoup de battes de baseball. 
+J’ai fait beaucoup de batte de baseball. 
 
 778
 00:44:50,280 --> 00:44:52,720
@@ -3870,7 +3853,7 @@ que ceux qu’ils étaient avant,
 
 833
 00:47:49,040 --> 00:47:51,880
-disons il y a 20 ans meme 10 ans auparavant. 
+disons il y a 20 ans même 10 ans auparavant. 
 
 834
 00:47:51,880 --> 00:47:55,720
@@ -4103,8 +4086,6 @@ process « lean manufacturing ».
 
 883
 00:50:31,560 --> 00:50:33,720
-Product goes through
-a sequential process,
 Le produit passe à travers 
 une série de séquence, 
 
@@ -4164,8 +4145,7 @@ en Chine,
 
 896
 00:51:14,440 --> 00:51:16,400
-but we bring them together here
-mais nous les faisons acheminer ici 
+mais nous les faisons acheminer jusqu’ici 
 
 897
 00:51:16,400 --> 00:51:18,800
@@ -4223,8 +4203,6 @@ qu’en papier ou plastique.
 
 909
 00:52:28,240 --> 00:52:31,280
-The United States used to have
-a hot rod culture.
 Les Etats-Unis avaient une
 culture « hot rod ».
 
@@ -4250,7 +4228,7 @@ de votre voiture aujourd’hui,
 914
 00:52:44,720 --> 00:52:48,040
 vous verrez un 
-capot en plastique.
+couvercle en plastique.
 
 915
 00:52:48,040 --> 00:52:50,760
@@ -4259,773 +4237,765 @@ sa voiture aujourd’hui.
 
 916
 00:52:52,560 --> 00:52:54,440
-Ce que propose le mouvement des makers 
+Ce que propose le mouvement des makers auourd’hui 
 
 917
 00:52:54,440 --> 00:52:56,880
-aujourd’hui est vraiment similaire.
+est vraiment similaire.
 
 918
 00:52:56,880 --> 00:53:00,600
-They can do desktop publishing
-or to some of the early software that,
-Ils peuvent faire de la bureautique
-ou 
+Ils peuvent faire du traitement informatique de bureau (desktop publishing),
+ou comme certain des premiers logiciels, 
 
 919
 00:53:00,600 --> 00:53:02,920
-um, allowed people
-to publish things on the web.
+qui ont permis à des gens 
+de publier des choses sur le web. 
 
 920
 00:53:02,920 --> 00:53:04,960
-It would be really hard
-to go back to say,
+Ce serait très difficile,
+de revenir en arrière et de dire:
 
 921
 00:53:04,960 --> 00:53:09,160
-you know, the days of the TRS80
-And predict something like Facebook.
+qu’à l’époque du premier ordinateur TRS80, 
+on aurait pu imaginer quelque chose comme Facebook…
 
 922
 00:53:09,160 --> 00:53:12,120
-So we can't really envision everything
-that will happen,
+Donc on ne peux toujours prédire à l’avance
+les évolutions du futur,
 
 923
 00:53:12,120 --> 00:53:15,240
-but what we can say
-in more general terms
+Mais ce qu’on peut dire 
+de manière plus générale
 
 924
 00:53:15,240 --> 00:53:18,560
-is that rather than having
-a few large producers
+c’est que à la place d’avoir 
+quelques grands producteurs, 
 
 925
 00:53:18,560 --> 00:53:23,480
-of common standard almost products
-that we all use and know,
+tous ayant les mêmes standards de produits
+que l’on utilise et connaît tous, 
 
 926
 00:53:23,480 --> 00:53:27,120
-you'll have lots and lots and lots
-of people making a few thousands
+on aurait plutôt pleins pleins
+de personnes qui fabriquent des milliers 
 
 927
 00:53:27,120 --> 00:53:28,680
-or tens of thousands of something
+voire des dizaine de milliers, 
 
 928
 00:53:28,680 --> 00:53:30,600
-which is really just
-what you're looking for.
+ce qui correspondrait parfaitement 
+à ce que chacun recherche. 
 
 929
 00:53:39,720 --> 00:53:41,840
-So I'm Damien, Damien Declercq.
+Je m’appelle Damien, Damien Declercq.
 
 930
 00:53:41,840 --> 00:53:44,800
-I've been working with Local Motors now
-for two years and a half.
+Je travaille aujourd’hui pour Local Motors 
+depuis maintenant 2 ans et demi, 
 
 931
 00:53:44,800 --> 00:53:47,200
-And I'm looking after
-the business development of the company.
+Et je m’occupe 
+du développement économique de l’entreprise. 
 
 932
 00:53:47,200 --> 00:53:49,760
-One of our mission which is co-creation.
+Une de nos missions est la co-création.
 
 933
 00:53:53,400 --> 00:53:57,280
-So this means that we are not going
-for the one size fits all.
+Cela signifie que nous ne cherchons pas à 
+créer les mêmes choses pour tout le monde. 
 
 934
 00:53:57,920 --> 00:54:01,560
-We're building small batches
-of niche vehicles
+Nous fabriquons des petits lots 
+de beaux véhicules, 
 
 935
 00:54:01,560 --> 00:54:04,160
-that are good for a local market.
+qui sont adaptés a un marché local en particulier,
 
 936
 00:54:04,160 --> 00:54:08,520
-This is where the main difference
-is with large automotive manufacturers.
+C’est la que nous nous distinguons véritablement
+des grands producteurs automobiles. 
 
 937
 00:54:08,520 --> 00:54:11,560
-They are building large plants
-to produce
+Eux construisent des grandes infrastructures, 
+pour produire 
 
 938
 00:54:11,560 --> 00:54:15,400
-a large amount of vehicles
-but all the same type.
+un grand nombre de véhicules 
+mais tous du même type. 
 
 939
 00:54:22,240 --> 00:54:24,040
-So Local Motors makes cars.
+Chez Local Motors on fabrique des voitures.
 
 940
 00:54:24,040 --> 00:54:26,000
-From the design of the car
-to the manufacturing of the car
+Depuis le design de la voiture 
+à sa fabrication en atelier, 
 
 941
 00:54:26,000 --> 00:54:28,960
-everything is designed to be profitable
-at a small scale.
+tout est dessiné de manière à être rentable « profitable »
+à une petite échelle.
 
 942
 00:54:28,960 --> 00:54:30,960
-So if General Motors designed a car
+Alors quand General Motors dessine une voiture, 
 
 943
 00:54:30,960 --> 00:54:33,880
-and they sold five or ten
-or 20 thousands units of their car,
+et qu’ils en vendent 5 ou 10 
+ou même 20 mille unités de cette même voiture, 
 
 944
 00:54:33,880 --> 00:54:36,400
-it would be a complete catastrophe.
+ce serait une vrai catastrophe. 
 
 945
 00:54:36,400 --> 00:54:38,400
-Um, but if Local Motors dos that they're,
+En fait, si Local Motors faisait cela, 
 
 946
 00:54:38,400 --> 00:54:41,520
-they're actually geared up to, you know,
-break even at that price,
+Ils en sont tout à fait capable 
+d’être rentable dans ces conditions
 
 947
 00:54:41,520 --> 00:54:46,040
-the same way that bloggers undermined
-a lot of the newspapers and other media.
+de la même manière que les bloggers concurrencent
+la presse journalistique et les autres médias.  
 
 948
 00:54:46,040 --> 00:54:48,440
-And Youtube has changed the way
-we consume television.
+Et Youtube à transformé notre rapport
+à la télévision.
 
 949
 00:54:48,440 --> 00:54:49,760
-And all these things are happening.
+Et tout cela est en train de se passer.
 
 950
 00:54:49,760 --> 00:54:52,480
-You see the same types of
-things happening in manufacturing.
+On voit les mêmes choses arriver
+dans la chaîne de fabrication. 
 
 951
 00:55:11,280 --> 00:55:14,960
-Basically when we do a project for us,
-it's fairly straight-forward.
+quand on fait un projet pour nous,
+c’est assez simple. 
 
 952
 00:55:14,960 --> 00:55:16,680
-Everything is open source.
+Tous les plans sont en libre accès (open source).
 
 953
 00:55:16,680 --> 00:55:19,640
-You can download the CAD data
-of the Rally Fighter.
+Tu peux télécharger les fichiers CAD (computer-aided-design)
+du Rally Fighter 
 
 954
 00:55:19,640 --> 00:55:22,080
-So if you want to build
-a Rally Fighter in your garage,
+Donc si tu veux construire
+un rally fighter dans ton garage, 
 
 955
 00:55:22,080 --> 00:55:24,920
-well, you have everything
-that you need available there.
+eh bien, tu as tout le nécéssaire  
+qui est disponible ici…
 
 956
 00:55:24,920 --> 00:55:28,280
-But today when you come
-to build your Rally Fighter here
+Mais aujourd’hui quand vous venez 
+pour construire votre Rally Fighter ici,
 
 957
 00:55:28,280 --> 00:55:29,200
-at the micro factory,
+dans « la micro-usine », 
 
 958
 00:55:29,200 --> 00:55:31,720
-you pay for the hardware
-and you pay for the training
+vous payez pour le matériel 
+et pour les formations, 
 
 959
 00:55:31,720 --> 00:55:34,600
-and you pay for the access
-to the tools to build your cars.
+et vous payez pour l’accès 
+à des outils permettant de construire votre voiture.
 
 960
 00:55:34,600 --> 00:55:39,000
-So this is how we generate revenue
-for the company to be sustainable.
+C’est donc comme cela que nous générons des revenus,
+de manière à ce que notre entreprise soit rentable. 
 
 961
 00:55:49,560 --> 00:55:51,640
-So for the moment
-we have one micro factory,
+Pour le moment 
+nous avons une seule « micro-usine » 
 
 962
 00:55:51,640 --> 00:55:53,880
-and we're in this one, yes.
+et nous nous y trouvons actuellement, en effet.
 
 963
 00:55:53,880 --> 00:55:58,000
-We're planning on opening a lot more,
-about 100 more in ten years,
+Nous prévoyons d’en ouvrir pleins d’autres,
+environ une centaine de plus dans 10 ans.  
 
 964
 00:55:58,000 --> 00:56:00,600
-and we're also planning to expand
+et nous prévoyions également d’accroître
 
 965
 00:56:00,600 --> 00:56:02,720
-the number of vehicles that we're doing.
+le nombre de véhicules que nous construisons. 
 
 966
 00:56:16,480 --> 00:56:20,600
-So being a maker
-isn't just about electronics.
+Etre un maker, 
+c’est n’est pas juste une histoire d’électronique,
 
 967
 00:56:20,600 --> 00:56:24,480
-It's about seeing things
-that don't work as well as they could
+Mais c’est de voire des choses 
+qui peuvent fonctionner mieux que la manière dont elle fonctionne aujourd’hui
 
 968
 00:56:24,480 --> 00:56:26,160
-and learning how to fix them.
+et apprendre à les améliorer. 
 
 969
 00:56:26,160 --> 00:56:29,360
-So I have this old chicken coop
-which I inherited with the house.
+Alors j’ai ce vieux poulailler 
+que j’ai récupéré avec la maison. 
 
 970
 00:56:29,360 --> 00:56:30,840
-And we have 8 chickens.
+Et nous avons à ce jour 8 poulets. 
 
 971
 00:56:30,840 --> 00:56:32,720
-And um, it's not big enough.
+Et en fait, il n’est pas assez grand.
 
 972
 00:56:32,720 --> 00:56:33,960
-You know that's one of the problems
+Vous savez, c’est une partie du problème, 
 
 973
 00:56:33,960 --> 00:56:37,160
-because we travel a lot and we have
-to leave the chickens locked up.
+car nous voyageons beaucoup et nous 
+devons laisser les poulets enfermés à l’intérieur. 
 
 974
 00:56:37,160 --> 00:56:38,200
-But more than that,
+Mais surtout,
 
 975
 00:56:38,200 --> 00:56:43,400
-you come in you'll see
-that it's pretty messy place
+vous rentrez à l’intérieur et vous remarquez 
+que c’est le désordre…
 
 976
 00:56:43,400 --> 00:56:45,960
-and it's not that well-designed
+et ce n’est pas si bien pensé 
 
 977
 00:56:45,960 --> 00:56:50,360
-because the chickens roost up
-on the post,
+car les poulets sont perchés sur
+le poteau,  
 
 978
 00:56:50,360 --> 00:56:54,160
-and then they poop
-down into the nesting boxes
+et font ensuite leurs besoins 
+dans les nichoirs,
 
 979
 00:56:54,160 --> 00:56:56,240
-where they lay the eggs.
+exactement là où ils déposent les oeufs. 
 
 980
 00:56:56,240 --> 00:56:59,160
-So that was clearly a bad design.
+Donc c’est clairement un mauvais design.
 
 981
 00:57:05,000 --> 00:57:06,000
-So,
+Donc,
 
 982
 00:57:11,240 --> 00:57:13,880
-if you look at the design
-of the new coop I'm building,
+Si vous regardez le design 
+du nouveau poulailler que je suis en train de construire,
 
 983
 00:57:14,480 --> 00:57:16,760
-first of all it's got a wire mesh bottom
+tout d’abord il y a grillage en bas 
 
 984
 00:57:17,080 --> 00:57:19,440
-so when they're roosting,
+de manière à ce que, quand ils sont perchés, 
 
 985
 00:57:19,440 --> 00:57:20,760
-the poop will just fall down
+leurs excréments tomberont juste en dessous,
 
 986
 00:57:20,760 --> 00:57:22,920
-through the mesh
-down into the area down below
+au travers du grillage, 
+jusqu’à un espace plus bas 
 
 987
 00:57:22,920 --> 00:57:24,920
-where it's a lot easier to clean.
+Oû c’est beaucoup plus simple de venir nettoyer. 
 
 988
 00:57:24,920 --> 00:57:28,560
-And the nesting boxes have been
-pushed to the outside of the coop,
+Et les boites à nichoir ont été
+déplacées en dehors du poulailler,  
 
 989
 00:57:28,560 --> 00:57:31,040
-so there's no change
-that the chickens will,
+donc il n’est plus possible
+que les poulets,  
 
 990
 00:57:31,040 --> 00:57:35,280
-um, basically do their business
-where they're also laying the eggs.
+eh bien, fasse ce qu’ils ont à faire au
+même endroit où ils déposent leurs oeufs.  
 
 991
 00:57:38,440 --> 00:57:40,080
-There's also a lot of little details.
+Il y a également pleins de petits détails.
 
 992
 00:57:40,080 --> 00:57:41,360
-You know, we had problems with rats,
+Nous avions également un problème avec les rats, 
 
 993
 00:57:41,360 --> 00:57:44,160
-so we got some, you know,
-rats can actually squeeze
+Nous avons remarqué que les rats pouvaient se faufiler 
 
 994
 00:57:44,160 --> 00:57:45,840
-through chicken wire like that,
+sans problème entre les grillages du poulailler, 
 
 995
 00:57:45,840 --> 00:57:47,320
-but they can't squeeze
-through hardware cloth.
+mais ils ne peuvent pas passer à travers le tissu. 
 
 996
 00:57:47,320 --> 00:57:50,800
-So little fixes we put hardware cloth
-a couple of feet down
+Donc quelques petits arrangements, on a mis du tissu
+un peu plus bas en dessous, 
 
 997
 00:57:50,800 --> 00:57:52,840
-so they couldn't tunnel under.
+de manière à ce qu’ils ne puissent pas creuser un tunnel dessous.  
 
 998
 00:57:52,840 --> 00:57:56,560
-You know you think about
-how do you solve problems.
+On se demande souvent comment 
+résoudre des problèmes, 
 
 999
 00:57:56,560 --> 00:58:01,320
-And it's that sort
-of engaging designing in a way
+Et c’est ce genre d’engagement 
+dans la conception et le design d’une certaine manière,  
 
 1000
 00:58:01,320 --> 00:58:05,520
-that makes something work
-that's the essence of making.
+qui fait que quelque chose fonctionne, 
+et ça, c’est l’essence de la fabrication et du « faire ».
 
 1001
 00:58:05,520 --> 00:58:07,880
-It's not that you use electronics.
+Ce n’est pas parce que vous utilisez de l’électronique, 
 
 1002
 00:58:14,040 --> 00:58:16,400
-Millions of entrepreneurs
-were able to come up
+des millions d’entrepreneurs 
+ont été capable de créer la surprise,  
 
 1003
 00:58:16,400 --> 00:58:19,320
-with the very effective
-and simple solutions
+avec des solutions très efficaces 
+mais à la fois très simple, 
 
 1004
 00:58:19,320 --> 00:58:21,800
-using very limited resources.
+utilisant des ressources limitées. 
 
 1005
 00:58:21,800 --> 00:58:24,400
-You know what they call
-in the US the MacGyver spirit,
+Vous avez peut être entendu  ce qu’on appelle 
+aux USA l’esprit MacGyver… 
 
 1006
 00:58:24,400 --> 00:58:28,440
-you know,  which is the ability
-to come up with the makeshift solution
+c’est en fait la capacité 
+de trouver des solutions géniales,  
 
 1007
 00:58:28,440 --> 00:58:30,040
-when you have nothing except,
+quand vous avez seulement 
 
 1008
 00:58:30,040 --> 00:58:32,840
-you know,
-duct tape and your Swiss army knife.
+du ruban adhésif et votre couteau de l’armée suisse!
 
 1009
 00:58:54,520 --> 00:58:58,960
-We needed to figure out a way
-to have TEMPT draw again.
+Il a fallut trouver un moyen 
+pour que TEMPT dessine à nouveau.
 
 1010
 00:58:58,960 --> 00:59:02,280
-His eyes were the only muscle
-that he could move
+Ses yeux étaient ses seuls muscles
+qu’il pouvait bouger,
 
 1011
 00:59:02,280 --> 00:59:04,480
-so we created something
-that worked within that.
+donc on a décidé de créer quelque chose 
+qui pourrait marcher avec cette condition. 
 
 1012
 00:59:07,000 --> 00:59:10,520
-One he was going to be able
-to talk through a machine
+D’abord, il devait être capable 
+de parler à une machine 
 
 1013
 00:59:10,520 --> 00:59:13,640
-and two that he was going to be able
-to do his art again.
+et deuxièmement, il devait être capable 
+de continuer à faire de l’art.
 
 1014
 00:59:15,920 --> 00:59:18,520
-The Eye Writer we made for
-under 100 dollars.
+Le « eye writer » qu’on a construit pour lui 
+à moins de 100 €.
 
 1015
 00:59:18,520 --> 00:59:23,720
-Today I made eye writers
-in my 9 year old son's classroom
+Aujourd’hui j’ai fabriqué des « eye writers » 
+dans la classe de mon fils qui a 9 ans, 
 
 1016
 00:59:23,720 --> 00:59:27,640
-and the total cost of those devices
-were under ten dollars.
+et le coût total pour ces appareils, 
+a été moins de 10 dollars. 
 
 1017
 00:59:27,640 --> 00:59:29,240
-And by doing that I don't think
+En faisant cela, je ne pense pas 
 
 1018
 00:59:29,240 --> 00:59:32,560
-it's going to instantly change
-the medical industry over night,
+que je vais révolutionner 
+l’industrie médicale entre aujourd’hui et demain, 
 
 1019
 00:59:32,560 --> 00:59:35,800
-but as you reduce
-the cost of goods sold,
+mais à partir du moment où vous réduisez 
+le coût des articles en vente,
 
 1020
 00:59:35,800 --> 00:59:39,440
-you have the potential
-to make things more affordable.
+vous avez le potentiel 
+de faire des choses plus abordables. 
 
 1021
 00:59:39,440 --> 00:59:43,680
-For me this represents kind
-of the Jugaad or the maker spirit.
+Pour moi cela représente le Jugaad  
+ou l’esprit du maker. 
 
 1022
 00:59:43,680 --> 00:59:47,840
-And Jugaad is a Hindi word
-that means an improvised solution
+Le Jugaad c’est un mot en indien 
+qui signifie une solution improvisée 
 
 1023
 00:59:47,840 --> 00:59:50,520
-born from ingenuity and cleverness.
+qui née de l’ingéniosité et de l’intelligence.
 
 1024
 00:59:52,960 --> 00:59:55,680
-Some interesting entrepreneurs in India,
+Des entrepreneurs intéressants en Inde, 
 
 1025
 00:59:55,680 --> 00:59:58,680
-one of them is named Mansukh Prajapati.
+un d’entres eux se nomme Mansukh Prajapati.
 
 1026
 00:59:58,680 --> 01:00:01,080
-He actually has created in my opinion
+C’est lui qui à mon sens à crée 
 
 1027
 01:00:01,080 --> 01:00:04,960
-the world's greenest fridge
-made entirely of clay.
+le frigo le plus écologique qui 
+est entièrement conçu en argile. 
 
 1028
 01:00:04,960 --> 01:00:09,520
-It consumes no electricity
-and it is 100 percent biodegradable.
+Il ne consomme pas d’électricité 
+et il est 100% biodégradable. 
 
 1029
 01:00:09,520 --> 01:00:12,920
-It keeps fruits and vegetables fresh
-for five days.
+Il garde les fruits et légumes frais 
+pendant 5 jours. 
 
 1030
 01:00:12,920 --> 01:00:16,080
-And it cost only about 25 or 30 dollars.
+Et il coute seulement 25 ou 30 dollars.  
 
 1031
 01:00:17,600 --> 01:00:18,880
-So the maker movement
+Le mouvement des makers
 
 1032
 01:00:18,880 --> 01:00:22,280
-is not only spreading
-across 50 states in the US,
+n’est pas seulement en train 
+de traverser les 50 états des USA,
 
 1033
 01:00:22,280 --> 01:00:25,520
-but it's now spreading
-also in other countries.
+il se développe désormais 
+dans d’autres pays. 
 
 1034
 01:00:25,520 --> 01:00:28,640
-And particularly in Europe,
-especially the western part of Europe,
+Spécialement en Europe,
+et tout particulièrement dans la partie ouest,
 
 1035
 01:00:28,640 --> 01:00:31,800
-are very affected
-by the economic crisis.
+qui sont très affecté 
+par la crise économique. 
 
 1036
 01:00:31,800 --> 01:00:35,280
-The governments in Europe,
-in France, Spain and Italy
+Les gouvernements en Europe, 
+en France, en Italie, 
 
 1037
 01:00:35,280 --> 01:00:37,560
-are closely looking at
-the maker movement
+regarde attentivement 
+le mouvement des makers,
 
 1038
 01:00:37,560 --> 01:00:42,280
-and are beginning to support and fund
-the growth of this movement as well.
+et sont également en train de commencer à aider financièrement
+la croissance de ce mouvement. 
 
 1039
 01:00:44,560 --> 01:00:47,440
-I think that the maker
-movement represents
+Je pense que le mouvement 
+des makers représente 
 
 1040
 01:00:47,440 --> 01:00:50,800
-power shifting to the individual
-and power to the people
+un pouvoir passant à l’indidivu 
+et aux personnes 
 
 1041
 01:00:50,800 --> 01:00:53,000
-then I guess
-you could call it a revolution.
+en ce sens, je pense 
+que vous pouvez parler de révolution. 
 
 1042
 01:00:53,000 --> 01:00:57,720
-That has to lead to a cataclysmic shift
-of how economies work.
+Cela va forcément mener à un changement cataclysmique
+de notre économie et de son fonctionnement, 
 
 1043
 01:01:19,040 --> 01:01:20,960
-When you're in the middle of something,
+Quand vous êtes au coeur d’une situation comme celle-ci, 
 
 1044
 01:01:20,960 --> 01:01:25,480
-it's very very hard to see
-what the larger arch of the story is.
+c’est très très dur de se rendre compte 
+de l’image globale 
 
 1045
 01:01:25,480 --> 01:01:29,520
-Say we are here,
-and if you step back a year or two,
+Supposons que nous sommes ici, 
+et si vous revenez une ou deux années auparavant,
 
 1046
 01:01:29,520 --> 01:01:31,720
-you'll get a slightly larger perspective.
+vous aurez surement une meilleure perspective. 
 
 1047
 01:01:31,720 --> 01:01:35,760
-But if you step back 50 or 500
-or even 5000 years,
+Mais si vous revenez 50 ou 500 
+ou même 5 000 années en arrière, 
 
 1048
 01:01:35,760 --> 01:01:38,440
-then you can see this larger pattern.
+alors vous verrez une perspective encore plus large. 
 
 1049
 01:01:40,880 --> 01:01:43,640
-And, and I think the idea here today
+Et je pense que l’idée aujourd’hui,  
 
 1050
 01:01:43,640 --> 01:01:45,640
-that we kind of see
-in the maker movement
+qu’on peut voire transparaître dans le mouvement maker, 
 
 1051
 01:01:45,640 --> 01:01:48,160
-and what we see
-perhaps in web developments,
+et ce qu’on voit 
+par exemple dans le développement du web, 
 
 1052
 01:01:48,160 --> 01:01:49,920
-some of the earlier phases,
+dans ses premières années, 
 
 1053
 01:01:49,920 --> 01:01:52,960
-throughout very small groups of people
-can have very big impact.
+au travers de petits groupes de personnes 
+ont pu avoir un impact énorme. 
 
 1054
 01:01:52,960 --> 01:01:55,240
-Um, You don't necessarily need
+vous n’avez pas nécessairement besoin 
 
 1055
 01:01:55,240 --> 01:01:57,240
-the world's largest company behind you,
+des plus grandes entreprises mondiales derrière vous 
 
 1056
 01:01:57,240 --> 01:02:00,080
-you don't need a huge lab.
+vous n’avez pas besoin d’un gigantesque laboratoire. 
 
 1057
 01:02:00,080 --> 01:02:02,440
-We now recognize that a,
-that a, you know,
+On peut reconnaître aujourd’hui que
 
 1058
 01:02:02,440 --> 01:02:05,880
-transformative set of tools
-are now in the hands of regular people.
+un ensemble d’outils
+sont désormais entre les mains de tout le monde. 
 
 1059
 01:02:05,880 --> 01:02:07,760
-We've seen it happen once
-with the personal computer,
+On a déjà pu le voir avec l’ordinateur portable
 
 1060
 01:02:07,760 --> 01:02:09,600
-we've seen it happen again with the web.
+et on a pu le voire également avec l’internet.
 
 1061
 01:02:09,600 --> 01:02:12,200
-We have, we know that
-when you put powerful tools
+On a, on le sait, 
+que lorsqu’on met des outils puissants
 
 1062
 01:02:12,200 --> 01:02:14,600
-in the hands of regular people
-they change the world.
+entre les mains de la population,
+les individus peuvent changer le monde.
 
 1063
 01:02:14,600 --> 01:02:16,840
-That moment has happened now
-with manufacturing,
+Ce changement se passe aujourd’hui
+avec la fabrication, 
 
 1064
 01:02:16,840 --> 01:02:19,400
-which is bigger than either
-of those two industries.
+qui est plus grand que chacune 
+de ces deux industries.
 
 1065
 01:02:19,400 --> 01:02:22,040
-And um, if the past is prologue,
+Et, si le passé est un prologue,
 
 1066
 01:02:22,040 --> 01:02:26,680
-this is going to both create entirely
-new industries, product and companies,
+cela va créer de nouveaux marchés, 
+produits et entreprises,
 
 1067
 01:02:26,680 --> 01:02:29,080
-but also transform existing ones.
+mais aussi transformer ceux qui existent déjà.
 
 1068
 01:02:33,880 --> 01:02:37,760
-So today we look at
-some of the silly things
+Aujourd’hui nous observons
+les bêtises
 
 1069
 01:02:37,760 --> 01:02:41,040
-that are coming out of
-the maker's movement.
+que produit 
+le mouvement des makers
 
 1070
 01:02:41,040 --> 01:02:44,160
-Or the frivolous things,
-or the things that are just fun.
+Ou les gadgets, 
+ou les choses fun, 
 
 1071
 01:02:44,160 --> 01:02:46,640
-And we say
-what are the consequences of this.
+Nous cherchons à découvrir 
+les conséquences de celles-ci
 
 1072
 01:02:47,280 --> 01:02:48,840
-And probably, you know,
+Probablement, 
 
 1073
 01:02:48,840 --> 01:02:52,360
 in the short term the consequences,
 the implications
+à court termes les conséquences 
 
 1074
 01:02:52,360 --> 01:02:54,280
-are very very modest.
+seront très modestes,
 
 1075
 01:02:54,280 --> 01:02:56,440
-And maybe they will go nowhere,
+et elles mèneront probablement nulle part, 
 
 1076
 01:02:56,440 --> 01:02:59,480
-and it will be a fashion that fades.
+et ce sera une mode qui disparaitra, 
 
 1077
 01:02:59,480 --> 01:03:02,520
-but what if
-it doesn't and can we extrapolate,
+et si ce n’était pas le cas ? 
+et si on extrapolait
 
 1078
 01:03:02,520 --> 01:03:06,680
-what if it takes off
-and becomes a new model.
+et si ça se développait, 
+et devenait le nouveau modèle 
 
 1079
 01:03:06,680 --> 01:03:07,560
-And that's the kind of thing
+C’est ce genre de choses
 
 1080
 01:03:07,560 --> 01:03:10,400
-that I think
-we also want to be watching for,
+que nous cherchons à observer
 
 1081
 01:03:10,400 --> 01:03:13,520
-listening for, and trying to imagine.
+écouter, et imaginer.
 
