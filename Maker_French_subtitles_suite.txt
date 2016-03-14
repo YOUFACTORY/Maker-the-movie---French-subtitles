@@ -96,7 +96,7 @@ voilà la philosophie maker.
 22
 00:02:02,720 --> 00:02:07,160
 Les enfants ! 
-L'OVIN officiel de la Maker Faire. 
+L'OVNI officiel de la Maker Faire. 
 
 23
 00:02:07,160 --> 00:02:09,640
@@ -104,8 +104,8 @@ We put the U in UFO.
 
 24
 00:02:09,640 --> 00:02:11,440
-En fait 
-nous mettons vos enfants dans l’engin. 
+En fait nous mettons 
+vos enfants dans l’engin. 
 
 25
 00:02:11,440 --> 00:02:15,080
@@ -324,7 +324,7 @@ avec craigslist et,
 
 71
 00:04:54,840 --> 00:04:56,720
-tu sais, de l'occasion.
+des occasions.
 
 72
 00:04:56,720 --> 00:04:58,560
@@ -342,7 +342,7 @@ alors je ne fais qu'entreposer des déchets.
 75
 00:05:03,920 --> 00:05:06,640
 Si les choses ont leur place, 
-et je sais où ils sont, 
+et je sais où elles sont, 
 
 76
 00:05:06,640 --> 00:05:09,760
@@ -401,8 +401,8 @@ Si vous vous demandez à quoi sert l'art,
 
 88
 00:06:05,720 --> 00:06:09,640
-alors il y a des chances que vous n'ayez jamais besoin d'art
-chez vous.
+alors il y a des chances que vous 
+n'ayez jamais besoin d'art chez vous.
 
 89
 00:06:09,640 --> 00:06:11,480
@@ -431,7 +431,6 @@ et existait de manière isolée.
 00:06:27,760 --> 00:06:29,840
 Par exemple des phrases 
 comme "the lone tinkerer"
-
 
 95
 00:06:29,840 --> 00:06:32,320
@@ -509,12 +508,12 @@ les instructions pour le faire.
 
 111
 00:07:36,000 --> 00:07:41,120
-Alors, um, ça c'est une bobine tesla
+Alors, ça c'est une bobine tesla
 and en voici une plus petite.
 
 112
 00:07:41,120 --> 00:07:45,560
-Um, nous menons un projet bobine tesla
+Nous menons un projet bobine tesla
 dans le magasine qui se trouve derrière vous.
 
 113
@@ -568,7 +567,7 @@ Sylvia’s super awesome Maker show.
 
 124
 00:08:37,960 --> 00:08:43,280
-Um, j'étais vraiment très intéressée et curieuse 
+J’étais vraiment très intéressée et curieuse 
 de comprendre comment fonctionnent les choses quand j'avais cinq ans. 
 
 125
@@ -587,7 +586,7 @@ et à quel point il était éducatif.
 
 128
 00:08:54,160 --> 00:08:56,440
-J'ai appris à soudre à l'âge de sept ans, 
+J'ai appris à souder à l'âge de sept ans, 
 
 129
 00:08:56,440 --> 00:09:00,640
@@ -1382,8 +1381,8 @@ et assister,
 
 301
 00:18:10,440 --> 00:18:12,880
-tu sais, 
-à des formations et à des gens à qui parler,
+à des formations et 
+à des gens à qui parler,
 
 302
 00:18:12,880 --> 00:18:16,120
@@ -1429,7 +1428,6 @@ Donc c’est un système très simple,
 
 311
 00:18:39,880 --> 00:18:43,640
-
 mais c’est en fait capable 
 d’imprimer la bacterie, E.coli,
 
@@ -1464,7 +1462,7 @@ dans un système confiné
 318
 00:19:02,640 --> 00:19:05,240
 qui pourrait en fait 
-permettre de nourrir les astroanutes
+permettre de nourrir les astronautes
 
 319
 00:19:05,240 --> 00:19:06,640
@@ -1504,7 +1502,7 @@ et que voulons nous restreindre,
 
 327
 00:19:28,200 --> 00:19:31,280
-et si vous ne savez pas comment ca marche, 
+et si vous ne savez pas comment ça marche, 
 
 328
 00:19:31,280 --> 00:19:34,680
@@ -1744,8 +1742,6 @@ et ensuite ils peuvent analyser les données.
 
 378
 00:22:38,640 --> 00:22:41,120
-You know I see a lot of
-my friends playing video games
 Je vois beaucoup de mes amis 
 qui jouent à des jeux vidéos
 
@@ -1775,8 +1771,8 @@ mais personne ne sait vraiment ce qui s’y trouve.
 
 384
 00:22:53,440 --> 00:22:55,120
-Une fois que nous testons effectivement ceci 
-dans l’eau
+Une fois que nous testons 
+effectivement ceci dans l’eau
 
 385
 00:22:55,120 --> 00:22:56,920
@@ -1785,7 +1781,8 @@ dans une caverne,
 
 386
 00:22:56,920 --> 00:22:58,640
-peut être que ça nous fournira des renseignements
+peut être que ça 
+nous fournira des renseignements
 
 387
 00:22:58,640 --> 00:23:01,440
@@ -1985,8 +1982,6 @@ présente beaucoup de défauts.
 
 429
 00:25:25,520 --> 00:25:27,520
-I mean the whole concept
-of being ripped off
 Le sentiment de s’être fait 
 arnaqué
 
@@ -2001,7 +1996,8 @@ Si tu as une idée,
 
 432
 00:25:31,560 --> 00:25:34,280
-tu passes souvent deux ans à protéger ton idée avec des brevets,
+tu passes souvent deux ans à 
+protéger ton idée avec des brevets,
 
 433
 00:25:34,280 --> 00:25:37,760
@@ -2109,7 +2105,7 @@ crée un objet.
 
 455
 00:27:28,120 --> 00:27:29,560
-La résine ou la matière première
+La résine où la matière première
 
 456
 00:27:29,560 --> 00:27:32,600
@@ -2151,7 +2147,7 @@ Avec une imprimantes 3D à peu près
 
 464
 00:27:52,040 --> 00:27:55,560
-tout ce qu’on conçoit est faisable. 
+tout ce qu’on conçoit est réalisable. 
 
 465
 00:27:58,160 --> 00:28:01,360
@@ -2165,8 +2161,7 @@ de la rendre accessible à tous.
 
 467
 00:28:04,640 --> 00:28:06,560
-One is the quality is getting better,
-D’une la qualité s’améliore, 
+D’abord leur qualité s’améliore, 
 
 468
 00:28:06,560 --> 00:28:08,680
@@ -2180,7 +2175,7 @@ inoxydable et titane, ou argent.
 
 470
 00:28:12,400 --> 00:28:14,720
-Et au même moment des brevets
+Et au même moment les brevets
 commencent à expirer
 
 471
@@ -2194,7 +2189,8 @@ technologies expireront
 
 473
 00:28:17,400 --> 00:28:19,160
-et plus nous en verrons de grand-public. 
+et plus nous la verrons 
+dans le grand-public. 
 
 474
 00:28:20,520 --> 00:28:22,760
@@ -2216,12 +2212,13 @@ dans différentes industries
 
 478
 00:28:28,560 --> 00:28:29,920
-like the dental industry.
-comme l’industrie de la prothèse dentaire. 
+comme l’industrie de 
+la prothèse dentaire
 
 479
 00:28:29,920 --> 00:28:31,360
-parce qu’il s’agit de la partie basse d’une mâchoire. 
+parce qu’il s’agit de 
+la partie basse d’une mâchoire. 
 
 480
 00:28:32,880 --> 00:28:36,160
@@ -2239,7 +2236,8 @@ du traitement de surface à la lumière,
 
 483
 00:28:40,120 --> 00:28:42,160
-ou le design industriel le travail de bureau d’étude. 
+ou le design industriel 
+le travail de bureau d’étude. 
 
 484
 00:28:47,360 --> 00:28:50,720
@@ -2252,7 +2250,8 @@ Les imprimantes 3D sont des outils
 
 486
 00:28:52,400 --> 00:28:54,400
-Vous savez ce sont des outils pour faire quelque chose,
+Vous savez ce sont des outils 
+pour faire quelque chose,
 
 487
 00:28:54,400 --> 00:28:56,520
@@ -2260,7 +2259,7 @@ elles ont de très bons cotés,
 
 488
 00:28:56,520 --> 00:28:58,640
-elles ont aussi de très mauvais coté. 
+elles ont aussi de très mauvais cotés. 
 
 489
 00:28:58,640 --> 00:29:02,840
@@ -2336,11 +2335,10 @@ pour beaucoup, d’y avoir accès.
 Un exemple que nous utilisons régulièrement
 est notre collaboration avec SoundCloud.
 
-
 505
 00:29:56,840 --> 00:29:59,560
 Choisissez votre chanson préférée, 
-prenez la fomre de l’onde,
+prenez la forme de l’onde,
 
 506
 00:29:59,560 --> 00:30:01,360
@@ -2377,7 +2375,7 @@ qui s’imprime en 3D.
 
 513
 00:30:20,200 --> 00:30:22,120
-Vous pouvez vous y être un maker. 
+Vous pouvez y être un Maker. 
 
 514
 00:30:22,120 --> 00:30:23,160
@@ -2385,16 +2383,13 @@ Déposez-y votre modèle,
 
 515
 00:30:23,160 --> 00:30:25,520
-you see how much it costs
-in every material we have.
 vous verrez ce que ça coute
 dans chacune des matières disponibles.
-
 
 516
 00:30:25,520 --> 00:30:28,480
 Car nous faisons payer 
-au volume de matière consommée.
+le volume de matière consommée.
 
 517
 00:30:28,480 --> 00:30:32,240
@@ -2433,11 +2428,10 @@ parce que c’est imprimé à la demande
 et il n’y a pas de coût supplémentaire 
 lié à la complexité de la personnalisation. 
 
-
 525
 00:30:49,360 --> 00:30:52,120
-Donc je pense 
-que nous sommes une usine de personnalisation de masse. 
+Donc je pense que nous sommes 
+une usine de personnalisation de masse. 
 
 526
 00:31:01,560 --> 00:31:03,280
@@ -2445,8 +2439,6 @@ Une fois que nous avons fini d’imprimer,
 
 527
 00:31:03,280 --> 00:31:06,880
-we have a block of powder basically
-in these trays.
 on se retrouve avec un bloc de poudre
 sur un chariot. 
 
@@ -2462,16 +2454,16 @@ Et c’est parce que nous en mettons autant
 530
 00:31:11,840 --> 00:31:14,200
 que nous arrivons 
-à obtenir le coùt le plus bas
+à obtenir le coût le plus bas
 
 531
 00:31:14,200 --> 00:31:16,440
-et faire de bons prix à nos clients.
+et garantir de bons prix à nos clients.
 
 532
 00:31:30,200 --> 00:31:33,680
-De la même manière 
-que nous avons vu le numérique transformer, 
+De la même manière que 
+nous avons vu le numérique transformer, 
 
 533
 00:31:33,680 --> 00:31:35,560
@@ -2483,7 +2475,8 @@ nous commençons à voir la fabrication numérique
 
 535
 00:31:37,160 --> 00:31:38,560
-transformer la manière dont les choses sont conçues. 
+transformer la manière 
+dont les choses sont conçues. 
 
 536
 00:31:38,560 --> 00:31:40,360
@@ -2516,7 +2509,7 @@ Très rigide aussi.
 542
 00:32:12,400 --> 00:32:17,280
 Mais dans l’histoire nous nous sommes 
-débarrassé de ce qui fait le mouvement maker. 
+débarrassé de ce qui fait le mouvement Maker. 
 
 543
 00:32:17,280 --> 00:32:19,760
@@ -2843,8 +2836,8 @@ un marché pour le produit.
 
 613
 00:36:44,360 --> 00:36:47,800
-Une des expressions que nous avons en fait découvert 
-sur une vidéo
+Une des expressions que nous 
+avons en fait découvert sur une vidéo
 
 614
 00:36:47,800 --> 00:36:49,200
